@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.21)  1 SEP 2023 15:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.21)  1 SEP 2023 15:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -997,11 +997,9 @@ Class revtex4-2 Warning: Assuming \noaffiliation for authors.
 
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 76.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 76.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 76.
-(/Users/fmg12/Library/CloudStorage/OneDrive-UniversityOfCambridge/Proposals/Ucompounds/Application/GroscheTrackRecord.tex
+(/Users/fmg12/Library/CloudStorage/OneDrive-UniversityOfCambridge/Proposals/Ucompounds/Application/TrackRecord.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
@@ -1013,6 +1011,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9.08293> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7.62996> on input line 5.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.9> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 5.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9.08293> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 5.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7.62996> not available
@@ -1404,18 +1404,18 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `UCase.out' has not changed.
-(rerunfilecheck)             Checksum: D1ABDBAE0E53BB71E7094D0837C66D3A;3310.
+(rerunfilecheck)             Checksum: 1EF471A01A2D94F11238E8B05E47827A;3175.
  ) 
 Here is how much of TeX's memory you used:
  27544 strings out of 478994
- 521002 string characters out of 5858184
- 858590 words of memory out of 5000000
+ 520974 string characters out of 5858184
+ 858566 words of memory out of 5000000
  44360 multiletter control sequences out of 15000+600000
  542538 words of font info for 130 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,12n,103p,1849b,1081s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on /Users/fmg12/Library/CloudStorage/OneDrive-UniversityOfCambridge/Proposals/Ucompounds/Application/UCase.pdf (9 pages, 2961625 bytes).
+Output written on /Users/fmg12/Library/CloudStorage/OneDrive-UniversityOfCambridge/Proposals/Ucompounds/Application/UCase.pdf (9 pages, 2961319 bytes).
 PDF statistics:
  546 PDF objects out of 1000 (max. 8388607)
  453 compressed objects within 5 object streams
