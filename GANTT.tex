@@ -1,0 +1,93 @@
+% !TEX root = MakeGANTT.tex
+
+% \begin{turnpage}
+%\begin{figure*}
+\begin{gantt}[xunitlength=0.55cm,fontsize=\normalsize,titlefontsize=\normalsize,drawledgerline=true]{24}{12}
+\begin{ganttitle}
+  \titleelement{'22}{2}
+  \titleelement{2023}{4}
+  \titleelement{2024}{4}
+  \titleelement{2025}{2}
+\end{ganttitle}
+\begin{ganttitle}
+    \numtitle{3}{1}{4}{1}
+    \numtitle{1}{1}{4}{1}
+    \numtitle{1}{1}{4}{1}
+    \numtitle{1}{1}{2}{1}
+\end{ganttitle}
+
+
+
+%--------------------------------------------
+%\ganttgroup{Work package 1: in-house studies}{0}{0}
+\ganttgroup{WP1, pressure and composition phase diagrams {\bf(O1)}}{0}{12}
+\ganttbar[pattern=crosshatch,color=blue]{$p>0$ CeSb$_2$, Sb-II: PW, PG1}{0}{4}
+\ganttbar[pattern=crosshatch,color=blue]{$p>0$ (Y/Lu)Fe$_2$Ge$_2$ and Ce(Pd/Ni)$_2$(Si/Ge)$_2$: PLA, PG1}{3}{4}
+\ganttbar[pattern=crosshatch,color=blue]{$p>0$ Ba-IV, Ca$_2$RuO$_4$ and others: PLA, PG1}{7}{4}
+
+\ganttbar[pattern=crosshatch,color=blue]{Composition (Lu/La/Y)Fe$_2$(Ge/Si)$_2$ {\bf(O1)}: JC, FMG, PG2}{8}{4}
+
+\ganttgroup{WP1, non-Fermi liquid signatures {\bf(O2)}}{0}{8}
+\ganttbar[pattern=crosshatch,color=blue]{$\rho(T, B, p)$ and $C(T, B, p)$ CeSb$_2$: PW, FMG, PG2}{0}{4}
+\ganttbar[pattern=crosshatch,color=blue]{$\rho(T, B, p)$ and $C(T, B, p)$ YFe$_2$Ge$_2$, CeNi$_2$Ge$_2$: FMG, PG2}{4}{4}
+
+\ganttgroup{WP1, quantum oscillation studies {\bf(O3)}}{0}{12}
+\ganttbar[pattern=crosshatch,color=blue]{QO YFe$_2$Ge$_2$, LuFe$_2$Ge$_2$, CeNi$_2$Ge$_2$: MLS, FMG, PG4+2}{0}{4}
+\ganttbar[pattern=crosshatch,color=blue]{$p>0$ QO CeSb$_2$, CePd$_2$Si$_2$: MLS, FMG, PG4+1}{4}{4}
+\ganttbar[pattern=crosshatch,color=blue]{$p>0$ QO Bi-III, Sb-II, Ba-IV: MLS, FMG, PG4+1}{8}{4}
+
+%--------------------------------------------
+\ganttgroup{WP2, joint projects and international facilities}{0}{12}
+\ganttbar[pattern=crosshatch,color=brown]{$C$, $\kappa$, TDO-$\lambda$, NMR, STS {\bf(O4)}: JC, MLS, FMG, PG3}{0}{12}
+\ganttbar[pattern=crosshatch,color=purple]{$\mu$SR, neutr., ARPES, $B>\SI{20}{\tesla}$, XRD {\bf(O5)}:: JC, FMG, PG3}{0}{12}
+\ganttbar[pattern=crosshatch,color=brown]{Analysis, theory and modelling {\bf (O6)}: Minn., FMG, GGL, JC}{2}{10}
+
+%--------------------------------------------
+
+\ganttgroup{WP3: Crystal growth, materials discovery  {\bf(O7, O8)}}{0}{12}
+\ganttbar[pattern=crosshatch,color=blue]{Improve (Y/Lu)Fe$_2$Ge$_2$, CeNi$_2$Ge$_2$, CeSb$_2$ {\bf(O7)}:: JC, PG3}{0}{5}
+\ganttbar[pattern=crosshatch,color=brown]{Structural characterisation (TEM, x-ray)
+  {\bf(O7)}: MPI, JC}{0}{4}
+\ganttbar[pattern=crosshatch,color=blue]{Related materials, composition series {\bf(O7)}: JC, PG3}{4}{5}
+\ganttbar[pattern=crosshatch,color=blue]{Prospect for new supercond. {\bf(O8)}: JC, GGL, FMG, PG3}{8}{4}
+\ganttbar[pattern=crosshatch,color=blue]{Refine comput./heuristic filters {\bf(O8)}: FMG, CP-BM, PG4}{0}{12}
+%\ganttbar[pattern=crosshatch,color=red]{New supercon. search  {\bf(O1)}: JC, PG1}{7}{5}
+%\ganttbar[pattern=crosshatch,color=green]{Improved  Tl2201  % ,
+  % thermopower, Nernst effect
+%   {\bf(O2)}: TG, JRC, BVS}{0}{5}
+%\ganttbar[pattern=crosshatch,color=green]{Hg1201 {\bf(O2)}: TG, JRC, BVS}{3}{5}
+
+%\ganttbar[pattern=crosshatch,color=violet]{Materials {\bf(O2)}: FMG, GGL, PG4}{0}{2}
+
+
+%--------------------------------------------
+%\ganttgroup{Underpinning activities: characterisation, theory}{0}{12}
+
+\end{gantt}
+
+
+\fontsize{10.9pt}{12.5pt}\selectfont
+
+
+\noindent {\bf Work plan:} 
+The project divides into in-house measurements (WP1), joint projects with partner groups (WP2) and crystal growth/discovery of new materials (WP3). Work carried out at project partners' laboratories is indicated in brown, studies at large facilities in purple, and work led by Cambridge scientists in blue.  % (ambient pressure) or green (high pressure). 
+%Underpinning activities such as detailed microscopic charactarisation (project partner MPI-CPfS) and theory development (project partner Univ. of Minnesota) will take place in parallel throughout most of the funding period. \\
+In detail, the work % on four material systems (i) Fe-based superconductors YFe$_2$Ge$_2$ and Lu$_2$Ge$_2$, (ii) moderate heavy fermion superconductors CeNi$_2$Ge$_2$ and CePd$_2$Si$_2$, (iii) ultra-heavy fermion superconductor CeSb$_2$, (iv) quasiperiodic host-guest structures Bi-III, Sb-II, Ba-IV 
+separates as follows: \\
+\ul{WP1, in-house studies} using cryomagnets and high pressure facilities in Cambridge:\\
+O1) map out magnetic, superconducting and structural transitions, identify quantum phase transitions; \\
+O2) survey non Fermi liquid properties in thermodynamic and transport measurements; \\
+O3) quantum oscillation studies at $p=0$ and high $p$ on the Cambridge 20.4 Tesla cryomagnet;\\
+\ul{WP2, collaborative projects}, scheduled in consultation with partner laboratories and facilities:\\
+O4) laboratory studies (heat capacity, thermal conductivity, penetration depth, NMR, tunnelling);\\
+O5) facilities studies of magnetic and electronic excitations (neutron scattering, ARPES, high fields);\\
+O6) theory and modelling with project partners at Univ. of Minnesota and colleagues in Cambridge carry on in parallel with experiments but respond to new results and inform the search for new materials.\\
+\ul{WP3, crystal growth and materials discovery:} \\
+O7) provide superior crystals and systematically improve quality by studying the origins of disorder.\\
+O8) search for new superconducting quantum materials in pressure-assisted high-throughput surveys guided by heuristic and computational filters (also WP 2).\\ 
+\vskip -0.5em 
+\noindent \ul{Abbreviations:} FMG = Grosche, MLS = Sutherland, GGL = Lonzarich, JC = Chen, PW = Worasaran, PLA = Alireza, PG1-4 = postgraduate students, MPI = project partners at MPI-CPfS Dresden, Minn. = project partners at Univ. of Minnesota, CP-BM = Cambridge collaborators Pickard and Monserrat.
+
+ \label{gantt}
+%\end{figure*}
+%\end{turnpage}

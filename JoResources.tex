@@ -1,0 +1,362 @@
+\documentclass[prl,a4paper,11pt]{revtex4-2}
+
+\usepackage{graphicx,mdwlist,color,wrapfig,longtable,tabularx,eurosym,gantt,soul,contour,dcolumn,epsfig,hyperref,multibib,mdframed,helvet,setspace}
+
+\usepackage[left=1.86cm,right=1.85cm,top=1.85cm,bottom=1.85cm]{geometry}
+\usepackage[normalem]{ulem}
+
+
+% Helvet font throughout
+\usepackage[T1]{fontenc}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[italic]{mathastext}
+% 'isomath' sets upper case greek letters italic in accordance with 
+% the International Standard ISO 80000-2
+\usepackage{isomath}
+
+\def\btt#1{{\tt$\backslash$#1}}
+\def\BibTeX{\rm B{\sc ib}\TeX}
+
+%\renewcommand{\textfraction}{0.1}
+%\renewcommand{\topfraction}{0.9}
+%\renewcommand{\textheight}{257 mm}
+%\setlength{\textwidth}{17cm}
+% \bibliographystyle {apsrev}
+% \setlength{\columnsep}{2.67em}
+%  \renewcommand{\subsubsection}{\@startsection
+%  {subsubsection}%                   % the name
+%  {3}%                         % the level
+% {0mm}%                       % the indent
+%  {-\baselineskip}%            % the before skip
+%  {0.0\baselineskip}%          % the after skip
+%  {\normalfont\itshape}} % the style
+%
+%\renewcommand\paragraph{%
+%  \@startsection
+%    {paragraph}%
+%    {4}%
+%    {0mm}%
+%    {0.5\baselineskip}%
+%    {-1em}%
+%    {\normalfont\normalsize\bf}%
+%}%
+%\makeatother
+
+\begin{document}
+\begin{singlespace}
+\include{definitions}
+\setlength{\columnsep}{1.9 em}
+
+\setcounter{secnumdepth}{3}
+\renewcommand \thesection{\arabic{section}}
+\renewcommand \thesubsection{\arabic{subsection}}
+\renewcommand \thesubsubsection{\arabic{subsection}.\arabic{subsubsection}}
+
+\makeatletter
+\renewcommand{\section}{%
+  \@startsection
+    {section}%
+    {1}%
+    {0mm}%
+    {\baselineskip}%
+    {0.2\baselineskip}%
+    {\bf \normalsize \centering}%
+}%
+
+\renewcommand{\subsection}{%
+  \@startsection
+    {subsection}%
+    {2}%
+    {-0.9em}%
+    {0.8\baselineskip}%
+    {.2\baselineskip}%
+    {\bf\normalsize}%
+}%
+
+\renewcommand{\subsubsection}{%
+  \@startsection
+    {subsubsection}%
+    {3}%
+    {-0.9em}%
+    {.4\baselineskip}%
+    {.2\baselineskip}%
+    {\bf\normalsize}%
+}%
+
+\renewcommand\paragraph{%
+  \@startsection
+    {paragraph}%
+    {4}%
+    {0mm}%
+    {0.2\baselineskip}%
+    {-1em}%
+    {\normalfont\normalsize\bf}%
+}%
+
+\makeatother
+\title{\em Superconducting and normal states in quantum materials}
+
+\author {% F. M. Grosche (PI), M. Sutherland (CoI), P. Niklowitz (CoI)$^*$, J. Loram (CoI), G. G. Lonzarich (CoI) \\ \vspace{0.5cm}
+% \em Cavendish Laboratory, University of Cambridge \\
+% $^{*}$Department of Physics, Royal Holloway, University of London \\
+\rm (Justification of resources)}
+
+%\maketitle
+\onecolumngrid
+\centerline{~}
+\begin{center}
+\vspace{-4em}
+{\bf Justification of resources}
+\vspace{0.5em}
+\end{center}
+\twocolumngrid
+
+%Where your Co-Is are not claiming costs, you do need to state how they are funded.
+%
+%You must split out the directly incurred costs  from facilities costs.   They should together in one paragraph as they are in the application form.  
+% \section*{Cost effectiveness}
+% \noindent
+% As outlined in the project plan, this joint proposal integrates
+% subsidiary activities distributed over the two sites. Each of these
+% activities is led by one of the investigators and involves an
+% appropriately constituted team of researchers.
+% , taking advantage of the
+% already fully funded named researchers and postgraduate students
+% (PG).
+\paragraph{Cost effectiveness:} The programme benefits from substantial prior investment in people and
+laboratory infrastructure and from a network of project partners with world-class expertise in specialised measurement and sample characterisation methods as well as theory. 
+% Key scientist
+% Dr. Sutherland, Dr. Goh and Dr. Friedemann are fully funded from,
+% respectively, a Royal Society Fellowship, a Trinity College Research
+% Fellowship and a Marie Curie Mobility Fellowship.
+%We take advantage of the supply of well-prepared postgraduate students
+%in Cambridge, where 
+We have recruited four fully funded students to
+work in this % immediate
+field of research, with two more likely to join in October 2022,
+%and we augment the Cambridge team with named researchers who have world-class expertise in intermetallic and cuprate crystal growth and high pressure techniques.
+and key equipment is already available.
+%: a
+%recently upgraded 20.4 T/single-mK cryomagnet, a 15 T/300 mK
+%cryomagnet, a cryogen-free 7 T/100 mK adiabatic demagnetisation
+%refrigerator, PPMS and SQUID low temperature measurement platforms, radio-frequency induction furnaces, arc furnaces and a
+%mirror furnace as well as numerous box and tube furnaces, including a two-zone furnace.
+Funding for this 36-month programme is needed primarily to support 
+postdoctoral research assistants totalling 1.4 FTE in crystal growth and low temperature/high pressure/high field measurements and to support collaborative research with project partners around the world.
+
+\subsection{Directly allocated costs}
+%\subsubsection{Staff}
+\paragraph{Principal investigator:}
+\ul{Prof. Grosche} will commit 15\% of his time to
+%. This covers 
+%direct involvement in 
+experimental studies in Cambridge and at central facilities, coordination of collaborative work with project partners, data analysis and dissemination of
+results as well as supervision of PDRAs.
+
+\paragraph{Pooled labour:}
+To support the technical aspects of this programme, such as
+cryogenic probe modifications, high pressure cell design and manufacture, and maintenance of our cryogenic and crystal growth equipment, 
+we require 27\% of a pooled technician.
+%, charged at the standard rate applicable in our
+%institution. 
+
+
+\subsection{Directly incurred costs}
+\subsubsection{Staff}
+\paragraph{Co-Investigator:}
+\ul{Dr. Sutherland} will commit 10\% of his time to quantum oscillation and thermal transport experiments, coordination with pro\-ject partners, instruction of PDRAs, data analysis and dissemination of
+results. He is already fully funded by a college position and requires no support from this project.
+
+\paragraph{Assistants:}
+The wide-ranging nature of this programme necessitates support from a
+postdoctoral research assistant for the full duration. We have identified a suitable PDRA, \ul{Dr. Jiasheng Chen}, who has grown the materials mentioned in the scientific case using careful and systematic optimisation of growth protocols. Dr. Chen's extensive experience in crystal growth but also in low temperature measurement as well as neutron scattering and muSR studies will ensure that the challenging programme of research will be successfully completed and that postgraduate students are trained for crystal growth and high sensitivity measurements at low temperature and in high magnetic fields. High pressure measurements form an important part of this programme. We ask for 12 months' support for a suitable PDRA, \ul{Dr. Puthipong Worasaran}, who has developed world-class skills in high pressure transport measurements during his PhD. We also ask for 10\% support over 36 months to enable \ul{Dr. Patricia Alireza,} a world-class expert in high pressure techniques and measurements, to oversee high pressure technique development and train PhD students. As an Emeritus Professor, \ul{Prof. Lonzarich} requires no support from this project.
+
+\subsubsection{Travel and subsistence}
+\noindent
+To publicise the scientific results and train students and PDRAs, two researchers will attend an overseas conference
+every year ($2\cdot 3\cdot \text{\pounds} 1,400$), and two researchers
+will visit a national or European conference or workshop every year  ($2\cdot
+3\cdot \text{\pounds}
+500$).
+
+We will visit UK or European research facilities for some of our research, benefiting from existing arrangements which guarantee full funding of travel and accommodation and thereby avoiding direct costs.
+%Quantum oscillation measurements on challenging materials such as YFe$_2$Ge$_2$ 
+%will in certain special cases require ultra-high magnetic fields only available at international
+%facilities. Similarly, we are planning to carry out neutron scattering measurements at international facilities such as ISIS (UK), MLZ (Germany) or ILL (France). 
+% Because these experiments are
+% intense and require constant presence, researchers normally have to
+% work in pairs.
+%We budget for three visits of two Cambridge researchers
+% to high field facilities ($3\cdot 2\cdot \text{\pounds} 1500$). Moreover, visits to
+%the Diamond light source for % to discuss and prepare 
+%structure determination under pressure
+%will incur total travel expenses of \text{\pounds} 600 (four short visits, one
+%researcher), and visits to neutron 
+The only exception is PSI (Switzerland) ($3\cdot$\pounds 1,000). We intend to run measurements at LNLS (Brazil) remotely.
+
+Collaborations with project partners form an important component of this project. We anticipate three visits by Cambridge researchers to collaborating groups ($3\cdot$ \pounds 1,000) and budget \pounds 1,000 for 3 weeks accommodation for visitors to Cambridge.
+
+%\subsubsection{Equipment}
+%\noindent
+%To provide capacitive torque magnetometry for quantum oscillation
+%measurements into the single-mK range and at high magnetic fields, we
+%budget \pounds 22,452.60 for a General Radio 1620 capacitance
+%bridge, which remains the gold standard for ultra-high
+%resolution and stability. It represents a worthwhile investment,
+%considering the cost of running the high field facility and its broad
+%applicability, which also includes dilatometry and magnetostriction.
+%% measurements.
+
+\subsubsection{Equipment}
+\noindent We need to replace our aging radio frequency generator, which has become so unreliable that it is holding back our crystal growth programme. We depend on it for induction heating on a water-cooled hearth in UHV-compatible conditions for stand-alone crystal growth and to produce precursors for other growth methods. Costs have come down recently, allowing us to acquire a modern transistor operated 40 kW/200 kHz Trumpf TruHeat MF 3000-40 G3 generator for \pounds 32,015.36. This reliable machine will be the new centre-piece of our  crystal growth effort.
+
+\subsection{Other directly incurred}
+\noindent
+%Other direct costs primarily arise from materials synthesis and crystal growth of intermetallics and cuprates, and from Cambridge-based low temperature/high magnetic field/high pressure measurements. 
+
+% To enable laboratory-based research over an extended
+% field range, we will commission magnetic
+% pole pieces that can extend the field range of our recently upgraded
+% 20.4 T system further to 24 T, resulting in a
+% unique laboratory facility with unparalleled, ultra-low noise access
+% to extremes of field, temperature and pressure. We will also bring to
+% bear the nuclear demagnetisation option of this cryomagnet to enable
+% high sensitivity measurements into the low mK range, providing a unique
+% instrument in a highly cost-efficient manner.
+
+% Further costs include underpinning activities such as crystal growth,
+% high pressure components and machining, as well as general lab
+% consumables.
+
+
+\paragraph{Crystal growth:}
+We employ our established equipment (arc furnaces, a mirror furnace, numerous box and tube furnaces, dedicated glove-box, glass-working station)
+%We will 
+to implement a wide range of growth methods. For this, we budget  \pounds 6,000 for raw materials (20 growths per
+year at \pounds 100 per growth), \pounds 1,500 for vacuum spares, \pounds 3,000
+for crucibles and glassware, and \pounds 2,000 for a diamond saw to
+complement our wire saw. 
+
+\paragraph{Research at extremes of field, temperature and pressure:}
+We optimise cost
+effectiveness by using a hierarchy of low-consumption cryostats
+to reduce the load on the highest field systems.  
+%We will carry out low temperature, high magnetic field, high pressure measurements in YFe$_2$Ge$_2$ and related intermetallics to (i) detect quantum oscillatory phenomena and thereby extract key information about electronic structure and carrier mass, (ii) investigate non Fermi liquid forms in electronic transport and heat capacity, (iii) search for quantum phase transitions in combined composition/high pressure studies. We will also carry out similar measurements in cuprates synthesised during this project. 
+
+%Our measurements involve a wide range of experimental methods and apparatus, including high resolution electrical and thermal transport measurements, radio-frequency tank circuit techniques, microcoil magnetic susceptibility, magnetic torque, heat capacity and magnetocaloric effect, high pressure piston-cylinder and anvil devices.
+%Further to the 20.4 T/single-mK cryomagnet, measurements platforms include a 15 T/300 mK system and a 7 T/100 mK dry adiabatic
+%demagnetisation refrigerator, as well as commercial PPMS and SQUID systems. 
+The lowest temperatures and highest fields provided by our \ul{20.4
+T/single-mK system} will be required to observe quantum oscillations in challenging
+materials with high quasiparticle masses, to investigate non Fermi liquid phenomena to the lowest temperatures and in high applied fields and to open
+up a wide parameter space for the search for novel forms of quantum
+order. We keep utilisation of this facility for this project to \ul{90 days per year} by spreading most measurements to other systems with lower helium consumption: our \ul{15 T/300 mK system} is well suited for
+electronic structure determination in clean materials with low effective carrier
+masses, and its wider magnet bore enables rotation
+studies with our larger pressure cells. A cryogen-free adiabatic demagnetisation refrigerator, which reaches
+\ul{7 T/100 mK}, offers convenient and low-cost access to
+low temperatures and moderate magnetic fields. It is well suited for electrical transport, heat
+capacity and thermal conductivity measurements over a wide
+temperature range.  Our commercial
+measurement platforms (\ul{PPMS, SQUID magnetometer}) are crucial for
+research measurements and sample characterisation and alleviate the pressure on more costly cryomagnets. Including maintenance and helium liquefaction, the cost of running these systems is about \pounds 35/day.  Thanks to their low running
+costs and near 100\% utilisation, they offer excellent value for money.
+
+
+We have recently developed \ul{multi-stage demagnetisation refrigeration modules} which offer superior cooling performance and longer hold time at base temperatures less than 80 mK. We will produce such modules to upgrade our 7T/100 mK system and to extend the capabilities of our PPMS measurement platform. These modules have significant commercialisation potential, because they can be retrofitted to wide-spread platforms such as PPMS or Heliox, which can create tangible economic impact from this project.
+
+%In order to spread the development and measurements over the three named
+%platforms, we employ standardised measurement
+%modules, which we will also take to high field laboratories for
+%certain measurements. We budget \pounds 10,000 for materials and
+%machining costs associated with the new rotatable thermal transport
+%and heat capacity modules, which -- like our high pressure cells -- we
+%will commission in a commercial workshop, after initial internal
+%design and production studies are completed.
+
+
+\paragraph{Research cryostats:} 
+The total cost of running the research cryostats will be \pounds
+116,950, of which \pounds 25,600 are directly incurred (facility costs are given below). 
+These divide up into \pounds 7,000 for 
+the \ul{20.4 T system} (\pounds 6,000 for
+maintenance, \pounds 1,000 for low temperature consumables such as
+wiring or indium),
+\pounds 3,000 for maintenance of the \ul{15 T/300 mK system}, \pounds 6,600 for the
+cryogen-free \ul{7 T/100 mK system} (\pounds 3,600 for maintenance, \pounds
+3,000 for machining and materials for the new demagnetisation module mentioned above), \pounds 6,000
+for running the \ul{PPMS} (\pounds 3,000 for maintenance, \pounds 3,000 to create the new demagnetisation module mentioned above), and \pounds 3,000 for maintenance of the  \ul{SQUID magnetometer}. 
+
+\paragraph{High pressure:}
+New, miniaturised high pressure cells will be required for quantum oscillation studies using tank circuit oscillator techniques and for magnetic or transport measurements. With their  reduced length and outer diameter of only 11 mm they fit the highest field systems at the Nijmegen HFML facility and they allow rotation studies in the Cambridge cryomagnets. We draw on our experience in pressure cell design and
+manufacture to undercut commercially available cells by a factor of ten.
+We budget for \ul{four new high pressure anvil cells} at a
+materials and machining cost of \pounds 1,800 each (including anvils). 
+
+\paragraph{Signal detection equipment, general consumables:}
+We budget \pounds 5,500 each to acquire two SR860 lock-in amplifiers, which can be moved between measurement systems for challenging measurement tasks, and \pounds 4,300 for tools and workshop materials (\pounds 300),
+%general measurement electronics (\pounds 7,500),
+a calibrated low temperature resistance thermometer (\pounds 2,000) and a batch of 20 piezoresistive cantilevers for magnetic torque measurements (\pounds 2000). 
+
+
+\subsection{Directly allocated: facilities}
+\noindent The research cryostats will incur \pounds 91,350 for helium liquefaction. The unique capabilities
+of our 20.4 T system and the prohibitive cost of replacing other 
+platforms by dry systems require the use of liquid helium.
+%Despite a troubling increase in helium liquefaction cost in recent years, largely driven by the rising price of helium gas, 
+Economy of scale allows a competitive rate of \pounds $5.00/\ell$. 
+We require \pounds 33,750 for running
+the \ul{20.4 T system} ($25 \ell$ He/day for
+90 days/year),
+\pounds 9,000 for the \ul{15 T/300 mK system} ($10 \ell$ He/day
+for 60 days/year), \pounds 32,400
+for the \ul{PPMS} ($6\ell$ He/day for 360 days per year), and \pounds 16,200 for the \ul{SQUID magnetometer} ($6\ell$ He/day for 180 days per year). 
+X-ray and microprobe sample characterisation will incur a facilities charge of \pounds 6,000 (30 days at
+\pounds 200 each). The pressure work 
+incurs facilities charges of \pounds 2,850 for clean
+room access to deposit tracks on anvil surfaces (\pounds 950 per year
+over three years), and \pounds 3,200 for using the Cavendish
+focused-ion-beam facility ($10\cdot 4$h at \pounds 80/h) for sculpting 
+and contacting samples on the  microscale. 
+
+
+
+%We also include \pounds 2,000 to cover publication charges. % Altogether, the consumables and small equipment items
+% amount to \pounds 72,000, and the facilities charges (which include
+% helium liquefaction) total \pounds 135,760.
+ 
+% \paragraph{RHUL:} The total cost of running the research cryostats at
+% RHUL will be \pounds
+%  27,920, split between a PPMS (6 $\ell$ He/day at \pounds 2/$\ell$ for
+% 360 days/year, \pounds 1,000 for maintenance) and a
+% 1T/50mK adiabatic demagnetisation refrigerator with the same consumption.
+
+% To carry out high pressure phase diagram studies, we will build five
+% new pressure cells, at \pounds 1800 each (including anvils). To facilitate sample
+% handling and pressure-cell setup, we will install a hydraulic
+% micromanipulator system, at a cost of \pounds 4,300. Some crystal
+% growth methods can be more readily carried out in RHUL than in
+% Cambridge, because of already existing installations. These include
+% vapour transport growth and higher temperature rf induction
+% melting. To support these, we budget \pounds 5,500 (\pounds 1,000 per
+% year for raw materials, \pounds 1,000 for vacuum spares, \pounds 1,500
+% for crucibles and glassware).
+
+% The development of SQUID-based detection techniques at high pressure
+% will allow ultra-sensitive magnetic susceptibility measurements at low frequencies,
+% thereby reducing the screening effect of the metallic high pressure
+% gasket. This work benefits from the extensive know-how and equipment
+% base in the ultra-low temperature group at RHUL. We budget \pounds
+% 5,340 to support this work, of which \pounds 2,340 are required for
+% occasional access to a dilution refrigerator (13 $\ell$ He/day for 30 days/year),
+% and \pounds 3,000 will be used for associated laboratory consumables
+% such as custom-built SQUID electronics and coil-sets.
+
+% Other items required for general laboratory use include tools and workshop
+% materials (\pounds 1,000), a
+% small pumping station (\pounds 2,000), a micro-saw (\pounds 5,000), and
+% general measurement electronics (\pounds 3,000). 
+
+
+\end{singlespace}
+\end{document}

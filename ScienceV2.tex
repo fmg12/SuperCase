@@ -1,0 +1,547 @@
+% !TEX root = Case.tex
+\vskip -1em
+\onecolumngrid
+\begin{center}
+%{\bf{\em \large Unconventional superconductivity in the layered intermetallic YFe$_2$Ge$_2$}}\\
+%{\bf{\em \large Unconventional superconducting and normal states in transition metal compounds -- a new generation of ultra-pure crystals}}\\
+%{\bf{\em \large Origins of mass renormalisation and unconventional superconductivity in transition metal compounds}}
+%{\bf {\em \large Superconducting and normal states in quantum materials  \\}}
+%Unconventional superconducting and normal states \\ in transition metal compounds\\}}
+%\vspace{2em}
+{ Part 2: Case for support}
+\vspace{-1em}
+\end{center}
+
+\begin{mdframed}[hidealllines=true,backgroundcolor=blue!5,innerleftmargin=5pt,innerrightmargin=5pt,innertopmargin=5pt,innerbottommargin=5pt]
+\noindent
+New materials are the lifeblood of condensed matter physics. This project combines wide-ranging experimental, computational and theoretical studies into the origins of superconductivity and the associated anomalous normal states in four novel material systems. % that represent a broad spectrum of electronic and vibrational energy scales.
+%that include (i) the new iron-based superconductor YFe$_2$Ge$_2$, now available at unprecedented purity levels that exceed the best crystals grown outside Cambridge by at least an order of magnitude, (ii) the quantum critical heavy fermion superconductor CeNi$_2$Ge$_2$, for the first time now available as high purity single crystals suitable for quantum oscillation studies, (iii) the newly discovered unconventional high pressure superconductor CeSb$_2$, which shows ultra-strong electronic correlations and an unusually high critical field that far exceeds the paramagnetic limit, (iv) quasi-periodic host-guest structures such as high pressure Sb-II and Ba-IV, which feature low-lying sliding modes that facilitate strong-coupling superconductivity. 
+Our findings will refine the criteria guiding the search for new superconductors, increasingly  targeted for  practical applications.
+\end{mdframed}
+\vspace{1em}
+\twocolumngrid
+
+%Note: include references to potential referees:  Sebastian, Balakrishnan, \\
+
+\subsection*{Prospecting for new superconductors}
+\noindent
+One of the most exciting recent developments in condensed matter research has been the
+demonstration of \myul{superconductivity in superhydrides} near room temperature but at very high pressure
+\cite{snider20,drozdov19,somayazulu19}. 
+The compressed superhydrides demonstrate the power of engineering a phonon-mediated superconducting pairing mechanism towards optimal outcomes. Further gains are possible by widening the scope towards 
+%In compressed superhydrides such as LaH\textsubscript{10}, superconductivity is mediated by dynamic deformations of
+%the crystal lattice which, because of the light mass of the hydrogen
+%atoms and the high spring constants caused by strong compression, reach
+%to very high frequencies. This approach could produce
+%high temperature superconductivity at ambient pressure, if -- like diamond -- a metastable high pressure structure could be brought back to ambient conditions. %This is not the case for LaH$_{10}$. 
+\emph{unconventional superconductors}, which harness the \myul{strong electronic
+interactions} that are also responsible for magnetism and that are
+known in some cases to reach coupling strengths equivalent to several
+thousand Kelvin. %Unconventional superconductivity in cuprates, for instance, has already produced transition temperatures $T_c$ approaching $160~\text{K}$. To optimise the effects of direct
+% electronic interactions further requires a better understanding of the underlying and often competing
+% mechanisms in these complex materials. 
+%Medium-term commercial impact will arise from new materials identified as a consequence of our research. Our experimental results will help refine numerical models that will guide the search for new superconductors with high volume applications, including those mentioned in the introduction above. 
+
+\paragraph{Unconventional superconductivity is
+rare.} Only a few material families are so far known to exhibit superconductivity
+that is not mediated by lattice deformations, or phonons, alone \cite{monthoux07,norman11}. Like rare minerals that occur in seams, these superconductors are thinly spread across the space of all accessible materials but richly concentrated within those families on which most current research is focused.
+%and our group has played a leading role in discovering several such examples \cite{mathur98,saxena00,grosche00,zou14}.
+We urgently need to find new unconventional superconductors: 
+%they present proving grounds for advanced computational techniques, generate fresh impulses that advance our understanding of superconducting quantum materials in general and thereby prepare the ground for the next discovery,  helping us formulate guiding principles -- heuristic filters needed to select promising candidate systems. 
+not only are they scientifically interesting -- with every case  studied, the guiding principles for finding new superconducting material families can be refined.
+An example of such a guiding principle is illustrated in \autoref{fig:Guiding}, namely to home in on the threshold of magnetic order. There, at a so-called  \myul{quantum phase transition}, magnetic excitations reach to low energies. They mediate a long-ranged interaction which can stabilise superconductivity with an unconventional order parameter structure %(e.g. $s_\pm$, $p$- or $d$-wave)  
+\cite{monthoux07}. Such non-phononic pairing interactions are strongly tuneable. This causes superconducting domes 
+%as in Fig.~{\ref{fig:Guiding} 
+which in some cases are surprisingly narrow, explaining why this type of superconductivity is often found not by random searches but by scanning phase diagrams systematically near the border of magnetism. % -- for which high pressure studies are well suited.
+
+
+\begin{figure}
+\includegraphics[width=\columnwidth]{Figures/cpsbfaComparison.pdf}
+\caption{{\bf Guiding principle:}  (left) High pressure phase diagram of CePd$_2$Si$_2$, showing a superconducting region attached to the 
+threshold of antiferromagnetism \protect\citesel{mathur98}. 
+In BaFe$_2$As$_2$ (right), 
+superconductivity appears when antiferromagnetic order (and an associated nematic state, not shown) is suppressed 
+under isoelectronic substitution of As by P, or by applied pressure (from \cite{hashimoto12}). Numerous Ce- and Fe-based superconductors were identified once the search focused on the threshold of magnetism.
+%With hindsight, the  observation that iron-based superconductivity often peaks near the disappearance of magnetic order, whether achieved
+%by doping or pressure, resonates with the earlier realisation that low-\emph{T}\textsubscript{c} Ce-based
+%superconductors are frequently found on the threshold of magnetism. 
+}
+\label{fig:Guiding}
+
+\end{figure}
+
+
+
+%The discovery of new unconventional superconductors often appears to happen randomly, although with hindsight some may have been anticipated. 
+%The searches that led to these discoveries were guided by theoretical principles, most prominently the exploration of quantum phase transitions. The success of these searches suggests that the time may be right for a systematic programme of exploration (\autoref{Prospecting}),
+
+
+%Importantly, however, %things are not usually as clean-cut as suggested by \autoref{fig:Guiding}, and 
+\paragraph{Real materials are complicated.} Numerous additional factors -- for instance competing interaction channels, disorder, structural transitions, the role of orbital and charge degrees of freedom -- require attention. Every such complication also represents a tuning parameter which may be used to advantage: can a combination of vibrational and magnetic excitations be engineered to boost superconductivity, for example? This defines the project plan: to boost the success rate for finding new superconducting quantum materials, we refine existing guiding principles by studying new superconductors and, importantly, also by investigating why very similar reference materials are not superconducting despite prior expectations. The search becomes increasingly precise as more superconductors are uncovered and investigated, ultimately targeting functional materials with superior useful temperature or field range, metallurgical properties, or manufacturing cost for a wide spectrum of applications.
+
+
+
+
+
+\begin{figure*}[t]
+%  \centerline{\includegraphics[width=0.95\columnwidth]{Figures/CompareKFA-YFG3b}}
+     \centerline{\includegraphics[width=1.7\columnwidth]{Figures/NewSuperconductors/NewSuperconFig}}
+
+   \caption{{\bf Material families} identified for this project, which combine an anomalous normal state %(non-Fermi liquid power-law dependence of the electrical resistivity on temperature) 
+   with unconventional or strong-coupling superconductivity. The choice of materials is motivated by our recent discoveries of unconventional superconductivity in YFe$_2$Ge$_2$, LuFe$_2$Ge$_2$ and high pressure CeSb$_2$, the realisation of the importance of sliding modes in incommensurate host guest phases such as high pressure Bi \protect\citesel{brown18} and Sb,  progress in crystal growth, which has for the first time  produced high quality crystals of the unconventional superconductor CeNi$_2$Ge$_2$, and advances in high pressure techniques. }%, required for all four systems.}% and it offers the opportunity to study the interplay between strong correlations and the superconducting state across a wide range of electronic energy scales.}
+   %(a) the new iron-based superconductor YFe$_2$Ge$_2$ (paramagnetic) and its isoelectronic sister material LuFe$_2$Ge$_2$ (antiferromagnetic below about $\SI{8}{\kelvin}$) sit on either side of a magnetic quantum critical point. (b) CeNi$_2$Ge$_2$ (PM) and CePd$_2$Si$_2$ (afm) provide an identical constellation among moderately enhanced Ce-based heavy fermion materials. (c) CeSb$_2$ undergoes a structural transition under pressure into a new structure that displays strikingly low electronic energy scale, corresponding to a record density of states enhancement among Ce compounds. Superconductivity, just recently discovered by the Cambridge group, is surprisingly robust to magnetic field, and the reentrant nature of the critical field curve (arrow) points towards a field tuned magnetic quantum critical point. (d) Bi, Sb, Ba and a number of other elements transition into an incommensurate host-guest structure at high pressure, in which strong-coupling superconductivity and anomalous normal state properties (linear $T$-dependence of the resistivity) can be attributed to an in-built low energy sliding mode.}
+    \label{fig:Materials}
+\end{figure*}
+
+\paragraph{Clean crystals for a clearer view.} Long electronic mean free paths are required to establish anisotropic forms of order, such as unconventional superconductivity, and without high quality samples, such discoveries could easily be missed. After the initial discovery, informative investigation methods such as quantum oscillation measurements require high quality samples, and the availability of clean single crystals \myul{opens the door to external collaborations} (work package 2, below). And while the added complexity introduced by disorder itself produces interesting effects, this hinders the initial understanding of already challenging phenomena. %Discovery and investigation of emergent phenomena in quantum materials benefit from high quality samples. 
+
+\subsection*{Selected material families}
+\noindent
+% Driven by this overarching objective, 
+For these reasons, our project will investigate four material systems available as \myul{high-quality single crystals}, in which discoveries and enabling breakthroughs %in crystal growth and high pressure techniques 
+have occurred as recently as last summer (\autoref{fig:Materials}):
+%Recent discoveries and advances in crystal growth and high pressure techniques enable a broad study across four material systems, which 
+%The chosen materials display common phenomena but access a wide range of electronic or vibrational energy scales  (\autoref{fig:Materials}):
+%the new \uline{iron-based superconductors} YFe$_2$Ge$_2$ and LuFe$_2$Ge$_2$, the \uline{moderate heavy-fermion superconductors} CeNi$_2$Ge$_2$ and CePd$_2$Si$_2$, the \uline{ultra-heavy fermion superconductor} CeSb$_2$ and the \uline{quasiperiodic superconductors} high pressure  Bi, Sb and Ba.
+%We will investigate four superconducting material systems  
+
+\paragraph {a) Iron-based superconductors} including the new system YFe$_2$Ge$_2$ and its relative LuFe$_2$Ge$_2$, which straddle an antiferromagnetic quantum phase transition and exhibit  an unusually high heat capacity $C$ at low temperature $T$ ($C/T \simeq 100~\text{mJ/molK}^2$), consistent with our observation of carrier mass renormalisation among the highest recorded in transition metal compounds \citesel{baglo21}. 
+% Whereas LuFe$_2$Ge$_2$ is antiferromagnetic below about $\SI{6}{\kelvin}$, its isoelectronic sister compound YFe$_2$Ge$_2$ is paramagnetic. 
+We have discovered superconductivity in YFe$_2$Ge$_2$ \citesel{zou14,chen16,chen19}, emerging out of an anomalous normal state with a %non-Fermi liquid 
+$T^{3/2}$ power-law dependence of the resistivity. 
+%The non-Fermi liquid $T^{3/2}$ form of the electrical resistivity, the pronounced effect of disorder scattering on superconductivity \cite{chen19} and theoretical studies \cite{singh14,subedi14} indicate that YFe$_2$Ge$_2$ is an unconventional superconductor. 
+More recently, we also found superconductivity in the newest generation of high purity crystals of LuFe$_2$Ge$_2$ (\autoref{fig:Materials}a). 
+These findings depended on our ability to produce ultra-high quality crystals of both materials, with purity levels in YFe$_2$Ge$_2$ exceeding those of the best samples grown outside Cambridge tenfold \citesel{chen20b}. %This new generation of crystals will enable wide-ranging multi-probe studies in both materials as well as non-superconducting reference compounds, which will be outlined below.
+
+%These are still the only Fe-based superconductors which do not contain a group-5 or group-6 element. 
+%%The covalently-bonded Ge causes stronger c-axis dispersion of electronic bands, producing more isotropic, 3D Fermi surface sheets (\autoref{FermiSurface}) than in other Fe-based superconductors.  Insights obtained in Y(Fe/Lu)$_2$Ge$_2$ will be used to refine principles that may guide the search for other unconventional superconductors. 
+%The existence of related non-superconducting materials such as LaFe$_2$Ge$_2$ and YFe$_2$Si$_2$, which are isostructural and isoelectronic to YFe$_2$Ge$_2$, offers an excellent opportunity to develop an understanding not only of what causes superconductivity in Y(Fe/Lu)$_2$Ge$_2$ but also \ul{what prevents superconductivity} in these other, superficially very similar materials.
+%
+
+\paragraph{b) Moderate heavy fermion} compounds such as CeNi$_2$Ge$_2$ and its relative CePd$_2$Si$_2$, which likewise straddle an antiferromagnetic quantum phase transition (Figs.~\ref{fig:Guiding} and \ref{fig:Materials}b) and display superconducting transitions out of an anomalous normal state \citesel{mathur98,grosche00}. %The discovery of superconductivity near the threshold of magnetism in high-pressure CePd$_2$Si$_2$ by the Cambridge group contributed materially to the adoption of the quantum phase transition paradigm. 
+%Ambient pressure studies near the quantum critical point are possible in 
+Because CeNi$_2$Ge$_2$ ($C/T\simeq \SI{400}{\milli\joule/\mol\kelvin^2}$) forms naturally close to the border of antiferromagnetism %which is accessed under high pressure in CePd$_2$Si$_2$ 
+\citesel{grosche00}, it represents an ideal starting point for multi-probe studies in the immediate vicinity of a quantum critical point.
+% and is now for the first time available as high quality single crystals thanks to growth methods developed in the YFe$_2$Ge$_2$ project. 
+%With improved pressure methodology we can now revisit CePd$_2$Si$_2$. 
+%Its isoelectronic sister compound CeNi$_2$Ge$_2$ is now for the first time available as high quality single crystals thanks to growth methods developed in the YFe$_2$Ge$_2$ project. 
+New growth methods \citesel{chen20b} for the first time deliver high quality crystals of CeNi$_2$Ge$_2$ of sufficient purity for quantum oscillation measurements.
+
+
+\paragraph{c) Ultra-heavy fermion superconductors} such as compressed CeSb$_2$, in which we have recently discovered superconductivity with a strongly enhanced upper critical field beyond the Pauli paramagnetic limit %, forming out of a highly anomalous normal state with ultra-strong electronic correlations 
+(\autoref{fig:Materials}c). CeSb$_2$ in its high pressure structure lacks  inversion symmetry around the Ce sites, which connects it with recent findings in superconducting CeRh$_2$As$_2$ \cite{khim21}.
+%Our high pressure x-ray diffraction data show that CeSb$_2$ changes into a new crystal structure at pressures exceeding $\SI{18}{\kilo\bar}$, and our low temperature measurements indicate a superconducting transition that emerges near a pressure of $\SI{28}{\kilo\bar}$ and is unusually resilient to applied magnetic field, with an upper critical field that far exceeds expectations from paramagnetic limiting. 
+%These results appear analogous to findings in the recently discovered superconductor CeRh$_2$As$_2$ \cite{khim21} and motivate a thorough investigation into the origin of superconductivity with unusually high critical field and of the unusual normal state properties in CeSb$_2$. 
+%Beyond Pauli limiting. High pressure structure and magnetic/superconducting phase diagram in CeSb2
+
+%
+%\paragraph{c) Ultra-heavy fermion superconductors} such as the high-pressure phase of CeSb$_2$, in which we have recently discovered superconductivity with strongly enhanced upper critical field, forming out of a highly anomalous normal state with ultra-strong electronic correlations (\autoref{fig:Materials}c). Our preliminary high pressure x-ray diffraction data show that the Kondo lattice compound CeSb$_2$ undergoes a transition into a new crystal structure at pressures exceeding $\SI{18}{\kilo\bar}$, and resistivity measurements indicate (i) a low-lying magnetic transition, that extrapolates to zero temperature at a pressure of about $\SI{33}{\kilo\bar}$ and (ii) a superconducting transition that emerges near $\SI{28}{\kilo\bar}$ and is unusually resilient to applied magnetic field, with an upper critical field that far exceeds expectations from paramagnetic limiting. These results appear analogous to findings in the recently discovered superconductor CeRh$_2$As$_2$ \cite{khim21} and motivate a thorough investigation into the origin of superconductivity with unusually high critical field and of the unusual normal state properties in CeSb$_2$. 
+%%Beyond Pauli limiting. High pressure structure and magnetic/superconducting phase diagram in CeSb2
+
+
+
+\paragraph{d) Quasiperiodic superconductors} such as the pressure-induced incommensurate host-guest structures in Bi, Sb and Ba, which can host a unique low frequency sliding mode because the host and guest sub-lattices cannot lock into mutual alignment. %The consequences of having a low-lying phonon branch that is only very weakly dispersive along two directions remain little explored, and the properties of electronic states in this type of aperiodic metals are incompletely understood. 
+%The lack of translational symmetry leads to unconventional vibrational and electronic excitations in this material class. 
+We have discovered signatures of a sliding mode in high-pressure bismuth, Bi-III \citesel{brown18}, including strong coupling superconductivity and a linear temperature dependence of the resistivity at low $T$  (\autoref{fig:Materials}d), which  is reminiscent of the non-Fermi liquid forms observed in strongly correlated electron systems (e.g. \autoref{fig:Materials}c). 
+%Unconventional vibrational or electronic excitations are built into incommensurate host-guest structures. 
+Similar aperiodic structures are found %not only in high pressure phases of Bi, Sb, Ba but also 
+in  Nowotny chimney-ladder systems \cite{fredrickson04} and misfit compounds \cite{wiegers96}, and they share the aperiodic nature of artificial twisted bilayer or multilayer systems. 
+%Sliding modes and related phenomena (Aubry transition, 1D phonons) can be investigated in the high pressure host-guest structures of Bi, Sb, Ba and others, as well as. 
+%The sliding mode also stabilises strong coupling superconductivity with an electron-phonon coupling constant $\lambda > 2$. 
+
+%Sliding modes in Sb-II and Ba-IV, possibility of Aubry transition. 1D phonons. Electronic states in aperiodic materials. Connection to bilayer graphene and to complex compounds, e.g. chimney-ladder systems.
+%
+%\paragraph{d) Quasiperiodic superconductors} such as the pressure-induced incommensurate host-guest structures in Bi, Sb and Ba, which can host a unique low frequency sliding or phason mode because the host and guest sub-lattices cannot lock into mutual alignment. \hl{Note that this and the lack of a FS implied by lack of translational symmetry make these superconductors unconventional automatically.} The consequences of having a low-lying phonon branch that is only very weakly dispersive along two directions remain little explored, and the properties of electronic states in this type of aperiodic metals are incompletely understood. We have discovered signatures of a sliding mode emerging in the high-pressure structure of bismuth, Bi-III \citesel{brown18}, such as a strongly temperature dependent form of the resistivity, which rises linearly at low temperatures (\autoref{fig:Materials}d), saturates below room temperature, and is reminiscent to the non-Fermi liquid temperature dependences observed in strongly correlated electron systems such as high-pressure CeSb$_2$ (\autoref{fig:Materials}c). The sliding mode also stabilises strong coupling superconductivity with an electron-phonon coupling constant $\lambda > 2$. Sliding modes and related phenomena (Aubry transition, 1D phonons) can be investigated in the high pressure host-guest structures of Bi, Sb, Ba and others, as well as in certain compounds that naturally form in incommensurate structures, such as the Nowotny chimney-ladder systems \cite{fredrickson04} and misfit compounds \cite{wiegers96}, and these naturally forming incommensurate structures have clear similarities with artificially produced twisted bilayer or multilayer systems. 
+%%Sliding modes in Sb-II and Ba-IV, possibility of Aubry transition. 1D phonons. Electronic states in aperiodic materials. Connection to bilayer graphene and to complex compounds, e.g. chimney-ladder systems.
+%
+
+%\vspace{-1em}
+
+\subsection*{Research questions}
+\noindent
+These four material families span a broad range of electronic energy scales, from the low Kelvin regime in high pressure CeSb$_2$ to thousands of Kelvin in Bi, Sb and Ba, with YFe$_2$Ge$_2$ %($\sim \SI{400}{\kelvin}$) 
+and CeNi$_2$Ge$_2$  %($\sim \SI{100}{\kelvin}$) 
+connecting the two extremes. Nevertheless, they share striking similarities, such as tunability by pressure or composition and proximity to magnetic or structural instabilities. 
+Above their superconducting transitions, they all exhibit anomalous `normal' states with a sub-quadratic temperature dependence of the electrical resistivity, signalling low-lying excitations. In Bi-III (\autoref{fig:Materials}d), this non-Fermi liquid form of the resistivity may be attributed to low-lying sliding \ul{phonon} modes, which are a built-in consequence of its quasiperiodic structure. %This illustrates the central role of soft modes for causing anomalous electronic transport properties and also for understanding strong-coupling superconductivity. 
+By contrast, \ul{magnetic} excitations that become long-lived and long-range near the threshold of magnetism likely play the dominant role in the other three material families. 
+
+Exploiting these contrasts and similarities, we will address the following \myul{key research questions}  about superconducting quantum materials:
+
+\paragraph {a) Superconducting state:} what is the symmetry of the superconducting order parameter? What causes high critical fields, in particular if they far exceed the paramagnetic limit as in high-pressure CeSb$_2$? What is the origin of residual $C/T$ in the low $T$ limit in unconventional superconductors such as YFe$_2$Ge$_2$, and can this be quantitatively attributed to impurity bound states? 
+Can we explain not only why some materials superconduct but also why other, very similar materials do not? What factors determine the variation of $T_c$ within the same material family? 
+
+%Superconducting properties will be investigated in multi-probe studies with a wide range of collaborating groups (see below), in some cases in combination with applied pressure.
+
+\paragraph{b) Anomalous `normal' state:} % out of which the superconductivity emerges:
+can we understand quantitatively the high electronic heat capacity and enhanced quasiparticle mass in heavy fermion compounds such as CeNi$_2$Ge$_2$, but also in Fe-based systems such as YFe$_2$Ge$_2$, in which it exceeds density functional theory (DFT) values by up to an order of magnitude? A breakdown of the standard model of condensed matter physics, Fermi liquid theory, can be signalled by a sub-quadratic temperature dependence of the electrical resistivity $\rho(T)$ at low temperature. 
+%Such anomalous forms of the resistivity have been observed in many materials, including cuprates, iron based superconductors such as YFe$_2$Ge$_2$ and other transition metal compounds, heavy fermion compounds, but also in 
+%Similar phenomena can also be attributed to low-lying phonon modes, for instance 
+%the high-pressure structure of Bi and the quasi-skutterudite Ca$_3$Ir$_4$Sn$_{13}$ near a structural qcp \citesel{klintberg12}. 
+Understanding this wide-spread phenomenon  (e.g. \autoref{fig:Materials}, but also other heavy fermion and transition metal compounds such as the cuprates), which often coincides with unconventional or strong-coupling superconductivity, is a fundamental challenge in condensed matter physics. 
+Are signatures of Fermi liquid breakdown confined to the immediate vicinity of quantum critical points?
+% or can they extend over regions in parameter space? 
+Can they be understood quantitatively in terms of observable low-energy excitations, or soft modes -- charge, orbital, nematic, magnetic or vibrational? How do they relate to \myul{Planckian dissipation} (e.g. \cite{bruin13,hartnoll15}) as a universal ceiling on scattering rate? 
+%We will investigate signatures of Fermi liquid breakdown in transport, magnetic or thermodynamic properties or even in quantum oscillation measurements and track them with applied field, composition and pressure. 
+
+\paragraph{c) Nature and tunability of effective interaction:} superconducting and normal state properties are controlled by the effective interaction between charge carriers, or quasiparticles. In contrast to the bare Coulomb interaction, the effective interaction can be dynamic, it can couple to spin, and it can be tuned by varying underlying material parameters. In many currently known unconventional superconductors, the interaction is predominantly magnetic \cite{monthoux07}, but different mechanisms are possible. These might involve density, valence, quadrupolar or orbital degrees of freedom, individually or in combination. How does the form of the effective interaction connect to microscopic models such as the Hubbard model for correlated metals near Mott localisation, the Kondo lattice model for 4$f$-electron heavy fermion superconductors, or the Hund's metal in some of the Fe-based superconductors \cite{georges13}? 
+%In the latter,  the electrons in the far more extended Fe $d$-states, which are forced into a high spin state, introduce strong local correlations that may be seen as analogous to Kondo lattice physics. Is this conceptual connection between rare-earth based heavy fermion compounds and the newer Fe-based superconductors helpful in understanding both material families?
+%Can the Kondo energy be tuned to zero in special cases, as proposed in scenarios of orbitally selective Mott transitions or Kondo breakdown (e.g. \cite{si01,paul07}), and what are the consequences of ultra-low Kondo scales for superconducting and normal state properties? %What is the relationship between the underlying crystalline, electronic and magnetic structure and the form of the effective quasiparticle interaction? 
+Can we understand and control the energy scales that enter these microscopic models,  and can we exploit their tunability to vary superconducting and normal state properties? 
+%At a microscopic level, rare-earth based, so-called heavy fermion superconductors are often discussed in a Kondo-lattice model in terms of the interplay between electrons in extended $s$, $p$ and $d$-states, which form broad metallic energy bands, and more localised electrons in tightly confined $f$-states, which take on properties of local magnetic moments at high temperatures or high energies. 
+%A crucial parameter in this picture is the Kondo energy scale, which sets an effective bandwidth in the low temperature limit.
+%How can aspects of the effective interaction be varied, for instance by changing composition or pressure, to affect normal state properties, the superconducting transition temperature $T_c$ or critical fields?   
+
+
+
+\subsection*{Programme and Methodology}
+\noindent
+The research programme capitalises on the group's recent breakthroughs in the four material systems listed above. %, namely the discovery of superconductivity in YFe$_2$Ge$_2$, high-pressure CeSb$_2$ and LuFe$_2$Ge$_2$ and advances in crystal growth and high pressure techniques. %It is imperative to capitalise on these discoveries via a wider spectrum of measurement techniques. 
+In three work packages, it combines in-house experiments, joint projects with external partners, and materials growth and discovery.
+%expertise and facilities in high pressure, low temperature, high field measurements and crystal growth with specialised expertise and facilities of external expert partners to enable multi-probe studies that together have the power to resolve the questions listed above. 
+
+
+
+
+
+% (ii) what mechanism could
+%explain the $T^{3/2}$ form of the electrical
+%resistivity, which deviates from the Fermi-liquid
+%\emph{T}\textsuperscript{2} dependence, 
+%similar to the situation in
+%(K/Rb/Cs)Fe$_2$As$_2$, 
+%(iv) why, in summary,
+%are the bulk properties of YFe$_2$Ge$_2$ so
+%similar to many of those of (K/Rb/Cs)Fe$_2$As$_2$ , %(e.g. \autoref{fig:HCYFGKFACompare}),
+%despite the fact that the Fermi surface geometry of
+%YFe$_2$Ge$_2$ is much more isotropic (3D) than
+%the very anisotropic (2D) Fermi surface sheets in
+%(K/Rb/Cs)Fe$_2$As$_2$? % (\autoref{FermiSurface})?
+
+
+%\paragraph{Objectives in WP2, normal state properties}
+\subsubsection*{Work package 1 (WP1): in-house studies}
+\noindent
+These exploit our expertise and facilities in high precision transport, magnetic and thermodynamic measurements under extreme conditions of hydrostatic pressure (piston-cylinder and anvil cell devices, reaching up to $\SI{>100}{\kilo\bar}$), magnetic field (up to $\SI{20.4}{\tesla}$) and low temperature (down to $\SI{<0.03}{\kelvin}$ in this project). We will continue to refine and extend experimental methods, with particular emphasis on high pressure temperature modulation calorimetry and quantum oscillation measurements  \citesel{friedemann16,semeniuk22}. %In-house studies will focus on:
+
+
+
+\paragraph{Quantum phase transitions and phase diagrams:} 
+%in many correlated electron systems, superconductivity and non-Fermi liquid transport properties are closely
+%connected to the threshold of magnetism, also called a magnetic quantum
+%phase transition, or -- if the transition is second order -- a quantum
+%critical point. 
+%YFe$_2$Ge$_2$ does not order magnetically, but could there be magnetic order close by, and would this
+%be associated with the magnetic fluctuations observed in neutron
+%scattering? LuFe\textsubscript{2}Ge\textsubscript{2}
+%displays spin-density wave order below $9~\text{K}$. Replacing lutetium with yttrium \cite{ran11} suppresses this further, indicating a \ul{quantum phase transition}  at intermediate composition, where
+%\emph{T\textsubscript{c}} would be expected to peak, if the effects of disorder scattering could be ignored. Hydrostatic pressure offers an additional tuning parameter. 
+the power of mapping out pressure and composition phase diagrams is illustrated in \autoref{fig:Guiding}. We will examine the role of magnetic quantum phase transitions by joint pressure and composition tuning within the space spanned (i) by YFe$_2$Ge$_2$/LuFe$_2$Ge$_2$ and related compounds, such as
+LaFe\textsubscript{2}Ge\textsubscript{2}, YFe\textsubscript{2}Si\textsubscript{2}, and CaFe\textsubscript{2}Ge\textsubscript{2}, and (ii) by CePd$_2$Si$_2$/CeNi$_2$Ge$_2$. In CeSb$_2$, measurements at high pressure and in high magnetic fields will examine the interplay between superconductivity and a low-lying magnetic transition, and investigate the pressure dependence of the surprisingly high upper critical field, which far exceeds Pauli limiting. In quasiperiodic materials (high-pressure Bi, Sb and Ba), we will scout for structural instabilities such as chain-melting (disordering of one of the sublattices) or the incommensurate-to-commensurate \ul{Aubry transition,} of which we have seen indications already in high-pressure Sb. 
+%, and we will explore \myul{quasiperiodic compounds} such as the Nowotny chimney-ladder compounds. %, and follow up by high pressure diffraction experiments.
+
+\paragraph{Non Fermi liquid signatures} will be surveyed using high-precision thermodynamic and transport measurements across pressure, magnetic field and temperature in all four material systems, in order to pin down the regions in the phase diagram where they extend to lowest temperature and correlate them with quantum critical phenomena arising from nearby ordered states. The role of disorder will be examined in samples of varying purity levels. %Of central importance is the precise determination of anomalous power-law exponents in the form of $\rho(T)$. 
+%All the materials presented in \autoref{fig:Materials} display a low temperature $\rho(T)$ that violate the standard Fermi liquid form. 
+In YFe$_2$Ge$_2$, $\rho(T)$ takes a non-Fermi liquid form at low $T$, but the observed strong quantum oscillations are interpreted in terms of Fermi liquid quasiparticles \cite{baglo21}. %, suggesting that  applies, at least in high magnetic fields. 
+This presents a paradox which invites closer examination using transport measurements and quantum oscillation experiments at low applied fields (see also below).
+The absolute scale of the electrical resistivity will be compared to expectations from the hypothesis of Planckian Dissipation, which assumes that scattering rates are limited to a universal ceiling of $k_B T/\hbar$ in strongly correlated materials.
+%We will also investigate a range of samples with different
+%residual resistivity in order to examine the influence of impurity
+%scattering on the temperature dependence of the resistivity.
+
+%our observation of  anomalous power-law temperature dependences of the electrical
+%resistivity in several quantum materials of interest (e.g. \autoref{fig:Materials}) violates the standard model
+%of metals, Fermi liquid theory.  
+%and determine the range of validity
+%of the \emph{T}\textsuperscript{3/2} form in temperature, field and pressure. 
+%We will also investigate a range of samples with different
+%residual resistivity in order to examine the influence of impurity
+%scattering on the temperature dependence of the resistivity.
+%\hl{Planckian dissipation}
+
+
+
+\paragraph{Fermiology:}
+key input for any
+theoretical description derives from the observation of quantum oscillations in high magnetic fields, a precise signature of the electronic Fermi surface and
+carrier mass. Ambient pressure and high pressure quantum oscillation surveys will be carried out on all four materials systems.
+Studies on the Cambridge 20.4 Tesla/dilution refrigerator cryomagnet will be augmented by measurements up to 37 Tesla at the HFML Nijmegen facility.
+%In YFe$_2$Ge$_2$ and CeNi$_2$Ge$_2$, we
+%have already observed 
+%de Haas-van Alphen quantum
+%oscillations, . 
+%The fact that quantum oscillations could be observed despite non-Fermi liquid signatures in resistivity data presents a paradox which invites closer examination. 
+In YFe$_2$Ge$_2$ \citesel{baglo21}, LuFe$_2$Ge$_2$ and CeNi$_2$Ge$_2$, we have already observed de Haas-van Alphen quantum oscillations, extending to fields as low as $\SI{3}{\tesla}$ in the latest generation of YFe$_2$Ge$_2$ crystals (\autoref{fig:Highlights}). With further optimisation, quantum oscillations can be tracked to even lower fields, opening up the rare opportunity to investigate a range in which transport measurements suggest non-Fermi liquid behaviour (above). 
+%High pressure quantum oscillation surveys will also be used to investigate the unusual normal state properties in CeSb$_2$ and in quasiperiodic materials.
+
+\objective{Explore the phase space
+surrounding YFe$_2$Ge$_2$, CeNi$_2$Ge$_2$ and CeSb$_2$ in high pressure and chemical substitution studies. Search for structural instabilities in quasiperiodic high-pressure phases of Bi, Sb and Ba.
+%and thereby to
+%correlate normal and superconducting state properties with changes in
+%the electronic structure.
+\\}
+\objective{Survey non-Fermi liquid signatures in all four material systems using high precision temperature sweeps into the milli-Kelvin range, in fields up to $\SI{20}{\tesla}$ and pressures up to $\SI{100}{\kilo\bar}$.\\}
+\objective{Resolve the Fermi surface and carrier mass in YFe$_2$Ge$_2$, LuFe$_2$Ge$_2$ and CeNi$_2$Ge$_2$ by quantum oscillation surveys, extending later to high pressure and related materials.\\}
+\vspace{ -1.0em}
+
+\subsubsection*{WP2: collaborative projects}
+\noindent
+Joint projects with expert project partners have been arranged (see also letters of support), and in most cases  work has already begun. 
+
+
+% that will allow us to approach this question from different, complementary directions:
+\begin{leftlist}
+%\setlength{\itemsep}{0.1\baselineskip}
+\item
+  Specific heat and dilatometry -- Dr. Brando and Prof. Mackenzie (MPI CPfS Dresden, Germany)
+\item
+  Thermal conductivity -- Prof. Hill (University of Waterloo,
+  Canada)
+\item
+  Penetration depth using radio-frequency methods, ultra-high pressure transport and Raman spectroscopy -- Profs. Carrington and Friedemann (University of Bristol)
+  %Prof. Yuan (Zhejiang University, China)
+\item
+  Penetration depth using muon spin rotation spectroscopy, magnetic fluctuations using neutron scattering -- Dr.
+  Adroja (Rutherford Appleton Laboratory), beamtime awarded at MLZ Munich
+\item
+ Angle-resolved photoemission spectroscopy (ARPES) -- %Prof. Dessau (Univ. of Colorado at Boulder), 
+ Prof. Chang (Zurich University, Switzerland), beamtime already awarded at Swiss Light Source
+\item
+  Nuclear magnetic resonance -- Prof. Ishida (Kyoto University,
+  Japan)
+\item
+  Scanning tunneling spectroscopy -- %Prof. Yazdani (Princeton University, USA), 
+  Prof. Suderow (Madrid University, Spain)
+ \item
+  Quantum oscillation measurements at ultra-high magnetic fields -- Dr. McCollam (HFML Nijmegen, Netherlands), magnet time already awarded at HFML
+% \item   High pressure x-ray diffraction for structure determination -- Dr. Loa (CSEC Edinburgh, UK)
+  \item
+High resolution single crystal x-ray diffraction and electron microscopy to characterise crystalline disorder and defects -- Prof. Grin (MPI CPfS Dresden, Germany)
+\item 
+High pressure x-ray diffraction -- Dr. Grockowiak (LNLS Campinas, Brazil)
+
+\item
+ Theory of superconducting order parameter structure and anomalous normal state properties -- Prof. Chubukov (University of Minnesota, USA)
+\item
+ High throughput numerical searches for new superconducting quantum materials -- Prof. Pickard, Dr. Monserrat (University of Cambridge) 
+
+\end{leftlist}
+
+\noindent
+These projects complement in-house studies listed in WP 1 and address additional topic areas:
+ 
+\paragraph{Superconducting states:}
+combining a wide range of specialised experimental techniques (listed above)  will help resolve the gap structures in YFe$_2$Ge$_2$, LuFe$_2$Ge$_2$, CeNi$_2$Ge$_2$ and high-pressure CeSb$_2$. Analysis will incorporate the role of impurity bound states, which for a sign-changing gap produce distinct signatures in  all low $T$ properties, by numerical studies as in \cite{bang17} and by varying the impurity level.
+
+\paragraph{Excitations:}
+%Electronic structure determination will be complemented by 
+neutron scattering studies will map out the \myul{magnetic fluctuation
+spectrum} and thereby inform theories for the superconducting pairing mechanism in YFe$_2$Ge$_2$ and CeNi$_2$Ge$_2$ and for normal state heat
+capacity \cite{hayden00} and transport properties. 
+%Secondly, we will
+%search for the low energy spin-resonance within the superconducting state, which has been observed in many
+%iron-based superconductors and represents a hall-mark of a
+%sign-changing gap function (see also below). 
+Initial studies in YFe$_2$Ge$_2$ have already been completed  on LET at ISIS/RAL and Thales at ILL Grenoble, %(see coaligned crystals in \autoref{NewCrystals}), 
+and beamtime on PANDA at MLZ Munich has been approved. \ul{Electronic excitations} will be probed by ARPES (beamtime at SLS awarded) and in quantum oscillation measurements to ultra-high magnetic fields at HFML Nijmegen (two weeks magnet time awarded). The \myul{phonon spectrum} in quasiperiodic materials will be studied by high pressure Raman spectroscopy.
+%and the experiment is expected to take place in early 2020.
+% both in the normal and superconducting
+%state.
+
+\paragraph{Theoretical and computational studies:}
+Results arising in WP1 and 2 will feed into work by theorists in the UK and abroad, including project partner Chubukov listed above. %, a world-class expert in the theory of unconventional superconductors and quantum critical phenomena. 
+The resulting insights will help refine the filters used to select new candidate materials in collaboration with Cambridge colleagues Pickard and Monserrat. A heuristic filter consisting of guiding principles (e.g. proximity to threshold of magnetism, layered materials, bad-metal behaviour in electrical resistivity indicating strong correlations) will be complemented by a computational filter.
+Without aspiring to an accurate description of unconventional superconductivity, this computational filter will boost the search success rate by combining ab initio calculations of the electronic structure with phenomenological models for the magnetic fluctuation spectrum to examine trends for magnetically mediated superconductivity within Eliashberg theory, as outlined  in \cite{monthoux07}.  
+
+%Further to these, we will build on our earlier study of the influence of disorder scattering on superconductivity \citesel{chen19} by tracking the
+%transition in high-purity crystals as they are progressively
+%damaged by electron irradiation. 
+
+%, and we will investigate the consequences of
+%applied uniaxial strain on the heat capacity signature of the
+%superconducting transition.
+%and we will work with colleagues at MPI-CPfS
+%Dresden to investigate thermal expansion and magnetostriction, as well as anisotropic electrical transport in
+%focused-ion-beam machined crystals.
+
+%\paragraph{Objectives in WP3: superconductivity}
+%\objective{Probe the superconducting state with numerous complementary techniques in order to resolve the superconducting order parameter structure.\\}
+%\objective{Resolve the magnetic excitation spectrum by inelastic neutron scattering.\\}
+%\objective{Develop a theoretical understanding of superconductivity in all four material systems.}
+
+%
+% \subsubsection*{{\bf WP2:} Collaborative measurements and large facilities }
+%\noindent 
+\objective{Probe the superconducting states in all four material systems with complementary techniques in order to resolve the superconducting order parameter structure.\\}
+\objective{Resolve magnetic, electronic and vibrational excitations by neutron scattering, ARPES, ultra-high field quantum oscillation measurements and Raman spectroscopy.\\}
+\objective{Develop a theoretical understanding of superconductivity and of anomalous normal state properties in all four material systems.}
+
+
+
+\subsubsection*{WP3: crystal growth and materials discovery}
+\noindent
+%The discoveries summarised in \autoref{fig:Materials} build on our group's recent progress in high-purity crystal growth and high pressure techniques. In this work package, we will employ and refine these techniques and conduct systematic searches for new superconducting quantum materials. 
+%\paragraph{New ultra-pure crystals generate new opportunities.}
+Crystal quality plays a central role in the discovery of new collective phenomena in quantum materials. %, in particular in unconventional superconductors.
+%Initial studies of the superconducting properties of YFe$_2$Ge$_2$ revealed the importance of achieving long electronic mean free paths. 
+Bulk superconductivity was only observed in YFe$_2$Ge$_2$ after \myul{systematic improvements} in sample quality \citesel{chen16,chen19}, culmi\-nating in the introduction of a new growth method \citesel{chen20b}. %which introduced horizontal flux-growth. 
+The resulting crystals
+exhibit a residual resistivity ratio %$RRR$, a key quality indicator,
+ \myul{$RRR\simeq 650$}, an order of magnitude higher than the best values
+reported outside Cambridge. The same approach can be used for growing superior single crystals of \myul {CeNi$_2$Ge}$_2$. Preliminary tests have produced samples with $RRR >100$, exceeding the quality of the best previously grown CeNi$_2$Ge$_2$ crystals by at least a factor of five and clean enough to allow us, for the first time, to observe quantum oscillations in this key material. % as part of an exploratory first experiment. 
+%This new generation of crystals finally opens the door for a comprehensive programme to  resolve the superconducting gap structure and investigate the strongly correlated normal state of YFe$_2$Ge$_2$ and isoelectronic and isostructural LuFe$_2$Ge$_2$. 
+%, within the wider context of iron based superconductors in particular and correlated electron unconventional superconductivity more generally.
+
+
+\paragraph{Crystal growth:} YFe$_2$Ge$_2$, LuFe$_2$Ge$_2$, and CeNi$_2$Ge$_2$ will be grown using our carefully optimised horizontal liquid transport method  in a two-zone furnace \citesel{chen20b}.   We will further improve our flux growth protocol for high-quality crystals of CeSb$_2$, which already achieve $RRR>100$. The elements Bi, Sb, and Ba for studies of quasiperiodic superconductors are available commercially.
+
+%The growth programme will widen to include other Fe-based intermetallics such as LaFe$_2$Ge$_2$, YFe$_2$Si$_2$, and CaFe$_2$Ge$_2$ as well as their composition series with YFe$_2$Ge$_2$. 
+\vspace{0.5em}
+\noindent 
+We will widen our  programme
+\begin{leftlist}
+\item to other Ce-based Kondo-lattice systems such as CePd$_2$Si$_2$ (\autoref{fig:Guiding}), the ferromagnet CeAgSb$_2$ \cite{logg13}, of which we have recently grown crystals with $RRR>180$ and the antiferromagnet CeAl$_2$.
+%Both CeAgSb$_2$  and CeAl$_2$ have critical pressures of about $\SI{35}{\kilo\bar}$, now well within the range of our high pressure measurements.
+ %We will continue to improve this technique by using higher quality starting materials, by tuning the growth protocol and by optimising the annealing procedure. 
+\item   to  other Fe-based intermetallics such as LaFe$_2$Ge$_2$, YFe$_2$Si$_2$, and CaFe$_2$Ge$_2$ as well
+as their composition series with YFe$_2$Ge$_2$, and 
+\item to 
+ other material families of current interest, including the high pressure superconductor MnP \cite{cheng15} and the Kagom\'e lattice  superconductors (K/Rb/Cs)V$_3$Sb$_5$ \cite{ortiz21}, which have already been grown in our lab, as well as the ruthenate high pressure superconductor Ca$_2$RuO$_4$ \cite{alireza10}. %\hl{note also Nowotny phase work}
+\end{leftlist}
+When flux growth is not productive, we use cold-crucible arc or %polycrystals will be
+induction melting, and we will
+explore Czochralski and Bridgman growth for single crystal production. We will continue to improve these techniques by using higher quality starting materials, by tuning the growth protocol and by optimising the annealing procedure.  
+
+
+\paragraph {Sample characterisation} will involve powder and
+single-crystal x-ray diffraction as well as electron microprobe analysis,
+and the determination of magnetic, thermodynamic and transport
+properties using our dedicated
+SQUID magnetometer and PPMS (both with $^3$He inserts).  
+As part of WP2, more detailed investigation of the nature of disorder and impurities will be carried out in collaboration with project partner Juri Grin  at MPI-CPfS Dresden, using high resolution single crystal x-ray diffraction and electron microscopy.
+
+
+\paragraph{Materials discovery:}
+we will follow up fresh opportunities in targeted searches for altogether new unconventional superconductors. %Systematic studies on the material systems already at the centre of the proposal will inspire targeted searches: 
+For instance, can we expect to hit a quantum critical point in high pressure studies of YFe$_2$Si$_2$ or LaFe$_2$Ge$_2$, mentioned above? Can we extend insights from Fe-based systems to Mn, Ni, Co or Ru-based materials? Can we find relatives to high-pressure CeSb$_2$? 
+\myul{Pressure-assisted high throughput surveys} play a central role in these searches, as in previous discoveries (e.g. Figs.~\ref{fig:Materials}b-d). % by leveraging the power of computation.
+Further acceleration is possible  by more accurate selection of candidate materials, for which we will increasingly complement heuristic filters by numerical calculations with collaborators (see also WP2).  
+
+
+%Further to seeking out materials with nearby magnetic order, other filter criteria could be (i) moderately enhanced low temperature heat capacity, (ii) high room temperature resistivity, (iii) layered structure, and (iv) potential for making pure samples.
+
+
+
+
+%\paragraph{Objectives in WP1, Crystal growth}
+\objective{Further improve the quality of YFe$_2$Ge$_2$, CeNi$_2$Ge$_2$ and CeSb$_2$ crystals by studying the origins of disorder in these material systems, and grow superior crystals for studies of superconducting and normal states. Grow related systems and substitution series to map out composition phase diagrams.}\\
+%\objective{Grow high-quality crystals of Tl$_2$Ba$_2$CuO$_{6+\delta}$ and HgBa$_2$CuO$_{4+\delta}$ for measurements exploring the phase diagram and the evolution of electronic properties.}\\
+\objective{Explore new superconducting quantum materials in pressure-assisted high-throughput surveys guided by heuristic and -- increasingly -- computational filters (also WP 2).}\\
+
+\vspace{-1em}
+\subsection*{Plan of work, management,
+risks}
+\noindent
+The experimental, theoretical and computational expertise of numerous UK and international partners complements our strengths in materials growth, exploration and discovery as well as high pressure, high magnetic field measurements. 
+%generate new insights into the origins of superconductivity and non-Fermi liquid states 
+%that will assist the search for new superconducting material families, ultimately with superior properties for practical applications.
+%in Fe-based materials, moderate and ultra-heavy Kondo-lattice materials and quasiperiodic host-guest structures.
+
+% and related transition metal
+%compounds more generally, 
+%We also expect new insights on the origin of the wide variation of $T_c$ within material families such as the iron-based superconductors. 
+%These insights will assist the search for entirely new superconductors, ultimately with superior properties for practical applications. % such as elevated $T_c$, critical field, improved metallurgy or simply lower manufacturing cost.
+
+%Resolving these questions in YFe$_2$Ge$_2$ may furthermore shed new light on Ce-based superconductors such as CeCu$_2$Si$_2$, which have recently come under renewed scrutiny \cite{yamashita17} \hl{(link to next two sections)}.
+
+\paragraph{Plan of work:} the attached chart outlines the project schedule, which is organised along the three work packages (WP 1) in-house measurements (Grosche, Sutherland, Worasaran, Alireza), (WP 2) collaborative measurements  (Chen, Grosche) with associated theory (Chubukov) and numerical studies (Monserrat, Pickard), and (WP 3) crystal growth and materials discovery (Chen). Analysis and interpretation accompanying these activities will be coordinated by Grosche and Lonzarich.  We will schedule in-house measurements according to urgency and sample availability. We will start with CeSb$_2$ and  high pressure Sb-II, to be followed by the iron-based superconductors, then CeNi$_2$Ge$_2$/CePd$_2$Si$_2$, and then materials requiring higher pressures, such as Ba-IV or Ca$_2$RuO$_4$. Collaborative measurements follow the scheduling of our project partners, some of whom have already initiated exploratory studies.
+
+\paragraph{Management:} 
+%Responsibilities within the core team are clearly separated, as listed above. 
+the core team is located in
+the same laboratory. %its work can be coordinated by weekly group meetings. 
+Selection of materials, contingency planning and new
+opportunities will be decided during weekly group meetings or,
+in case of urgency, at additional impromptu meetings.  Collaborative
+work with multiple project partners can carry on in parallel and will
+be coordinated via long-distance communications. 
+%Some projects, in particular cuprate crystal growth, require visits to Cambridge by Bristol collaborators, whereas others 
+Visits to collaborating groups will be
+prepared by the investigators concerned and finalised in the weekly 
+meetings.
+
+\paragraph{Risks and rewards:} we have carefully considered the risks and
+rewards of our ambitious proposal and conclude that they are
+adequately balanced. Risks are mitigated by (i) the spread of
+projects, which range from immediately achievable to extremely
+challenging, (ii) our combined experience over many years of research
+and the state-of-the-art capabilities of our facilities, (iii) the large
+and expanding pool of materials that can be investigated, (iv) the
+great diversity of quantum phenomena of theoretical and practical
+interest that are expected to arise beyond those discussed above.
+
+%\vspace{-0.5em}
+
+
+\subsection*{National importance}
+\paragraph{Societal and economic impact:}
+the superhydride discoveries show that the technological benefits of superconductivity are not fundamentally limited to low temperatures. 
+New superconducting materials with superior properties, be it transition temperature,
+critical magnetic field, metallurgy or cost, 
+can unlock transformative impact, often with particular relevance to sustainability or health: 
+(i) powerful magnets already used in MRI scanners, % (a multi-billion pound market \cite{stfc16}), 
+\myul{fusion}  (ITER), and accelerators (LHC), requiring  thousands of tons of high critical field superconducting wire; 
+(ii) lightweight generators already used in wind turbines and motors/generators now examined for use in airplanes;   
+(iii) radio-frequency and microwave devices such as exceedingly sharp, low-noise filters for base stations of radio communications systems; 
+(iv) ultra-fast, ultra-low-power electronics with applications in communications and computing, where traditional electronics is reaching its performance limits; 
+(v) solid-state based quantum computing such as Google's ``quantum supremacy" breakthrough.
+
+%In this project, we investigate the fundamental science underlying unconventional superconductivity in Fe and Cu based materials. 
+The project will prepare the ground for a systematic exploration of new unconventional superconductors, and likely serendipitous discoveries carry the potential for entirely unanticipated new technologies. 
+% Supporting our research plan places the UK at the heart
+%of innovation in the field.
+%Successful UK high technology enterprises such as Oxford
+%Instruments, Cryogenic, IceOxford have the size, expertise and
+%customer-base to implement advances in refrigeration technology. 
+Further impact arises from the advanced training our graduate students and PDRAs receive in condensed matter physics and methodology. This
+work contributes to the UK effort in a key scientific area and feeds new materials and techniques as well as skilled problem-solvers and
+entrepreneurs into our emerging network of high technology instrument
+makers.
+
+
+\paragraph{Academic beneficiaries:}
+This project contributes to the \uline{strong UK research in quantum materials}. It connects with work on cuprate and iron-based superconductors in \myul{Bristol and Oxford}, uranium-based superconductors and high pressure research in \myul{Edinburgh}, non-centrosymmetric superconductors, organic superconductors and topological materials in \myul{Warwick}, ruthenates and other 2D materials in \myul{St. Andrews} and \myul{Birmingham}, and Yb-based superconductors at \myul{RHUL}, with theory work at \ul{Bristol, Oxford, Kent, Loughborough, Birmingham, KCL, RHUL, UCL and Cambridge}, and with numerous other quantum materials research initiatives throughout the UK.   
+%The UK condensed matter research community, in which the proposed research is embedded, is vibrant and successful. 
+%To maintain a leading position within
+%a very strong international field, and 
+Motivated by  
+the high scientific and economic impact of quantum materials research, leading industrial nations have
+invested heavily in this field, notably the USA, China, Japan and the
+other large European countries. 
+To ensure that the UK 
+can benefit from any breakthroughs and know-how arising, we must push
+forward with ambitious research programmes which leverage existing
+strengths. The project falls within the EPSRC research areas {\em Condensed matter: electronic structure} and  {\em magnetism and magnetic materials} as well as {\em Superconductivity}, and within the EPSRC themes {\em Physical Sciences}  and {\em Energy}. It is relevant to the Physics Grand Challenges {\em Emergence and physics far from equilibrium} and 
+{\em Quantum physics for new quantum technologies.} 
+%Bristol (Carrington, Hussey, Hayden, Friedemann, Annett) and Oxford  (A. Coldea, R. Coldea, Boothroyd), uranium-based superconductors in Edinburgh (Huxley), non-centrosymmetric superconductors, organic superconductors and topological materials in Warwick (Balakrishnan, Lees, Goddard, Petrenko), as well as theory work at Kent (Quintanilla), Loughborough (Betouras), Birmingham (Schofield), KCL (Bhaseen), RHUL ( and UCL (Green)
+
+%The diversity of electronic states in quantum materials, their reach into practicable temperature regions and their tunability can lead to new technologies. 
+%Foremost among these is superconductivity, a macroscopic quantum phenomenon with multiple applications: 
+%The recent discovery of superconductivity near room temperature in high pressure LaH10 demonstrates that cryogenic temperatures are not a fundamental prerequisite for superconductivity, if materials with sufficiently strong attractive electronic interactions can be identified. 
+%For next-generation superconducting magnet technology -- needed, for instance, in MRI magnets, highly efficient generators and particle accelerators -- cuprate superconductors offer step improvements in peak field and operating temperature, whereas  Fe-based superconductors may have the advantage in terms of manufacturing cost. 
+
+%Can other technologically relevant parameters be likewise improved, given the right materials?
+
+
+
+
+
+
+
+
+\vspace{-1.0em}
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "Case"
+%%% End: 
+
+

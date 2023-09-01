@@ -1,0 +1,21 @@
+Our research addresses long-standing questions of fundamental interest:
+
+(i) What is the superconducting gap structure and the underlying pairing mechanism in iron-based superconductors? 
+This has profound impact across the discipline. It will improve our ability to model unconventional superconductors theoretically and thereby will accelerate the search for new unconventional superconductors with technological applications.
+
+(ii) What is the origin of strong correlations in Fe-based superconductors? 
+This will advance our understanding of strongly correlated materials generally. It will be relevant for other transition metal compounds and can provide guiding principles towards new quantum materials with tailor-made electronic properties.
+
+(iii) How do carrier concentration and carrier mass evolve across the cuprate phase diagram at low temperature?
+This has direct implications for our understanding of the pseudo-gap, arguably the most controversial issue surrounding cuprate superconductivity.
+
+We will investigate these questions with multiprobe measurements in Cambridge-grown high-quality crystals. Much of the work will take place at collaborating groups. Foremost among these, cuprate crystals will feed directly into ongoing projects of our project partners at the University of Bristol. Other confirmed collaborations involve academics at: Max-Planck-Institute for Chemical Physics of Solids (MPI-CPfS)/Germany (project partner; ultra-low temperature heat capacity, thermal expansion), University of Waterloo/Canada (thermal conductivity), Zhejiang University/China (penetration depth), Rutherford Appleton Laboratory/UK (muSR), Kyoto University/Japan (NMR), and Princeton University/USA (scanning tunneling spectroscopy). 
+These single-disciplinary collaborations offer the most effective way towards a comprehensive investigation of low temperature superconducting and normal states. The project will also involve interdisciplinary cooperation with the solid state chemistry group at MPI-CPfS/Germany in order to clarify the nature of crystalline imperfections. Moreover, we will pursue theoretical modelling with our project partner at University of Minnesota/USA. 
+
+All of these groups will be direct academic beneficiaries of this project. 
+
+The global research community in this field is very active, as evidenced by the biannual M2S conferences (typically 700-800 contributions) and the annual SCES conferences (typically 500-600 contributions). UK groups have a strong track-record of world-leading research in this field. The project directly benefits experimental groups working on Fe-and Cu-based superconductors (Bristol, Oxford). In the wider context of unconventional superconductivity, our work connects with research in Edinburgh (uranium compounds), Warwick (organics and superconductors with broken time inversion symmetry), St. Andrews (oxides) and Royal Holloway (Yb-systems). Our materials discovery and growth produces new high quality crystals which can feed into the work of these and other groups world-wide. New experimental methods, in particular for high pressure measurement and high quality crystal growth, extend the tool-set available to the wider community. 
+
+Results will also be of interest to theory groups throughout the UK (including UCL, KCL, Kent, RHUL, Loughborough, Bristol, Oxford). New insights will benefit applications of superconductivity, which are actively explored by physicists (e.g. Durham, Birmingham), material scientists (such as Device Materials in Cambridge) and engineers (including groups in Cambridge, Southampton, and Edinburgh).
+
+We will plan projects jointly with our partners, discuss results as they arise and publish together. The group has a strong record of highly visible publications, and we will ensure that key results are disseminated to a large community of interested colleagues. Data and publications will be publicly available in accordance with open data and open access rules.

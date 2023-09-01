@@ -1,0 +1,16 @@
+Our research addresses long-standing questions of fundamental interest:
+
+(i) What is the superconducting gap structure and the underlying pairing mechanism in iron-based superconductors? 
+This has profound impact across the discipline. It will improve our ability to model unconventional superconductors theoretically and thereby will accelerate the search for new unconventional superconductors with technological applications.
+
+(ii) What is the origin of strong correlations in Fe-based superconductors? 
+This will advance our understanding of strongly correlated materials generally. It will be relevant for other transition metal compounds and can provide guiding principles towards new quantum materials with tailor-made electronic properties.
+
+(iii) How do carrier concentration and carrier mass evolve across the cuprate phase diagram at low temperature?
+This has direct implications for our understanding of the pseudo-gap, arguably the most controversial issue in cuprate superconductivity.
+
+We will investigate these questions with multiprobe measurements in Cambridge-grown high-quality crystals. Much of the work will take place at collaborating groups. Our cuprate crystals will feed directly into ongoing projects of project partners at the University of Bristol. Other partnerships build on our high-quality crystals of YFe2Ge2 and related materials: Max-Planck-Institute for Chemical Physics of Solids (MPI-CPfS)/Germany (ultra-low temperature heat capacity, thermal expansion), University of Waterloo/Canada (thermal conductivity), Zhejiang University/China (penetration depth), Rutherford Appleton Laboratory/UK (muSR, neutrons), Kyoto University/Japan (NMR), and Princeton University/USA (scanning tunneling spectroscopy). 
+
+These collaborations offer the most effective way towards a comprehensive investigation of low temperature superconducting and normal states. The project will also involve interdisciplinary cooperation with the solid state chemistry group at MPI-CPfS/Germany in order to clarify the nature of crystalline imperfections. Moreover, we will pursue theoretical modelling with our project partner at University of Minnesota/USA. 
+
+All of these groups will be direct academic beneficiaries of this project. 

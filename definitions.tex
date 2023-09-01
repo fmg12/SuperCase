@@ -1,0 +1,121 @@
+%\renewcommand{\textfraction}{0.1}
+%\renewcommand{\topfraction}{0.9}
+%\renewcommand{\textheight}{257 mm}
+\setlength{\leftmargin}{0 cm}
+\setlength{\rightmargin}{1cm}
+%\setlength{\textwidth}{17cm}
+% \bibliographystyle {apsrev}
+\setlength{\columnsep}{2.3em}
+
+\renewcommand{\ULdepth}{1.8pt}
+\contourlength{0.8pt}
+\setuldepth{Berlin}
+
+\newcommand{\myul}[1]{%
+%  \uline{\phantom{#1}}%
+ \uline{\textcolor{white}{#1}}%
+  \llap{\contour{white}{#1}}%
+}
+
+\def\btt#1{{\tt$\backslash$#1}}
+
+
+\newcounter{papers}\newenvironment{publist}{\begin{list}{\textbf{\arabic{papers}}\hfill}{\usecounter{papers}
+	\setlength{\itemindent}{0.5cm} \setlength{\labelwidth}{0.4cm}
+	\setlength{\labelsep}{0.1cm} \setlength{\leftmargin}{0cm}
+	\setlength{\itemsep}{0.5ex} \setlength{\parsep}{0cm}
+	\setlength{\topskip}{0cm}}}{\end{list}}
+
+\newcounter{benfic}
+\newenvironment{leftlist}{\begin{list}{{\arabic{benfic}.}\hfill}{\usecounter{benfic} \setlength{\itemindent}{0.5cm} \setlength{\labelwidth}{0.4cm} 
+	\setlength{\labelsep}{0.1cm} \setlength{\leftmargin}{0.0cm}
+	\setlength{\itemsep}{0.1cm} \setlength{\parsep}{0cm}
+	\setlength{\topskip}{0cm}}}{\end{list}}
+
+\newcounter{objcount}
+\setcounter{objcount}{1}
+\newcommand{\objectiveone}[1]{\noindent {\em {\bf Objective
+      \arabic{objcount} (from above):} \stepcounter{objcount}#1}}
+\newcommand{\objective}[1]{\noindent {\em {\bf Objective \arabic{objcount}:} \stepcounter{objcount}#1}}
+
+\renewenvironment{quote}{%
+  \list{}{%
+    \leftmargin0.4cm   % this is the adjusting screw
+    \rightmargin\leftmargin
+  }
+  \item\relax
+}
+
+
+\renewcommand\thesection{\arabic{section}}
+\renewcommand\thesubsection{\thesection.\arabic{subsection}}
+\renewcommand\thesubsubsection{\thesubsection.\arabic{subsubsection}}
+
+
+\makeatletter
+
+\renewcommand{\subsubsection}{%
+  \@startsection
+    {subsubsection}%
+    {3}%
+    {\z@}%
+    % {.4\baselineskip}%
+    % {.2\baselineskip}%
+  {0.4cm \@plus1ex \@minus 1ex}%
+    {0.2cm}%
+    %{\bfseries}
+  {\center\bfseries\itshape}%
+}%
+
+\renewcommand{\section}{%
+  \@startsection
+    {section}%
+    {1}%
+    {\z@}%
+  {0.8cm \@plus1ex \@minus .5ex}%
+    {0.4cm}%
+    {\center\bfseries}%
+}% 
+
+\renewcommand{\subsection}{%
+  \@startsection
+    {subsection}%
+    {2}%
+    {\z@}%
+  {0.35cm \@plus.5ex \@minus .5ex}%
+    {0.2cm}%
+    {\center\bfseries}%
+}% 
+
+
+%  \renewcommand{\subsubsection}{\@startsection
+%  {subsubsection}%                   % the name
+%  {3}%                         % the level
+% {0mm}%                       % the indent
+%  {-\baselineskip}%            % the before skip
+%  {0.0\baselineskip}%          % the after skip
+%  {\normalfont\itshape}} % the style
+
+\renewcommand\paragraph{%
+  \@startsection
+    {paragraph}%
+    {4}%
+    {0mm}%
+    {0.4\baselineskip}%
+    {-1em}%
+    {\normalfont\normalsize\fontsize{10.9pt}{12pt}\selectfont\bf}%
+}%
+\makeatother
+
+\newenvironment{leftheading}{\begin{list}{\setlength{\itemindent}{0.0cm} \setlength{\labelwidth}{0.4cm} 
+	\setlength{\labelsep}{0.1cm} \setlength{\leftmargin}{0cm}
+	\setlength{\itemsep}{0.1cm} \setlength{\parsep}{0cm}
+	\setlength{\topskip}{0cm}}}{\end{list}}
+
+
+
+
+\newcounter{PTIcount}
+\setcounter{PTIcount}{1}
+% \newcommand{\pathway}[1]{\noindent {\em {\bf Pathway to Impact}}\arabic{objcount}      :} \stepcounter{PTIcount}#1}}
+\newcommand{\pathway}{\paragraph{Pathway to Impact:}}
