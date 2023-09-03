@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{19}%
+\begin{thebibliography}{15}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -94,43 +94,6 @@
   {Norman}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
   {Science}\ }\textbf {\bibinfo {volume} {332}},\ \bibinfo {pages} {196}
   (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Hashimoto}\ \emph {et~al.}(2012)\citenamefont
-  {Hashimoto}, \citenamefont {Cho}, \citenamefont {Shibauchi}, \citenamefont
-  {Kasahara}, \citenamefont {Mizukami}, \citenamefont {Katsumata},
-  \citenamefont {Tsuruhara}, \citenamefont {Terashima}, \citenamefont {Ikeda},
-  \citenamefont {Tanatar}, \citenamefont {Kitano}, \citenamefont {Salovich},
-  \citenamefont {Giannetta}, \citenamefont {Walmsley}, \citenamefont
-  {Carrington}, \citenamefont {Prozorov},\ and\ \citenamefont
-  {Matsuda}}]{hashimoto12}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
-  {Hashimoto}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Science}\ }\textbf {\bibinfo {volume} {336}},\ \bibinfo {pages}
-  {1554} (\bibinfo {year} {2012})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Khim}\ \emph {et~al.}(2021)\citenamefont {Khim},
-  \citenamefont {Landaeta}, \citenamefont {Banda}, \citenamefont {Bannor},
-  \citenamefont {Brando}, \citenamefont {Brydon}, \citenamefont {Hafner},
-  \citenamefont {K{\"u}chler}, \citenamefont {{Cardoso-Gil}}, \citenamefont
-  {Stockert} \emph {et~al.}}]{khim21}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
-  {Khim}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Science}\ }\textbf {\bibinfo {volume} {373}},\ \bibinfo {pages}
-  {1012} (\bibinfo {year} {2021})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Fredrickson}\ \emph {et~al.}(2004)\citenamefont
-  {Fredrickson}, \citenamefont {Lee}, \citenamefont {Hoffmann},\ and\
-  \citenamefont {Lin}}]{fredrickson04}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~C.}\ \bibnamefont
-  {Fredrickson}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal}
-  {\bibinfo  {journal} {Inorg. Chem.}\ }\textbf {\bibinfo {volume} {43}},\
-  \bibinfo {pages} {6151} (\bibinfo {year} {2004})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Wiegers}(1996)}]{wiegers96}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
-  {Wiegers}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Progress in Solid State Chemistry}\ }\textbf {\bibinfo {volume} {24}},\
-  \bibinfo {pages} {1} (\bibinfo {year} {1996})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Bruin}\ \emph {et~al.}(2013)\citenamefont {Bruin},
   \citenamefont {Sakai}, \citenamefont {Perry},\ and\ \citenamefont
   {Mackenzie}}]{bruin13}%

@@ -81,77 +81,6 @@
   {Friedemann}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
    {journal} {Nat. Phys.}\ }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages}
   {62} (\bibinfo {year} {2018})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Smith}\ \emph {et~al.}(2008)\citenamefont {Smith},
-  \citenamefont {Sutherland}, \citenamefont {Lonzarich}, \citenamefont
-  {Saxena}, \citenamefont {Kimura}, \citenamefont {Takashima}, \citenamefont
-  {Nohara},\ and\ \citenamefont {Takagi}}]{smith08}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.~P.}\ \bibnamefont
-  {Smith}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Nature}\ }\textbf {\bibinfo {volume} {455}},\ \bibinfo {pages}
-  {1220} (\bibinfo {year} {2008})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Hartstein}\ \emph {et~al.}(2018)\citenamefont
-  {Hartstein}, \citenamefont {Toews}, \citenamefont {Hsu}, \citenamefont
-  {Zeng}, \citenamefont {Chen}, \citenamefont {Ciomaga~Hatnean}, \citenamefont
-  {Zhang}, \citenamefont {Nakamura}, \citenamefont {Padgett}, \citenamefont
-  {{Rodway-Gant}}, \citenamefont {Berk}, \citenamefont {Kingston},
-  \citenamefont {Zhang}, \citenamefont {Chan}, \citenamefont {Yamashita},
-  \citenamefont {Sakakibara}, \citenamefont {Takano}, \citenamefont {Park},
-  \citenamefont {Balicas}, \citenamefont {Harrison}, \citenamefont
-  {Shitsevalova}, \citenamefont {Balakrishnan}, \citenamefont {Lonzarich},
-  \citenamefont {Hill}, \citenamefont {Sutherland},\ and\ \citenamefont
-  {Sebastian}}]{hartstein18}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Hartstein}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Nat. Phys.}\ }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages}
-  {166} (\bibinfo {year} {2018})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Sutherland}\ \emph {et~al.}(2015)\citenamefont
-  {Sutherland}, \citenamefont {O'Farrell}, \citenamefont {Toews}, \citenamefont
-  {Dunn}, \citenamefont {Kuga}, \citenamefont {Nakatsuji}, \citenamefont
-  {Machida}, \citenamefont {Izawa},\ and\ \citenamefont {Hill}}]{sutherland15}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~L.}\ \bibnamefont
-  {Sutherland}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-   {journal} {Phys. Rev. B}\ }\textbf {\bibinfo {volume} {92}},\ \bibinfo
-  {pages} {041114} (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Sutherland}\ \emph
-  {et~al.}(2012{\natexlab{a}})\citenamefont {Sutherland}, \citenamefont
-  {Smith}, \citenamefont {Marcano}, \citenamefont {Zou}, \citenamefont
-  {Rowley}, \citenamefont {Grosche}, \citenamefont {Kimura}, \citenamefont
-  {Hayden}, \citenamefont {Takashima}, \citenamefont {Nohara},\ and\
-  \citenamefont {Takagi}}]{sutherland12}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Sutherland}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-   {journal} {Phys. Rev. B}\ }\textbf {\bibinfo {volume} {85}},\ \bibinfo
-  {pages} {035118} (\bibinfo {year} {2012}{\natexlab{a}})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Sutherland}\ \emph
-  {et~al.}(2012{\natexlab{b}})\citenamefont {Sutherland}, \citenamefont {Dunn},
-  \citenamefont {Toews}, \citenamefont {O'Farrell}, \citenamefont {Analytis},
-  \citenamefont {Fisher},\ and\ \citenamefont {Hill}}]{sutherland12a}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Sutherland}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-   {journal} {Phys. Rev. B}\ }\textbf {\bibinfo {volume} {85}},\ \bibinfo
-  {pages} {014517} (\bibinfo {year} {2012}{\natexlab{b}})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Grissonnanche}\ \emph {et~al.}(2014)\citenamefont
-  {Grissonnanche}, \citenamefont {{Cyr-Choini{\`e}re}}, \citenamefont
-  {Lalibert{\'e}}, \citenamefont {{Ren{\'e} de Cotret}}, \citenamefont
-  {{Juneau-Fecteau}}, \citenamefont {{Dufour-Beaus{\'e}jour}}, \citenamefont
-  {Delage}, \citenamefont {LeBoeuf}, \citenamefont {Chang}, \citenamefont
-  {Ramshaw}, \citenamefont {Bonn}, \citenamefont {Hardy}, \citenamefont
-  {Liang}, \citenamefont {Adachi}, \citenamefont {Hussey}, \citenamefont
-  {Vignolle}, \citenamefont {Proust}, \citenamefont {Sutherland}, \citenamefont
-  {Kr{\"a}mer}, \citenamefont {Park}, \citenamefont {Graf}, \citenamefont
-  {{Doiron-Leyraud}},\ and\ \citenamefont {Taillefer}}]{grissonnanche14}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
-  {Grissonnanche}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal}
-  {\bibinfo  {journal} {Nat. Comm.}\ }\textbf {\bibinfo {volume} {5}},\
-  \bibinfo {pages} {3280} (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Hsu}\ \emph {et~al.}(2021)\citenamefont {Hsu},
   \citenamefont {Hartstein}, \citenamefont {Davies}, \citenamefont {Hickey},
   \citenamefont {Chan}, \citenamefont {Porras}, \citenamefont {Loew},
@@ -318,6 +247,68 @@
   {Goh}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
   {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo {volume} {114}},\ \bibinfo
   {pages} {097002} (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hartstein}\ \emph {et~al.}(2018)\citenamefont
+  {Hartstein}, \citenamefont {Toews}, \citenamefont {Hsu}, \citenamefont
+  {Zeng}, \citenamefont {Chen}, \citenamefont {Ciomaga~Hatnean}, \citenamefont
+  {Zhang}, \citenamefont {Nakamura}, \citenamefont {Padgett}, \citenamefont
+  {{Rodway-Gant}}, \citenamefont {Berk}, \citenamefont {Kingston},
+  \citenamefont {Zhang}, \citenamefont {Chan}, \citenamefont {Yamashita},
+  \citenamefont {Sakakibara}, \citenamefont {Takano}, \citenamefont {Park},
+  \citenamefont {Balicas}, \citenamefont {Harrison}, \citenamefont
+  {Shitsevalova}, \citenamefont {Balakrishnan}, \citenamefont {Lonzarich},
+  \citenamefont {Hill}, \citenamefont {Sutherland},\ and\ \citenamefont
+  {Sebastian}}]{hartstein18}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Hartstein}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Nat. Phys.}\ }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages}
+  {166} (\bibinfo {year} {2018})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Sutherland}\ \emph {et~al.}(2015)\citenamefont
+  {Sutherland}, \citenamefont {O'Farrell}, \citenamefont {Toews}, \citenamefont
+  {Dunn}, \citenamefont {Kuga}, \citenamefont {Nakatsuji}, \citenamefont
+  {Machida}, \citenamefont {Izawa},\ and\ \citenamefont {Hill}}]{sutherland15}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~L.}\ \bibnamefont
+  {Sutherland}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+   {journal} {Phys. Rev. B}\ }\textbf {\bibinfo {volume} {92}},\ \bibinfo
+  {pages} {041114} (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Sutherland}\ \emph
+  {et~al.}(2012{\natexlab{a}})\citenamefont {Sutherland}, \citenamefont
+  {Smith}, \citenamefont {Marcano}, \citenamefont {Zou}, \citenamefont
+  {Rowley}, \citenamefont {Grosche}, \citenamefont {Kimura}, \citenamefont
+  {Hayden}, \citenamefont {Takashima}, \citenamefont {Nohara},\ and\
+  \citenamefont {Takagi}}]{sutherland12}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Sutherland}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+   {journal} {Phys. Rev. B}\ }\textbf {\bibinfo {volume} {85}},\ \bibinfo
+  {pages} {035118} (\bibinfo {year} {2012}{\natexlab{a}})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Sutherland}\ \emph
+  {et~al.}(2012{\natexlab{b}})\citenamefont {Sutherland}, \citenamefont {Dunn},
+  \citenamefont {Toews}, \citenamefont {O'Farrell}, \citenamefont {Analytis},
+  \citenamefont {Fisher},\ and\ \citenamefont {Hill}}]{sutherland12a}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Sutherland}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+   {journal} {Phys. Rev. B}\ }\textbf {\bibinfo {volume} {85}},\ \bibinfo
+  {pages} {014517} (\bibinfo {year} {2012}{\natexlab{b}})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Grissonnanche}\ \emph {et~al.}(2014)\citenamefont
+  {Grissonnanche}, \citenamefont {{Cyr-Choini{\`e}re}}, \citenamefont
+  {Lalibert{\'e}}, \citenamefont {{Ren{\'e} de Cotret}}, \citenamefont
+  {{Juneau-Fecteau}}, \citenamefont {{Dufour-Beaus{\'e}jour}}, \citenamefont
+  {Delage}, \citenamefont {LeBoeuf}, \citenamefont {Chang}, \citenamefont
+  {Ramshaw}, \citenamefont {Bonn}, \citenamefont {Hardy}, \citenamefont
+  {Liang}, \citenamefont {Adachi}, \citenamefont {Hussey}, \citenamefont
+  {Vignolle}, \citenamefont {Proust}, \citenamefont {Sutherland}, \citenamefont
+  {Kr{\"a}mer}, \citenamefont {Park}, \citenamefont {Graf}, \citenamefont
+  {{Doiron-Leyraud}},\ and\ \citenamefont {Taillefer}}]{grissonnanche14}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Grissonnanche}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nat. Comm.}\ }\textbf {\bibinfo {volume} {5}},\
+  \bibinfo {pages} {3280} (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Goh}\ \emph {et~al.}(2008)\citenamefont {Goh},
   \citenamefont {Paglione}, \citenamefont {Sutherland}, \citenamefont
   {O'Farrell}, \citenamefont {Bergemann}, \citenamefont {Sayles},\ and\
@@ -327,6 +318,15 @@
   {Goh}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
   {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo {volume} {101}},\ \bibinfo
   {pages} {056402} (\bibinfo {year} {2008})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Smith}\ \emph {et~al.}(2008)\citenamefont {Smith},
+  \citenamefont {Sutherland}, \citenamefont {Lonzarich}, \citenamefont
+  {Saxena}, \citenamefont {Kimura}, \citenamefont {Takashima}, \citenamefont
+  {Nohara},\ and\ \citenamefont {Takagi}}]{smith08}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.~P.}\ \bibnamefont
+  {Smith}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Nature}\ }\textbf {\bibinfo {volume} {455}},\ \bibinfo {pages}
+  {1220} (\bibinfo {year} {2008})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Baglo}\ \emph {et~al.}(2021)\citenamefont {Baglo},
   \citenamefont {Chen}, \citenamefont {Murphy}, \citenamefont {Leenen},
   \citenamefont {McCollam}, \citenamefont {Sutherland},\ and\ \citenamefont
