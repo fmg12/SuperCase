@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{15}%
+\begin{thebibliography}{1}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -50,131 +50,14 @@
 \providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
 \let\auto@bib@innerbib\@empty
 %</preamble>
-\bibitem [{\citenamefont {Snider}\ \emph {et~al.}(2020)\citenamefont {Snider},
-  \citenamefont {{Dasenbrock-Gammon}}, \citenamefont {McBride}, \citenamefont
-  {Debessai}, \citenamefont {Vindana}, \citenamefont {Vencatasamy},
-  \citenamefont {Lawler}, \citenamefont {Salamat},\ and\ \citenamefont
-  {Dias}}]{snider20}%
+\bibitem [{\citenamefont {Kotegawa}\ \emph {et~al.}(2011)\citenamefont
+  {Kotegawa}, \citenamefont {Taufour}, \citenamefont {Aoki}, \citenamefont
+  {Knebel},\ and\ \citenamefont {Flouquet}}]{kotegawa11}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
-  {Snider}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Nature}\ }\textbf {\bibinfo {volume} {586}},\ \bibinfo {pages}
-  {373} (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Drozdov}\ \emph {et~al.}(2019)\citenamefont
-  {Drozdov}, \citenamefont {Kong}, \citenamefont {Minkov}, \citenamefont
-  {Besedin}, \citenamefont {Kuzovnikov}, \citenamefont {Mozaffari},
-  \citenamefont {Balicas}, \citenamefont {Balakirev}, \citenamefont {Graf},
-  \citenamefont {Prakapenka}, \citenamefont {Greenberg}, \citenamefont
-  {Knyazev}, \citenamefont {Tkacz},\ and\ \citenamefont {Eremets}}]{drozdov19}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~P.}\ \bibnamefont
-  {Drozdov}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Nature}\ }\textbf {\bibinfo {volume} {569}},\ \bibinfo {pages}
-  {528} (\bibinfo {year} {2019})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Somayazulu}\ \emph {et~al.}(2019)\citenamefont
-  {Somayazulu}, \citenamefont {Ahart}, \citenamefont {Mishra}, \citenamefont
-  {Geballe}, \citenamefont {Baldini}, \citenamefont {Meng}, \citenamefont
-  {Struzhkin},\ and\ \citenamefont {Hemley}}]{somayazulu19}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Somayazulu}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-   {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo {volume} {122}},\ \bibinfo
-  {pages} {027001} (\bibinfo {year} {2019})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Monthoux}\ \emph {et~al.}(2007)\citenamefont
-  {Monthoux}, \citenamefont {Pines},\ and\ \citenamefont
-  {Lonzarich}}]{monthoux07}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
-  {Monthoux}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Nature}\ }\textbf {\bibinfo {volume} {450}},\ \bibinfo {pages}
-  {1177} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Norman}(2011)}]{norman11}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~R.}\ \bibnamefont
-  {Norman}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Science}\ }\textbf {\bibinfo {volume} {332}},\ \bibinfo {pages} {196}
-  (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Bruin}\ \emph {et~al.}(2013)\citenamefont {Bruin},
-  \citenamefont {Sakai}, \citenamefont {Perry},\ and\ \citenamefont
-  {Mackenzie}}]{bruin13}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~A.~N.}\
-  \bibnamefont {Bruin}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal}
-  {\bibinfo  {journal} {Science}\ }\textbf {\bibinfo {volume} {339}},\ \bibinfo
-  {pages} {804} (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Hartnoll}(2015)}]{hartnoll15}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~A.}\ \bibnamefont
-  {Hartnoll}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Nature Phys}\ }\textbf {\bibinfo {volume} {11}},\ \bibinfo {pages} {54}
-  (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Georges}\ \emph {et~al.}(2013)\citenamefont
-  {Georges}, \citenamefont {de'{\aftergroup\ignorespaces} Medici},\ and\
-  \citenamefont {Mravlje}}]{georges13}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
-  {Georges}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Annu. Rev. Condens. Matter Phys.}\ }\textbf {\bibinfo {volume}
-  {4}},\ \bibinfo {pages} {137} (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Baglo}\ \emph {et~al.}(2021)\citenamefont {Baglo},
-  \citenamefont {Chen}, \citenamefont {Murphy}, \citenamefont {Leenen},
-  \citenamefont {McCollam}, \citenamefont {Sutherland},\ and\ \citenamefont
-  {Grosche}}]{baglo21}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Baglo}} \emph {et~al.},\ }\href {http://arxiv.org/abs/2104.11791} {\bibfield
-   {journal} {\bibinfo  {journal} {ArXiv210411791 Cond-Mat}\ } (\bibinfo {year}
-  {2021})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Bang}\ and\ \citenamefont {Stewart}(2017)}]{bang17}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
-  {Bang}}\ and\ \bibinfo {author} {\bibfnamefont {G.~R.}\ \bibnamefont
-  {Stewart}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {J.
-  Phys.: Condens. Matter}\ }\textbf {\bibinfo {volume} {29}},\ \bibinfo {pages}
-  {123003} (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Hayden}\ \emph {et~al.}(2000)\citenamefont {Hayden},
-  \citenamefont {Doubble}, \citenamefont {Aeppli}, \citenamefont {Perring},\
-  and\ \citenamefont {Fawcett}}]{hayden00}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~M.}\ \bibnamefont
-  {Hayden}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo {volume} {84}},\ \bibinfo
-  {pages} {999} (\bibinfo {year} {2000})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Logg}\ \emph {et~al.}(2013)\citenamefont {Logg},
-  \citenamefont {Feng}, \citenamefont {Ebihara}, \citenamefont {Zou},
-  \citenamefont {Friedemann}, \citenamefont {Alireza}, \citenamefont {Goh},\
-  and\ \citenamefont {Grosche}}]{logg13}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
-  {Logg}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Phys. Status Solidi B}\ }\textbf {\bibinfo {volume} {250}},\
-  \bibinfo {pages} {515} (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Cheng}\ \emph {et~al.}(2015)\citenamefont {Cheng},
-  \citenamefont {Matsubayashi}, \citenamefont {Wu}, \citenamefont {Sun},
-  \citenamefont {Lin}, \citenamefont {Luo},\ and\ \citenamefont
-  {Uwatoko}}]{cheng15}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.-G.}\ \bibnamefont
-  {Cheng}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo {volume} {114}},\ \bibinfo
-  {pages} {117001} (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Ortiz}\ \emph {et~al.}(2021)\citenamefont {Ortiz},
-  \citenamefont {Sarte}, \citenamefont {Kenney}, \citenamefont {Teicher},
-  \citenamefont {Seshadri}, \citenamefont {Graf},\ and\ \citenamefont
-  {Wilson}}]{ortiz21}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.~R.}\ \bibnamefont
-  {Ortiz}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Phys. Rev. Materials}\ }\textbf {\bibinfo {volume} {5}},\ \bibinfo
-  {pages} {034801} (\bibinfo {year} {2021})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Alireza}\ \emph {et~al.}(2010)\citenamefont
-  {Alireza}, \citenamefont {Nakamura}, \citenamefont {Goh}, \citenamefont
-  {Maeno}, \citenamefont {Nakatsuji}, \citenamefont {Ko}, \citenamefont
-  {Sutherland}, \citenamefont {Julian},\ and\ \citenamefont
-  {Lonzarich}}]{alireza10}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.~L.}\ \bibnamefont
-  {Alireza}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {J. Phys.: Condens. Matter}\ }\textbf {\bibinfo {volume} {22}},\
-  \bibinfo {pages} {052202} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
+  {Kotegawa}} \emph {et~al.},\ }\href
+  {https://journals.jps.jp/doi/10.1143/JPSJ.80.083703} {\bibfield  {journal}
+  {\bibinfo  {journal} {J. Phys. Soc. Jpn.}\ }\textbf {\bibinfo {volume}
+  {80}},\ \bibinfo {pages} {083703} (\bibinfo {year} {2011})}\BibitemShut
+  {NoStop}%
 \end{thebibliography}%
