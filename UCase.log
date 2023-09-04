@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.21)  3 SEP 2023 18:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.21)  4 SEP 2023 08:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1146,74 +1146,78 @@ contour: Using 16 copies for `quantum phase transition' on input line 62.
 
 Package natbib Warning: Citation `monthoux07' on page 3 undefined on input line 63.
 
-<Figures/PhaseDias.pdf, id=260, 833.68678pt x 290.74544pt>
+<Figures/PhaseDias.pdf, id=259, 833.68678pt x 290.74544pt>
 File: Figures/PhaseDias.pdf Graphic file (type pdf)
 <use Figures/PhaseDias.pdf>
 Package pdftex.def Info: Figures/PhaseDias.pdf  used on input line 68.
 (pdftex.def)             Requested size: 451.29118pt x 157.3906pt.
-<Figures/Structures.pdf, id=267, 799.69077pt x 392.19966pt>
+<Figures/Structures.pdf, id=266, 799.69077pt x 392.19966pt>
 File: Figures/Structures.pdf Graphic file (type pdf)
 <use Figures/Structures.pdf>
 Package pdftex.def Info: Figures/Structures.pdf  used on input line 98.
 (pdftex.def)             Requested size: 237.52245pt x 116.48784pt.
-contour: Using 16 copies for `opens the door to external collaborations' on input line 106.
+contour: Using 16 copies for `opens the door to external collaborations' on input line 105.
 
-Underfull \hbox (badness 1648) in paragraph at lines 106--107
+Underfull \hbox (badness 1648) in paragraph at lines 105--106
 \T1/phv/m/n/10.87 lish anisotropic forms of or-der, such as un-
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 106--107
+Underfull \hbox (badness 1521) in paragraph at lines 105--106
 \T1/phv/m/n/10.87 qual-ity sam-ples, such dis-cov-er-ies could eas-
  []
 
-contour: Using 16 copies for `key research questions' on input line 121.
-LaTeX Font Info:    Calculating math sizes for size <10.87> on input line 124.
+contour: Using 16 copies for `key research questions' on input line 120.
+LaTeX Font Info:    Calculating math sizes for size <10.87> on input line 123.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.87> on input line 124.
+(Font)              <10.87> on input line 123.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9.05794> on input line 124.
+(Font)              <9.05794> on input line 123.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.60896> on input line 124.
+(Font)              <7.60896> on input line 123.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9.05794> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 124.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 123.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7.60896> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 124.
-contour: Using 16 copies for `Planckian dissipation' on input line 137.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 123.
+contour: Using 16 copies for `Planckian dissipation' on input line 136.
 
-Package natbib Warning: Citation `bruin13' on page 3 undefined on input line 137.
-
-
-Package natbib Warning: Citation `hartnoll15' on page 3 undefined on input line 137.
+Package natbib Warning: Citation `bruin13' on page 3 undefined on input line 136.
 
 
-Package natbib Warning: Citation `monthoux07' on page 3 undefined on input line 140.
+Package natbib Warning: Citation `hartnoll15' on page 3 undefined on input line 136.
 
 
-Package natbib Warning: Citation `georges13' on page 3 undefined on input line 140.
+Package natbib Warning: Citation `monthoux07' on page 3 undefined on input line 139.
+
+
+Package natbib Warning: Citation `georges13' on page 3 undefined on input line 139.
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
 
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 150--151
+Underfull \hbox (badness 2334) in paragraph at lines 149--150
  []\T1/phv/m/n/10.87 Most early hf su-per-con-duc-tors were U-
  []
 
-contour: Using 16 copies for `high-quality single crystals' on input line 192.
+contour: Using 16 copies for `high-quality single crystals' on input line 191.
 
-Underfull \hbox (badness 1460) in paragraph at lines 190--198
+Underfull \hbox (badness 1460) in paragraph at lines 189--197
 \T1/phv/m/n/10.87 ves-ti-gate three ma-te-rial sys-tems avail-able as
  []
 
+
+Package natbib Warning: Citation `eaton23' on page 4 undefined on input line 201.
+
+
+Package natbib Warning: Citation `wu23' on page 4 undefined on input line 201.
+
 [4 </Users/fmg12/Library/CloudStorage/OneDrive-UniversityOfCambridge/Proposals/Ucompounds/Application/Figures/PhaseDias.pdf> </Users/fmg12/Library/CloudStorage/OneDrive-UniversityOfCambridge/Proposals/Ucompounds/Application/Figures/Structures.pdf>]
-
-Package natbib Warning: Citation `eaton23' on page 5 undefined on input line 202.
-
-
-Package natbib Warning: Citation `wu23' on page 5 undefined on input line 202.
+Underfull \hbox (badness 1622) in paragraph at lines 236--237
+\T1/phv/m/n/10.87 and ther-mo-dy-namic mea-sure-ments un-der ex-
+ []
 
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.87> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 256.
@@ -1231,22 +1235,12 @@ Underfull \hbox (badness 1226) in paragraph at lines 284--287
  []
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 295--296
-\T1/phv/b/n/10.87 Objective 1: \T1/phv/m/sl/10.87 Ex-plore the phase space sur-
- []
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
 
-
-Underfull \hbox (badness 1406) in paragraph at lines 295--296
-\T1/phv/m/sl/10.87 round-ing YFe$[]$Ge$[]$, CeNi$[]$Ge$[]$ and CeSb$[]$ in
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 295--296
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 297--298
 
  []
 
@@ -1291,40 +1285,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 500--503
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 513--518
+Package natbib Warning: Citation `squire23' on page 6 undefined on input line 508.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+ []\T1/phv/b/n/10.9 AC calorime-try into 100kbar range[]
+ []
+
+[6]
+Underfull \hbox (badness 1769) in paragraph at lines 515--520
 \T1/phv/m/n/10.87 ners com-ple-ments our strengths in ma-te-ri-als
  []
 
 
-Underfull \hbox (badness 1308) in paragraph at lines 532--541
+Underfull \hbox (badness 1308) in paragraph at lines 534--543
  []\T1/phv/b/n/10.9 Management:[] \T1/phv/m/n/10.87 Se-lec-tion of ma-te-ri-als, con-tin-
  []
 
-[6]
-contour: Using 16 copies for `fusion' on input line 562.
+contour: Using 16 copies for `fusion' on input line 564.
 
-Underfull \hbox (badness 1688) in paragraph at lines 557--567
+Underfull \hbox (badness 1688) in paragraph at lines 559--569
 \T1/phv/m/n/10.87 used in wind tur-bines and mo-tors/generators
  []
 
-contour: Using 16 copies for `Bristol and Oxford' on input line 582.
-contour: Using 16 copies for `Edinburgh' on input line 582.
-contour: Using 16 copies for `Warwick' on input line 582.
-contour: Using 16 copies for `St. Andrews' on input line 582.
-contour: Using 16 copies for `Birmingham' on input line 582.
-contour: Using 16 copies for `RHUL' on input line 582.
+contour: Using 16 copies for `Bristol and Oxford' on input line 584.
+contour: Using 16 copies for `Edinburgh' on input line 584.
+contour: Using 16 copies for `Warwick' on input line 584.
+contour: Using 16 copies for `St. Andrews' on input line 584.
+contour: Using 16 copies for `Birmingham' on input line 584.
+contour: Using 16 copies for `RHUL' on input line 584.
 
-Underfull \hbox (badness 6252) in paragraph at lines 582--596
+Underfull \hbox (badness 6252) in paragraph at lines 584--598
  []\T1/phv/b/n/10.9 Academic ben-e-fi-cia-ries:[] \T1/phv/m/n/10.87 This project con-
  []
 
 
-Underfull \hbox (badness 3815) in paragraph at lines 582--596
+Underfull \hbox (badness 3815) in paragraph at lines 584--598
 \T1/phv/m/n/10.87 topo-log-i-cal ma-te-ri-als in |   [][], ruthen-ates
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 582--596
+Underfull \hbox (badness 2744) in paragraph at lines 584--598
 \T1/phv/m/n/10.87 and other 2D ma-te-ri-als in |   [][] and
  []
 
@@ -1351,21 +1352,21 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `UCase.out' has not changed.
-(rerunfilecheck)             Checksum: DC3F2FEE5BB0928E97C71C83C3930E27;3265.
+(rerunfilecheck)             Checksum: 160905D7282758F25B858303ACA233FC;3179.
  ) 
 Here is how much of TeX's memory you used:
- 28286 strings out of 478994
- 538042 string characters out of 5858184
- 878533 words of memory out of 5000000
- 45095 multiletter control sequences out of 15000+600000
+ 28283 strings out of 478994
+ 537996 string characters out of 5858184
+ 875794 words of memory out of 5000000
+ 45092 multiletter control sequences out of 15000+600000
  500431 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,10n,107p,1296b,1081s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on /Users/fmg12/Library/CloudStorage/OneDrive-UniversityOfCambridge/Proposals/Ucompounds/Application/UCase.pdf (7 pages, 2881058 bytes).
+Output written on /Users/fmg12/Library/CloudStorage/OneDrive-UniversityOfCambridge/Proposals/Ucompounds/Application/UCase.pdf (7 pages, 2881346 bytes).
 PDF statistics:
- 558 PDF objects out of 1000 (max. 8388607)
- 417 compressed objects within 5 object streams
+ 555 PDF objects out of 1000 (max. 8388607)
+ 415 compressed objects within 5 object streams
  101 named destinations out of 1000 (max. 500000)
  273 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{30}%
+\begin{thebibliography}{29}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -336,12 +336,4 @@
   {Baglo}} \emph {et~al.},\ }\href {http://arxiv.org/abs/2104.11791} {\bibfield
    {journal} {\bibinfo  {journal} {ArXiv210411791 Cond-Mat}\ } (\bibinfo {year}
   {2021})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Brown}\ \emph {et~al.}(2018)\citenamefont {Brown},
-  \citenamefont {Semeniuk}, \citenamefont {Wang}, \citenamefont {Monserrat},
-  \citenamefont {Pickard},\ and\ \citenamefont {Grosche}}]{brown18}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
-  {Brown}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Sci. Adv.}\ }\textbf {\bibinfo {volume} {4}},\ \bibinfo {pages}
-  {eaao4793} (\bibinfo {year} {2018})}\BibitemShut {NoStop}%
 \end{thebibliography}%
