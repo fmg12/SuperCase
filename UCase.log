@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.21)  4 SEP 2023 08:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.21)  4 SEP 2023 10:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1219,113 +1219,120 @@ Underfull \hbox (badness 1622) in paragraph at lines 236--237
 \T1/phv/m/n/10.87 and ther-mo-dy-namic mea-sure-ments un-der ex-
  []
 
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.87> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 256.
 
-Underfull \hbox (badness 1173) in paragraph at lines 258--259
+Overfull \hbox (918.85811pt too wide) in paragraph at lines 254--292
+ []$[]$ 
+ []
+
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.87> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 295.
+
+Underfull \hbox (badness 1173) in paragraph at lines 297--298
  []\T1/phv/b/n/10.9 Spectroscopic[] \T1/phv/m/n/10.87 stud-ies us-ing neu-tron diffrac-
  []
 
 
-Package natbib Warning: Citation `bang17' on page 5 undefined on input line 262.
+Package natbib Warning: Citation `bang17' on page 5 undefined on input line 301.
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 284--287
+Underfull \hbox (badness 1226) in paragraph at lines 323--326
 \T1/phv/b/n/10.9 grams:[] \T1/phv/m/n/10.87 the power of map-ping out mag-netic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--290
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 295--296
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
 
  []
-
-contour: Using 16 copies for `magnetic fluctuation spectrum' on input line 365.
-
-Package natbib Warning: Citation `hayden00' on page 5 undefined on input line 366.
 
 [5]
-Underfull \hbox (badness 4479) in paragraph at lines 431--433
+contour: Using 16 copies for `magnetic fluctuation spectrum' on input line 404.
+
+Package natbib Warning: Citation `hayden00' on page 6 undefined on input line 405.
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 470--472
 \T1/phv/b/n/10.87 Objective 3: \T1/phv/m/sl/10.87 Re-solve mag-netic, elec-tronic
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 464--468
+Underfull \hbox (badness 1142) in paragraph at lines 503--507
 \T1/phv/m/n/10.87 su-per-con-duc-tors such as UPt$[]$ and URu$[]$Si$[]$.
  []
 
-contour: Using 16 copies for `Pressure-assisted high throughput surveys' on input line 490.
+contour: Using 16 copies for `Pressure-assisted high throughput surveys' on input line 529.
 
-Underfull \hbox (badness 5260) in paragraph at lines 488--492
+Underfull \hbox (badness 5260) in paragraph at lines 527--531
 \T1/phv/m/n/10.87 op-por-tu-ni-ties in tar-geted searches for al-to-
  []
 
 
-Underfull \hbox (badness 6792) in paragraph at lines 488--492
+Underfull \hbox (badness 6792) in paragraph at lines 527--531
 \T1/phv/m/n/10.87 gether new un-con-ven-tional su-per-con-duc-tors.
  []
 
 
-Underfull \hbox (badness 3601) in paragraph at lines 500--503
+Underfull \hbox (badness 3601) in paragraph at lines 539--542
 \T1/phv/b/n/10.87 Objective 8: \T1/phv/m/sl/10.87 Ex-plore new su-per-con-duct-ing
  []
 
 
-Underfull \hbox (badness 2285) in paragraph at lines 500--503
+Underfull \hbox (badness 2285) in paragraph at lines 539--542
 \T1/phv/m/sl/10.87 quan-tum ma-te-ri-als in pressure-assisted high-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--503
+Underfull \hbox (badness 10000) in paragraph at lines 539--542
 
- []
-
-
-Package natbib Warning: Citation `squire23' on page 6 undefined on input line 508.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--509
- []\T1/phv/b/n/10.9 AC calorime-try into 100kbar range[]
  []
 
 [6]
-Underfull \hbox (badness 1769) in paragraph at lines 515--520
+
+Package natbib Warning: Citation `squire23' on page 7 undefined on input line 547.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--548
+ []\T1/phv/b/n/10.9 AC calorime-try into 100kbar range[]
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 554--559
 \T1/phv/m/n/10.87 ners com-ple-ments our strengths in ma-te-ri-als
  []
 
 
-Underfull \hbox (badness 1308) in paragraph at lines 534--543
+Underfull \hbox (badness 1308) in paragraph at lines 573--582
  []\T1/phv/b/n/10.9 Management:[] \T1/phv/m/n/10.87 Se-lec-tion of ma-te-ri-als, con-tin-
  []
 
-contour: Using 16 copies for `fusion' on input line 564.
+contour: Using 16 copies for `fusion' on input line 603.
 
-Underfull \hbox (badness 1688) in paragraph at lines 559--569
+Underfull \hbox (badness 1688) in paragraph at lines 598--608
 \T1/phv/m/n/10.87 used in wind tur-bines and mo-tors/generators
  []
 
-contour: Using 16 copies for `Bristol and Oxford' on input line 584.
-contour: Using 16 copies for `Edinburgh' on input line 584.
-contour: Using 16 copies for `Warwick' on input line 584.
-contour: Using 16 copies for `St. Andrews' on input line 584.
-contour: Using 16 copies for `Birmingham' on input line 584.
-contour: Using 16 copies for `RHUL' on input line 584.
+contour: Using 16 copies for `Bristol and Oxford' on input line 623.
+contour: Using 16 copies for `Edinburgh' on input line 623.
+contour: Using 16 copies for `Warwick' on input line 623.
+contour: Using 16 copies for `St. Andrews' on input line 623.
+contour: Using 16 copies for `Birmingham' on input line 623.
+contour: Using 16 copies for `RHUL' on input line 623.
 
-Underfull \hbox (badness 6252) in paragraph at lines 584--598
+Underfull \hbox (badness 6252) in paragraph at lines 623--637
  []\T1/phv/b/n/10.9 Academic ben-e-fi-cia-ries:[] \T1/phv/m/n/10.87 This project con-
  []
 
 
-Underfull \hbox (badness 3815) in paragraph at lines 584--598
+Underfull \hbox (badness 3815) in paragraph at lines 623--637
 \T1/phv/m/n/10.87 topo-log-i-cal ma-te-ri-als in |   [][], ruthen-ates
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 584--598
+Underfull \hbox (badness 2744) in paragraph at lines 623--637
 \T1/phv/m/n/10.87 and other 2D ma-te-ri-als in |   [][] and
  []
 
@@ -1356,14 +1363,14 @@ Package rerunfilecheck Info: File `UCase.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  28283 strings out of 478994
- 537996 string characters out of 5858184
- 875794 words of memory out of 5000000
- 45092 multiletter control sequences out of 15000+600000
- 500431 words of font info for 107 fonts, out of 8000000 for 9000
+ 537992 string characters out of 5858184
+ 878794 words of memory out of 5000000
+ 45091 multiletter control sequences out of 15000+600000
+ 501585 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,10n,107p,1296b,1081s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on /Users/fmg12/Library/CloudStorage/OneDrive-UniversityOfCambridge/Proposals/Ucompounds/Application/UCase.pdf (7 pages, 2881346 bytes).
+Output written on /Users/fmg12/Library/CloudStorage/OneDrive-UniversityOfCambridge/Proposals/Ucompounds/Application/UCase.pdf (7 pages, 2881989 bytes).
 PDF statistics:
  555 PDF objects out of 1000 (max. 8388607)
  415 compressed objects within 5 object streams
