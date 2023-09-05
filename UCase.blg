@@ -1,0 +1,73 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: UCase.aux
+A level-1 auxiliary file: definitions.aux
+The style file: apsrevFMG.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: UCaseNotes.bib
+Database file #2: UProposal.bib
+Warning--I didn't find a database entry for "bruin13"
+Warning--I didn't find a database entry for "hartnoll15"
+Warning--I didn't find a database entry for "georges13"
+Warning--I didn't find a database entry for "eaton23"
+Warning--I didn't find a database entry for "wu23"
+Warning--I didn't find a database entry for "bang17"
+Warning--I didn't find a database entry for "hayden00"
+Warning--I didn't find a database entry for "squire23"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+Control: key (0) 
+Control: author (72) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (-1) disabled
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+You've used 4 entries,
+            5862 wiz_defined-function locations,
+            1642 strings with 15765 characters,
+and the built_in function-call counts, 3976 in all, are:
+= -- 247
+> -- 117
+< -- 24
++ -- 45
+- -- 30
+* -- 603
+:= -- 438
+add.period$ -- 4
+call.type$ -- 4
+change.case$ -- 16
+chr.to.int$ -- 4
+cite$ -- 4
+duplicate$ -- 354
+empty$ -- 275
+format.name$ -- 54
+if$ -- 741
+int.to.chr$ -- 1
+int.to.str$ -- 12
+missing$ -- 41
+newline$ -- 64
+num.names$ -- 12
+pop$ -- 148
+preamble$ -- 1
+purify$ -- 20
+quote$ -- 0
+skip$ -- 138
+stack$ -- 0
+substring$ -- 96
+swap$ -- 322
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 8
+type$ -- 51
+warning$ -- 0
+while$ -- 11
+width$ -- 0
+write$ -- 84
+(There were 8 warnings)
