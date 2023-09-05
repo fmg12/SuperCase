@@ -55,9 +55,8 @@
   {Knebel},\ and\ \citenamefont {Flouquet}}]{kotegawa11}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
-  {Kotegawa}} \emph {et~al.},\ }\href
-  {https://journals.jps.jp/doi/10.1143/JPSJ.80.083703} {\bibfield  {journal}
-  {\bibinfo  {journal} {J. Phys. Soc. Jpn.}\ }\textbf {\bibinfo {volume}
-  {80}},\ \bibinfo {pages} {083703} (\bibinfo {year} {2011})}\BibitemShut
-  {NoStop}%
+  {Kotegawa}} \emph {et~al.},\ }\href {\doibase 10.1143/JPSJ.80.083703}
+  {\bibfield  {journal} {\bibinfo  {journal} {J. Phys. Soc. Jpn.}\ }\textbf
+  {\bibinfo {volume} {80}},\ \bibinfo {pages} {083703} (\bibinfo {year}
+  {2011})}\BibitemShut {NoStop}%
 \end{thebibliography}%
