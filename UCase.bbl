@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{9}%
+\begin{thebibliography}{10}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -142,4 +142,14 @@
   {\bibfield  {journal} {\bibinfo  {journal} {J. Phys. Soc. Jpn.}\ }\textbf
   {\bibinfo {volume} {80}},\ \bibinfo {pages} {083703} (\bibinfo {year}
   {2011})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Baglo}\ \emph {et~al.}(2022)\citenamefont {Baglo},
+  \citenamefont {Chen}, \citenamefont {Murphy}, \citenamefont {Leenen},
+  \citenamefont {McCollam}, \citenamefont {Sutherland},\ and\ \citenamefont
+  {Grosche}}]{baglo22a}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Baglo}} \emph {et~al.},\ }\href {\doibase 10.1103/PhysRevLett.129.046402}
+  {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf
+  {\bibinfo {volume} {129}},\ \bibinfo {pages} {046402} (\bibinfo {year}
+  {2022})}\BibitemShut {NoStop}%
 \end{thebibliography}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.2)  6 SEP 2023 17:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.2)  6 SEP 2023 19:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -997,31 +997,31 @@ Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 43.
 Class revtex4-2 Warning: Assuming \noaffiliation for authors.
 
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 76.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 71.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 76.
+(Font)              <12> on input line 71.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 76.
+(Font)              <8> on input line 71.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 76.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 71.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 76.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 71.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 76.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 71.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 76.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 76.
+(hyperref)                removing `math shift' on input line 71.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 76.
+(hyperref)                removing `subscript' on input line 71.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 71.
 
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 76.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 71.
 (./Science.tex
 LaTeX Font Info:    Calculating math sizes for size <10.9> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1106,6 +1106,18 @@ Package natbib Warning: Citation `mathur98' on page 2 undefined on input line 84
 
 Package natbib Warning: Citation `friedemann18' on page 2 undefined on input line 84.
 
+contour: Using 16 copies for `key research questions' on input line 103.
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
+\T1/phv/m/n/10.9 Our project will ad-dress the fol-low-ing
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 102--104
+|   [][] \T1/phv/m/n/10.9 of wider rel-e-vance in
+ []
+
+contour: Using 16 copies for `Hund's coupling' on input line 115.
 
 Package siunitx Warning: Unit macro \bar has been deprecated in this release.
 (siunitx)                
@@ -1115,235 +1127,202 @@ Package siunitx Warning: Unit macro \bar has been deprecated in this release.
 (siunitx)                
 (siunitx)                \DeclareSIUnit\bar{bar}
 
+contour: Using 16 copies for `pressure-field-temperature phase diagram' on input line 122.
+contour: Using 16 copies for `charge density wave' on input line 122.
 
-Package natbib Warning: Citation `friedemann16' on page 2 undefined on input line 112.
-
-
-Package natbib Warning: Citation `semeniuk22' on page 2 undefined on input line 112.
-
-
-Underfull \hbox (badness 1448) in paragraph at lines 112--113
-\T1/phv/m/n/10.9 and ther-mo-dy-namic mea-sure-ments un-der ex-
- []
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 116.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 116.
-
-Overfull \hbox (918.8881pt too wide) in paragraph at lines 116--154
- []$[]$ 
- []
-
-
-Underfull \hbox (badness 3219) in paragraph at lines 165--167
-[]\T1/phv/m/n/10.9 Methodology The pulse-echo mea-sure-ment
- []
-
-[2]
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.9> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 191.
-
-Underfull \hbox (badness 1043) in paragraph at lines 193--194
- []\T1/phv/b/n/10.9 Spectroscopic[] \T1/phv/m/n/10.9 stud-ies us-ing neu-tron diffrac-
- []
-
-
-Package natbib Warning: Citation `bang17' on page 3 undefined on input line 197.
-
-
-Underfull \hbox (badness 1122) in paragraph at lines 219--222
-\T1/phv/b/n/10.9 grams:[] \T1/phv/m/n/10.9 the power of map-ping out mag-netic
- []
-
-[3 <./Figures/PhaseDias.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
-
- []
-
-
-Underfull \hbox (badness 2359) in paragraph at lines 230--231
-\T1/phv/m/sl/10.9 con-duct-ing and nor-mal state prop-er-ties with
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--231
-
- []
-
-contour: Using 16 copies for `magnetic fluctuation spectrum' on input line 249.
-
-Package natbib Warning: Citation `hayden00' on page 4 undefined on input line 250.
-
-Package hyperref Info: bookmark level for unknown highlight defaults to 0 on input line 250.
-
-Underfull \hbox (badness 4205) in paragraph at lines 299--301
-\T1/phv/b/n/10.9 Objective 3: \T1/phv/m/sl/10.9 Re-solve mag-netic, elec-tronic
- []
-
-contour: Using 16 copies for `opens the door to external collaborations' on input line 325.
-
-Underfull \hbox (badness 1552) in paragraph at lines 325--326
-\T1/phv/m/n/10.9 lish anisotropic forms of or-der, such as un-
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 325--326
-\T1/phv/m/n/10.9 qual-ity sam-ples, such dis-cov-er-ies could eas-
- []
-
-<Figures/Structures.pdf, id=369, 799.69077pt x 392.19966pt>
-File: Figures/Structures.pdf Graphic file (type pdf)
-<use Figures/Structures.pdf>
-Package pdftex.def Info: Figures/Structures.pdf  used on input line 330.
-(pdftex.def)             Requested size: 237.49245pt x 116.4699pt.
-contour: Using 16 copies for `key research questions' on input line 340.
-
-Underfull \hbox (badness 10000) in paragraph at lines 339--341
-\T1/phv/m/n/10.9 Our project will ad-dress the fol-low-ing
- []
-
-
-Underfull \hbox (badness 3407) in paragraph at lines 339--341
-|   [][] \T1/phv/m/n/10.9 of wider rel-e-vance in
- []
-
-contour: Using 16 copies for `Hund's coupling' on input line 351.
-
-Package natbib Warning: Citation `baglo22' on page 4 undefined on input line 351.
-
-[4 <./Figures/Structures.pdf>]
-contour: Using 16 copies for `pressure-field-temperature phase diagram' on input line 354.
-contour: Using 16 copies for `charge density wave' on input line 354.
-
-Underfull \hbox (badness 1540) in paragraph at lines 354--355
+Underfull \hbox (badness 1540) in paragraph at lines 122--125
 \T1/phv/m/n/10.9 ac-tion can be-come long-ranged? More-over,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 385--386
+Package natbib Warning: Citation `friedemann16' on page 2 undefined on input line 214.
+
+
+Package natbib Warning: Citation `semeniuk22' on page 2 undefined on input line 214.
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 214--215
+\T1/phv/m/n/10.9 and ther-mo-dy-namic mea-sure-ments un-der ex-
+ []
+
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.9> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 221.
+
+Underfull \hbox (badness 1043) in paragraph at lines 223--226
+ []\T1/phv/b/n/10.9 Spectroscopic[] \T1/phv/m/n/10.9 stud-ies us-ing neu-tron diffrac-
+ []
+
+[2]
+
+Package natbib Warning: Citation `bang17' on page 3 undefined on input line 230.
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 252--255
+\T1/phv/b/n/10.9 grams:[] \T1/phv/m/n/10.9 the power of map-ping out mag-netic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 387.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
-File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
-)
-Underfull \hbox (badness 2173) in paragraph at lines 387--388
- []\T1/phv/m/n/10.9 Most early hf su-per-con-duc-tors were U-
+
+Underfull \hbox (badness 2359) in paragraph at lines 263--264
+\T1/phv/m/sl/10.9 con-duct-ing and nor-mal state prop-er-ties with
  []
 
-contour: Using 16 copies for `high-quality single crystals' on input line 429.
 
-Underfull \hbox (badness 1331) in paragraph at lines 427--435
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+contour: Using 16 copies for `magnetic fluctuation spectrum' on input line 282.
+
+Package natbib Warning: Citation `hayden00' on page 3 undefined on input line 283.
+
+Package hyperref Info: bookmark level for unknown highlight defaults to 0 on input line 283.
+
+Underfull \hbox (badness 4205) in paragraph at lines 332--334
+\T1/phv/b/n/10.9 Objective 3: \T1/phv/m/sl/10.9 Re-solve mag-netic, elec-tronic
+ []
+
+[3 <./Figures/PhaseDias.pdf>]
+contour: Using 16 copies for `opens the door to external collaborations' on input line 358.
+
+Underfull \hbox (badness 1552) in paragraph at lines 358--359
+\T1/phv/m/n/10.9 lish anisotropic forms of or-der, such as un-
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 358--359
+\T1/phv/m/n/10.9 qual-ity sam-ples, such dis-cov-er-ies could eas-
+ []
+
+<Figures/Structures.pdf, id=386, 799.69077pt x 392.19966pt>
+File: Figures/Structures.pdf Graphic file (type pdf)
+<use Figures/Structures.pdf>
+Package pdftex.def Info: Figures/Structures.pdf  used on input line 363.
+(pdftex.def)             Requested size: 237.49245pt x 116.4699pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 373.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 373.
+contour: Using 16 copies for `high-quality single crystals' on input line 416.
+
+Underfull \hbox (badness 1331) in paragraph at lines 414--422
 \T1/phv/m/n/10.9 ves-ti-gate three ma-te-rial sys-tems avail-able as
  []
 
 
-Package natbib Warning: Citation `eaton23' on page 5 undefined on input line 439.
+Package natbib Warning: Citation `eaton23' on page 4 undefined on input line 426.
 
 
-Package natbib Warning: Citation `wu23' on page 5 undefined on input line 439.
+Package natbib Warning: Citation `wu23' on page 4 undefined on input line 426.
 
-[5]
-Underfull \hbox (badness 1033) in paragraph at lines 472--476
+[4 <./Figures/Structures.pdf>]
+Underfull \hbox (badness 1033) in paragraph at lines 475--479
 \T1/phv/m/n/10.9 su-per-con-duc-tors such as UPt$[]$ and URu$[]$Si$[]$.
  []
 
-contour: Using 16 copies for `Pressure-assisted high throughput surveys' on input line 498.
+contour: Using 16 copies for `Pressure-assisted high throughput surveys' on input line 501.
 
-Underfull \hbox (badness 4940) in paragraph at lines 496--500
+Underfull \hbox (badness 4940) in paragraph at lines 499--503
 \T1/phv/m/n/10.9 op-por-tu-ni-ties in tar-geted searches for al-to-
  []
 
 
-Underfull \hbox (badness 6173) in paragraph at lines 496--500
+Underfull \hbox (badness 6173) in paragraph at lines 499--503
 \T1/phv/m/n/10.9 gether new un-con-ven-tional su-per-con-duc-tors.
  []
 
 
-Underfull \hbox (badness 3354) in paragraph at lines 508--511
+Underfull \hbox (badness 3354) in paragraph at lines 511--514
 \T1/phv/b/n/10.9 Objective 8: \T1/phv/m/sl/10.9 Ex-plore new su-per-con-duct-ing
  []
 
 
-Underfull \hbox (badness 2065) in paragraph at lines 508--511
+Underfull \hbox (badness 2065) in paragraph at lines 511--514
 \T1/phv/m/sl/10.9 quan-tum ma-te-ri-als in pressure-assisted high-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--511
+Underfull \hbox (badness 10000) in paragraph at lines 511--514
 
  []
 
 
-Package natbib Warning: Citation `squire23' on page 6 undefined on input line 516.
+Package natbib Warning: Citation `squire23' on page 5 undefined on input line 519.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 516--517
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
  []\T1/phv/b/n/10.9 AC calorime-try into 100kbar range[]
  []
 
+[5]
+Underfull \hbox (badness 3219) in paragraph at lines 526--528
+[]\T1/phv/m/n/10.9 Methodology The pulse-echo mea-sure-ment
+ []
 
-Underfull \hbox (badness 1616) in paragraph at lines 523--528
+
+Underfull \hbox (badness 1616) in paragraph at lines 539--544
 \T1/phv/m/n/10.9 ners com-ple-ments our strengths in ma-te-ri-als
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 542--551
+Underfull \hbox (badness 1173) in paragraph at lines 558--567
  []\T1/phv/b/n/10.9 Management:[] \T1/phv/m/n/10.9 Se-lec-tion of ma-te-ri-als, con-tin-
  []
 
-contour: Using 16 copies for `fusion' on input line 572.
+contour: Using 16 copies for `fusion' on input line 588.
 
-Underfull \hbox (badness 1231) in paragraph at lines 567--577
+Underfull \hbox (badness 1231) in paragraph at lines 583--593
 \T1/phv/m/n/10.9 put-ing, where tra-di-tional elec-tron-ics is reach-
  []
 
 [6]
-contour: Using 16 copies for `Bristol and Oxford' on input line 592.
-contour: Using 16 copies for `Edinburgh' on input line 592.
-contour: Using 16 copies for `Warwick' on input line 592.
-contour: Using 16 copies for `St. Andrews' on input line 592.
-contour: Using 16 copies for `Birmingham' on input line 592.
-contour: Using 16 copies for `RHUL' on input line 592.
+contour: Using 16 copies for `Bristol and Oxford' on input line 608.
+contour: Using 16 copies for `Edinburgh' on input line 608.
+contour: Using 16 copies for `Warwick' on input line 608.
+contour: Using 16 copies for `St. Andrews' on input line 608.
+contour: Using 16 copies for `Birmingham' on input line 608.
+contour: Using 16 copies for `RHUL' on input line 608.
 
-Underfull \hbox (badness 10000) in paragraph at lines 592--606
+Underfull \hbox (badness 10000) in paragraph at lines 608--622
  []\T1/phv/b/n/10.9 Academic ben-e-fi-cia-ries:[] \T1/phv/m/n/10.9 This project
  []
 
 
-Underfull \hbox (badness 7362) in paragraph at lines 592--606
+Underfull \hbox (badness 7362) in paragraph at lines 608--622
 \T1/phv/m/n/10.9 con-tributes to the |   []   |   []   |   []   |   []
  []
 
 
-Underfull \hbox (badness 7397) in paragraph at lines 592--606
+Underfull \hbox (badness 7397) in paragraph at lines 608--622
 \T1/phv/m/n/10.9 cuprate and iron-based su-per-con-duc-tors in
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 592--606
+Underfull \hbox (badness 1635) in paragraph at lines 608--622
 \T1/phv/m/n/10.9 non-centrosymmetric su-per-con-duc-tors, or-ganic
  []
 
 
-Underfull \hbox (badness 2680) in paragraph at lines 592--606
+Underfull \hbox (badness 2680) in paragraph at lines 608--622
 \T1/phv/m/n/10.9 su-per-con-duc-tors and topo-log-i-cal ma-te-ri-als in
  []
 
 
-Underfull \hbox (badness 2229) in paragraph at lines 592--606
+Underfull \hbox (badness 2229) in paragraph at lines 608--622
 |   [][] \T1/phv/m/n/10.9 and |   [][], and Yb-based
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 592--606
+Underfull \hbox (badness 1365) in paragraph at lines 608--622
 []\T1/phv/m/n/10.9 Bris[]-[]tol, [][]Ox[]-[]ford, [][]Kent, [][]Lough[]-[]bor[]-[]ough, [][]Birm[]-[]ing[]-
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 592--606
+Underfull \hbox (badness 2181) in paragraph at lines 608--622
 \T1/phv/m/n/10.9 ma-te-ri-als re-search, lead-ing in-dus-trial na-tions
  []
 
@@ -1366,21 +1345,21 @@ Package natbib Warning: There were undefined citations.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `UCase.out' has not changed.
-(rerunfilecheck)             Checksum: E9E0C7D4B6FAEED096E5313EB28677DE;2521.
+(rerunfilecheck)             Checksum: 757468DF5348882C78A7C7698BF4B962;2525.
  ) 
 Here is how much of TeX's memory you used:
- 30054 strings out of 478287
- 596934 string characters out of 5849290
- 881753 words of memory out of 5000000
- 47635 multiletter control sequences out of 15000+600000
- 536030 words of font info for 87 fonts, out of 8000000 for 9000
+ 30026 strings out of 478287
+ 596543 string characters out of 5849290
+ 881850 words of memory out of 5000000
+ 47610 multiletter control sequences out of 15000+600000
+ 535717 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,9n,103p,1825b,1117s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,9n,103p,1510b,1117s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on UCase.pdf (7 pages, 3341702 bytes).
+Output written on UCase.pdf (7 pages, 3342078 bytes).
 PDF statistics:
- 515 PDF objects out of 1000 (max. 8388607)
- 372 compressed objects within 4 object streams
- 70 named destinations out of 1000 (max. 500000)
+ 518 PDF objects out of 1000 (max. 8388607)
+ 375 compressed objects within 4 object streams
+ 71 named destinations out of 1000 (max. 500000)
  132 words of extra memory for PDF output out of 10000 (max. 10000000)
 
