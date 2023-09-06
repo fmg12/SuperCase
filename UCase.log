@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.2)  6 SEP 2023 15:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.2)  6 SEP 2023 17:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1106,57 +1106,6 @@ Package natbib Warning: Citation `mathur98' on page 2 undefined on input line 84
 
 Package natbib Warning: Citation `friedemann18' on page 2 undefined on input line 84.
 
-<Figures/Structures.pdf, id=198, 799.69077pt x 392.19966pt>
-File: Figures/Structures.pdf Graphic file (type pdf)
-<use Figures/Structures.pdf>
-Package pdftex.def Info: Figures/Structures.pdf  used on input line 104.
-(pdftex.def)             Requested size: 237.49245pt x 116.4699pt.
-contour: Using 16 copies for `key research questions' on input line 114.
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--115
-\T1/phv/m/n/10.9 Our project will ad-dress the fol-low-ing
- []
-
-
-Underfull \hbox (badness 3407) in paragraph at lines 113--115
-|   [][] \T1/phv/m/n/10.9 of wider rel-e-vance in
- []
-
-contour: Using 16 copies for `Hund's coupling' on input line 132.
-
-Package natbib Warning: Citation `baglo22' on page 2 undefined on input line 132.
-
-
-Package natbib Warning: Citation `georges13' on page 2 undefined on input line 144.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
-
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 154.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
-File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
-)
-Underfull \hbox (badness 2173) in paragraph at lines 154--155
- []\T1/phv/m/n/10.9 Most early hf su-per-con-duc-tors were U-
- []
-
-contour: Using 16 copies for `high-quality single crystals' on input line 196.
-
-Underfull \hbox (badness 1331) in paragraph at lines 194--202
-\T1/phv/m/n/10.9 ves-ti-gate three ma-te-rial sys-tems avail-able as
- []
-
-
-Package natbib Warning: Citation `eaton23' on page 2 undefined on input line 206.
-
-
-Package natbib Warning: Citation `wu23' on page 2 undefined on input line 206.
-
-[2]
-Package hyperref Info: bookmark level for unknown highlight defaults to 0 on input line 217.
-
 
 Package siunitx Warning: Unit macro \bar has been deprecated in this release.
 (siunitx)                
@@ -1167,179 +1116,234 @@ Package siunitx Warning: Unit macro \bar has been deprecated in this release.
 (siunitx)                \DeclareSIUnit\bar{bar}
 
 
-Package natbib Warning: Citation `friedemann16' on page 3 undefined on input line 241.
+Package natbib Warning: Citation `friedemann16' on page 2 undefined on input line 112.
 
 
-Package natbib Warning: Citation `semeniuk22' on page 3 undefined on input line 241.
+Package natbib Warning: Citation `semeniuk22' on page 2 undefined on input line 112.
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 241--242
+Underfull \hbox (badness 1448) in paragraph at lines 112--113
 \T1/phv/m/n/10.9 and ther-mo-dy-namic mea-sure-ments un-der ex-
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 259.
+(Font)              <6> on input line 116.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 259.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 116.
 
-Overfull \hbox (918.8881pt too wide) in paragraph at lines 259--297
+Overfull \hbox (918.8881pt too wide) in paragraph at lines 116--154
  []$[]$ 
  []
 
-[3 <./Figures/PhaseDias.pdf> <./Figures/Structures.pdf>]
-Underfull \hbox (badness 3219) in paragraph at lines 308--310
+
+Underfull \hbox (badness 3219) in paragraph at lines 165--167
 []\T1/phv/m/n/10.9 Methodology The pulse-echo mea-sure-ment
  []
 
+[2]
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.9> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 334.
-[4]
-Underfull \hbox (badness 1043) in paragraph at lines 336--337
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 191.
+
+Underfull \hbox (badness 1043) in paragraph at lines 193--194
  []\T1/phv/b/n/10.9 Spectroscopic[] \T1/phv/m/n/10.9 stud-ies us-ing neu-tron diffrac-
  []
 
 
-Package natbib Warning: Citation `bang17' on page 5 undefined on input line 340.
+Package natbib Warning: Citation `bang17' on page 3 undefined on input line 197.
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 362--365
+Underfull \hbox (badness 1122) in paragraph at lines 219--222
 \T1/phv/b/n/10.9 grams:[] \T1/phv/m/n/10.9 the power of map-ping out mag-netic
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 367--368
+[3 <./Figures/PhaseDias.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
 
  []
 
 
-Underfull \hbox (badness 2359) in paragraph at lines 373--374
+Underfull \hbox (badness 2359) in paragraph at lines 230--231
 \T1/phv/m/sl/10.9 con-duct-ing and nor-mal state prop-er-ties with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--374
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
 
  []
 
-contour: Using 16 copies for `magnetic fluctuation spectrum' on input line 443.
+contour: Using 16 copies for `magnetic fluctuation spectrum' on input line 249.
 
-Package natbib Warning: Citation `hayden00' on page 5 undefined on input line 444.
+Package natbib Warning: Citation `hayden00' on page 4 undefined on input line 250.
 
+Package hyperref Info: bookmark level for unknown highlight defaults to 0 on input line 250.
 
-Underfull \hbox (badness 4205) in paragraph at lines 509--511
+Underfull \hbox (badness 4205) in paragraph at lines 299--301
 \T1/phv/b/n/10.9 Objective 3: \T1/phv/m/sl/10.9 Re-solve mag-netic, elec-tronic
  []
 
-contour: Using 16 copies for `opens the door to external collaborations' on input line 535.
+contour: Using 16 copies for `opens the door to external collaborations' on input line 325.
 
-Underfull \hbox (badness 1552) in paragraph at lines 535--536
+Underfull \hbox (badness 1552) in paragraph at lines 325--326
 \T1/phv/m/n/10.9 lish anisotropic forms of or-der, such as un-
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 535--536
+Underfull \hbox (badness 1394) in paragraph at lines 325--326
 \T1/phv/m/n/10.9 qual-ity sam-ples, such dis-cov-er-ies could eas-
  []
 
+<Figures/Structures.pdf, id=369, 799.69077pt x 392.19966pt>
+File: Figures/Structures.pdf Graphic file (type pdf)
+<use Figures/Structures.pdf>
+Package pdftex.def Info: Figures/Structures.pdf  used on input line 330.
+(pdftex.def)             Requested size: 237.49245pt x 116.4699pt.
+contour: Using 16 copies for `key research questions' on input line 340.
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--341
+\T1/phv/m/n/10.9 Our project will ad-dress the fol-low-ing
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 339--341
+|   [][] \T1/phv/m/n/10.9 of wider rel-e-vance in
+ []
+
+contour: Using 16 copies for `Hund's coupling' on input line 351.
+
+Package natbib Warning: Citation `baglo22' on page 4 undefined on input line 351.
+
+[4 <./Figures/Structures.pdf>]
+contour: Using 16 copies for `pressure-field-temperature phase diagram' on input line 354.
+contour: Using 16 copies for `charge density wave' on input line 354.
+
+Underfull \hbox (badness 1540) in paragraph at lines 354--355
+\T1/phv/m/n/10.9 ac-tion can be-come long-ranged? More-over,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 387.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+Underfull \hbox (badness 2173) in paragraph at lines 387--388
+ []\T1/phv/m/n/10.9 Most early hf su-per-con-duc-tors were U-
+ []
+
+contour: Using 16 copies for `high-quality single crystals' on input line 429.
+
+Underfull \hbox (badness 1331) in paragraph at lines 427--435
+\T1/phv/m/n/10.9 ves-ti-gate three ma-te-rial sys-tems avail-able as
+ []
+
+
+Package natbib Warning: Citation `eaton23' on page 5 undefined on input line 439.
+
+
+Package natbib Warning: Citation `wu23' on page 5 undefined on input line 439.
+
 [5]
-Underfull \hbox (badness 1033) in paragraph at lines 546--550
+Underfull \hbox (badness 1033) in paragraph at lines 472--476
 \T1/phv/m/n/10.9 su-per-con-duc-tors such as UPt$[]$ and URu$[]$Si$[]$.
  []
 
-contour: Using 16 copies for `Pressure-assisted high throughput surveys' on input line 572.
+contour: Using 16 copies for `Pressure-assisted high throughput surveys' on input line 498.
 
-Underfull \hbox (badness 4940) in paragraph at lines 570--574
+Underfull \hbox (badness 4940) in paragraph at lines 496--500
 \T1/phv/m/n/10.9 op-por-tu-ni-ties in tar-geted searches for al-to-
  []
 
 
-Underfull \hbox (badness 6173) in paragraph at lines 570--574
+Underfull \hbox (badness 6173) in paragraph at lines 496--500
 \T1/phv/m/n/10.9 gether new un-con-ven-tional su-per-con-duc-tors.
  []
 
 
-Underfull \hbox (badness 3354) in paragraph at lines 582--585
+Underfull \hbox (badness 3354) in paragraph at lines 508--511
 \T1/phv/b/n/10.9 Objective 8: \T1/phv/m/sl/10.9 Ex-plore new su-per-con-duct-ing
  []
 
 
-Underfull \hbox (badness 2065) in paragraph at lines 582--585
+Underfull \hbox (badness 2065) in paragraph at lines 508--511
 \T1/phv/m/sl/10.9 quan-tum ma-te-ri-als in pressure-assisted high-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 582--585
+Underfull \hbox (badness 10000) in paragraph at lines 508--511
 
  []
 
 
-Package natbib Warning: Citation `squire23' on page 6 undefined on input line 590.
+Package natbib Warning: Citation `squire23' on page 6 undefined on input line 516.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 590--591
+Underfull \hbox (badness 10000) in paragraph at lines 516--517
  []\T1/phv/b/n/10.9 AC calorime-try into 100kbar range[]
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 597--602
+Underfull \hbox (badness 1616) in paragraph at lines 523--528
 \T1/phv/m/n/10.9 ners com-ple-ments our strengths in ma-te-ri-als
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 616--625
+Underfull \hbox (badness 1173) in paragraph at lines 542--551
  []\T1/phv/b/n/10.9 Management:[] \T1/phv/m/n/10.9 Se-lec-tion of ma-te-ri-als, con-tin-
  []
 
-contour: Using 16 copies for `fusion' on input line 646.
+contour: Using 16 copies for `fusion' on input line 572.
 
-Underfull \hbox (badness 1231) in paragraph at lines 641--651
+Underfull \hbox (badness 1231) in paragraph at lines 567--577
 \T1/phv/m/n/10.9 put-ing, where tra-di-tional elec-tron-ics is reach-
  []
 
 [6]
-contour: Using 16 copies for `Bristol and Oxford' on input line 666.
-contour: Using 16 copies for `Edinburgh' on input line 666.
-contour: Using 16 copies for `Warwick' on input line 666.
-contour: Using 16 copies for `St. Andrews' on input line 666.
-contour: Using 16 copies for `Birmingham' on input line 666.
-contour: Using 16 copies for `RHUL' on input line 666.
+contour: Using 16 copies for `Bristol and Oxford' on input line 592.
+contour: Using 16 copies for `Edinburgh' on input line 592.
+contour: Using 16 copies for `Warwick' on input line 592.
+contour: Using 16 copies for `St. Andrews' on input line 592.
+contour: Using 16 copies for `Birmingham' on input line 592.
+contour: Using 16 copies for `RHUL' on input line 592.
 
-Underfull \hbox (badness 10000) in paragraph at lines 666--680
+Underfull \hbox (badness 10000) in paragraph at lines 592--606
  []\T1/phv/b/n/10.9 Academic ben-e-fi-cia-ries:[] \T1/phv/m/n/10.9 This project
  []
 
 
-Underfull \hbox (badness 7362) in paragraph at lines 666--680
+Underfull \hbox (badness 7362) in paragraph at lines 592--606
 \T1/phv/m/n/10.9 con-tributes to the |   []   |   []   |   []   |   []
  []
 
 
-Underfull \hbox (badness 7397) in paragraph at lines 666--680
+Underfull \hbox (badness 7397) in paragraph at lines 592--606
 \T1/phv/m/n/10.9 cuprate and iron-based su-per-con-duc-tors in
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 666--680
+Underfull \hbox (badness 1635) in paragraph at lines 592--606
 \T1/phv/m/n/10.9 non-centrosymmetric su-per-con-duc-tors, or-ganic
  []
 
 
-Underfull \hbox (badness 2680) in paragraph at lines 666--680
+Underfull \hbox (badness 2680) in paragraph at lines 592--606
 \T1/phv/m/n/10.9 su-per-con-duc-tors and topo-log-i-cal ma-te-ri-als in
  []
 
 
-Underfull \hbox (badness 2229) in paragraph at lines 666--680
+Underfull \hbox (badness 2229) in paragraph at lines 592--606
 |   [][] \T1/phv/m/n/10.9 and |   [][], and Yb-based
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 666--680
+Underfull \hbox (badness 1365) in paragraph at lines 592--606
 []\T1/phv/m/n/10.9 Bris[]-[]tol, [][]Ox[]-[]ford, [][]Kent, [][]Lough[]-[]bor[]-[]ough, [][]Birm[]-[]ing[]-
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 666--680
+Underfull \hbox (badness 2181) in paragraph at lines 592--606
 \T1/phv/m/n/10.9 ma-te-ri-als re-search, lead-ing in-dus-trial na-tions
  []
 
@@ -1362,21 +1366,21 @@ Package natbib Warning: There were undefined citations.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `UCase.out' has not changed.
-(rerunfilecheck)             Checksum: CFE37D7EDE3B23FFC2A6E556EDFA542E;2525.
+(rerunfilecheck)             Checksum: E9E0C7D4B6FAEED096E5313EB28677DE;2521.
  ) 
 Here is how much of TeX's memory you used:
  30054 strings out of 478287
- 596935 string characters out of 5849290
- 879750 words of memory out of 5000000
+ 596934 string characters out of 5849290
+ 881753 words of memory out of 5000000
  47635 multiletter control sequences out of 15000+600000
  536030 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,9n,103p,1397b,1117s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,9n,103p,1825b,1117s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on UCase.pdf (7 pages, 3339922 bytes).
+Output written on UCase.pdf (7 pages, 3341702 bytes).
 PDF statistics:
- 510 PDF objects out of 1000 (max. 8388607)
- 368 compressed objects within 4 object streams
+ 515 PDF objects out of 1000 (max. 8388607)
+ 372 compressed objects within 4 object streams
  70 named destinations out of 1000 (max. 500000)
  132 words of extra memory for PDF output out of 10000 (max. 10000000)
 

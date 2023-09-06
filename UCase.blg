@@ -12,12 +12,11 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: UCaseNotes.bib
 Database file #2: UProposal.bib
-Warning--I didn't find a database entry for "baglo22"
-Warning--I didn't find a database entry for "georges13"
-Warning--I didn't find a database entry for "eaton23"
-Warning--I didn't find a database entry for "wu23"
 Warning--I didn't find a database entry for "bang17"
 Warning--I didn't find a database entry for "hayden00"
+Warning--I didn't find a database entry for "baglo22"
+Warning--I didn't find a database entry for "eaton23"
+Warning--I didn't find a database entry for "wu23"
 Warning--I didn't find a database entry for "squire23"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
@@ -30,7 +29,7 @@ Control: year (1) truncated
 Control: production of eprint (0) enabled
 You've used 9 entries,
             5862 wiz_defined-function locations,
-            1682 strings with 17817 characters,
+            1681 strings with 17808 characters,
 and the built_in function-call counts, 9478 in all, are:
 = -- 574
 > -- 371
@@ -69,4 +68,4 @@ warning$ -- 0
 while$ -- 26
 width$ -- 0
 write$ -- 124
-(There were 7 warnings)
+(There were 6 warnings)

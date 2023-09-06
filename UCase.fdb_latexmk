@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex UCase"] 1694009513 "UCase.aux" "UCase.bbl" "UCase" 1694009515
+["bibtex UCase"] 1694017772 "UCase.aux" "UCase.bbl" "UCase" 1694017774
   "./apsrevFMG.bst" 1569229238 71715 14d105dea0d260a6eb29aa2ac04b665c ""
-  "UCase.aux" 1694009514 12647 88592137b644c3495f239c8f874ed903 "pdflatex"
-  "UCaseNotes.bib" 1694009514 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "UCase.aux" 1694017774 12639 e3ccfe302d3b0f2f0def0d4545b4f11a "pdflatex"
+  "UCaseNotes.bib" 1694017773 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "UProposal.bib" 1694009511 42786 8e48e7bf52e259d3de8c50e90c9f628f ""
-  "definitions.aux" 1694009514 1447 f44094168b58790e1557b3c00f0f715a "pdflatex"
+  "definitions.aux" 1694017773 1447 f44094168b58790e1557b3c00f0f715a "pdflatex"
   (generated)
   "UCase.bbl"
   "UCase.blg"
-["pdflatex"] 1694009513 "/home/grosche/OneDrive/Proposals/Ucompounds/Application/UCase.tex" "UCase.pdf" "UCase" 1694009515
+["pdflatex"] 1694017772 "/home/grosche/OneDrive/Proposals/Ucompounds/Application/UCase.tex" "UCase.pdf" "UCase" 1694017774
   "/etc/texmf/web2c/texmf.cnf" 1669825462 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/grosche/OneDrive/Proposals/Ucompounds/Application/UCase.tex" 1694001730 3119 11ae09e869a849c130324279f1f962c1 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -242,16 +242,16 @@
   "Figures/PhaseDias.pdf" 1693753740 1660402 509d824d38a62da271d398f4df1a4824 ""
   "Figures/Structures.pdf" 1693751225 471328 f32e55dfbd1bb2cfdbc9255de1212f04 ""
   "Figures/UTe2Overview.pdf" 1693995148 952360 a889c778814c67654ef8a6a729680c0f ""
-  "Science.tex" 1694009511 67104 abf4fc30e866e84d581958dcf5c6d389 ""
-  "UCase.aux" 1694009514 12647 88592137b644c3495f239c8f874ed903 "pdflatex"
-  "UCase.bbl" 1694009513 7660 c223ef08460c1e4cfee1dc25f527efb6 "bibtex UCase"
-  "UCase.out" 1694009514 2525 cfe37d7ede3b23ffc2a6e556edfa542e "pdflatex"
+  "Science.tex" 1694017771 64239 9da52641ec499047b46e19d883ed4b34 ""
+  "UCase.aux" 1694017774 12639 e3ccfe302d3b0f2f0def0d4545b4f11a "pdflatex"
+  "UCase.bbl" 1694017772 7660 c223ef08460c1e4cfee1dc25f527efb6 "bibtex UCase"
+  "UCase.out" 1694017774 2521 e9e0c7d4b6faeed096e5313eb28677de "pdflatex"
   "UCase.tex" 1694001730 3119 11ae09e869a849c130324279f1f962c1 ""
-  "definitions.aux" 1694009514 1447 f44094168b58790e1557b3c00f0f715a "pdflatex"
+  "definitions.aux" 1694017773 1447 f44094168b58790e1557b3c00f0f715a "pdflatex"
   "definitions.tex" 1693753890 3299 e2620882609f76f07b35045544d45919 ""
   "gantt.sty" 1326298084 10971 e942191eb0024633155aa3188b4bbc06 ""
-  "sel.aux" 1694009514 123 7f7b872faff58493fded0652cef8aac5 "pdflatex"
-  "trash.aux" 1694009514 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "sel.aux" 1694017774 123 7f7b872faff58493fded0652cef8aac5 "pdflatex"
+  "trash.aux" 1694017773 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "UCase.aux"
   "UCase.loc"
