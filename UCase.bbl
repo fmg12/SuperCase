@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{10}%
+\begin{thebibliography}{13}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -152,4 +152,33 @@
   {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf
   {\bibinfo {volume} {129}},\ \bibinfo {pages} {046402} (\bibinfo {year}
   {2022})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {O'Neill}\ \emph {et~al.}(2022)\citenamefont
+  {O'Neill}, \citenamefont {Schmehr},\ and\ \citenamefont {Huxley}}]{oneill22}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.~D.}\ \bibnamefont
+  {O'Neill}} \emph {et~al.},\ }\href {\doibase 10.1073/pnas.2210235119}
+  {\bibfield  {journal} {\bibinfo  {journal} {Proc. Natl. Acad. Sci. U.S.A.}\
+  }\textbf {\bibinfo {volume} {119}},\ \bibinfo {pages} {e2210235119} (\bibinfo
+  {year} {2022})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Saxena}\ \emph {et~al.}(2000)\citenamefont {Saxena},
+  \citenamefont {Agarwal}, \citenamefont {Ahilan}, \citenamefont {Grosche},
+  \citenamefont {Haselwimmer}, \citenamefont {Steiner}, \citenamefont {Pugh},
+  \citenamefont {Walker}, \citenamefont {Julian}, \citenamefont {Monthoux},
+  \citenamefont {Lonzarich}, \citenamefont {Huxley}, \citenamefont {Sheikin},
+  \citenamefont {Braithwaite},\ and\ \citenamefont {Flouquet}}]{saxena00}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~S.}\ \bibnamefont
+  {Saxena}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Nature}\ }\textbf {\bibinfo {volume} {406}},\ \bibinfo {pages} {6}
+  (\bibinfo {year} {2000})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Squire}\ \emph {et~al.}(2023)\citenamefont {Squire},
+  \citenamefont {Hodgson}, \citenamefont {Chen}, \citenamefont {Fedoseev},
+  \citenamefont {De~Podesta}, \citenamefont {Weinberger}, \citenamefont
+  {Alireza},\ and\ \citenamefont {Grosche}}]{squire23}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {O.~P.}\ \bibnamefont
+  {Squire}} \emph {et~al.},\ }\href {\doibase 10.1103/PhysRevLett.131.026001}
+  {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf
+  {\bibinfo {volume} {131}},\ \bibinfo {pages} {026001} (\bibinfo {year}
+  {2023})}\BibitemShut {NoStop}%
 \end{thebibliography}%

@@ -12,11 +12,10 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: UCaseNotes.bib
 Database file #2: UProposal.bib
+Warning--I didn't find a database entry for ""
 Warning--I didn't find a database entry for "bang17"
-Warning--I didn't find a database entry for "hayden00"
 Warning--I didn't find a database entry for "eaton23"
 Warning--I didn't find a database entry for "wu23"
-Warning--I didn't find a database entry for "squire23"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
 Control: key (0) 
@@ -26,45 +25,45 @@ Control: production of article title (-1) disabled
 Control: page (0) single
 Control: year (1) truncated
 Control: production of eprint (0) enabled
-You've used 10 entries,
+You've used 13 entries,
             5862 wiz_defined-function locations,
-            1688 strings with 18141 characters,
-and the built_in function-call counts, 10489 in all, are:
-= -- 641
-> -- 405
-< -- 54
-+ -- 145
-- -- 112
-* -- 1618
-:= -- 1174
-add.period$ -- 10
-call.type$ -- 10
-change.case$ -- 40
-chr.to.int$ -- 10
-cite$ -- 10
-duplicate$ -- 917
-empty$ -- 746
-format.name$ -- 178
-if$ -- 2002
+            1709 strings with 19132 characters,
+and the built_in function-call counts, 13620 in all, are:
+= -- 842
+> -- 522
+< -- 69
++ -- 186
+- -- 144
+* -- 2093
+:= -- 1519
+add.period$ -- 13
+call.type$ -- 13
+change.case$ -- 52
+chr.to.int$ -- 13
+cite$ -- 13
+duplicate$ -- 1190
+empty$ -- 977
+format.name$ -- 231
+if$ -- 2618
 int.to.chr$ -- 1
-int.to.str$ -- 18
-missing$ -- 107
-newline$ -- 82
-num.names$ -- 30
-pop$ -- 363
+int.to.str$ -- 21
+missing$ -- 140
+newline$ -- 91
+num.names$ -- 39
+pop$ -- 470
 preamble$ -- 1
-purify$ -- 50
+purify$ -- 65
 quote$ -- 0
-skip$ -- 349
+skip$ -- 460
 stack$ -- 0
-substring$ -- 264
-swap$ -- 835
-text.length$ -- 19
+substring$ -- 360
+swap$ -- 1082
+text.length$ -- 25
 text.prefix$ -- 0
 top$ -- 8
-type$ -- 129
+type$ -- 168
 warning$ -- 0
-while$ -- 29
+while$ -- 38
 width$ -- 0
-write$ -- 132
-(There were 5 warnings)
+write$ -- 156
+(There were 4 warnings)

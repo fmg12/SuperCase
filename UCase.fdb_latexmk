@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex UCase"] 1694023985 "UCase.aux" "UCase.bbl" "UCase" 1694023986
+["bibtex UCase"] 1694110544 "UCase.aux" "UCase.bbl" "UCase" 1694110545
   "./apsrevFMG.bst" 1569229238 71715 14d105dea0d260a6eb29aa2ac04b665c ""
-  "UCase.aux" 1694023986 12750 2361778d6da1307eee549661e9f7718a "pdflatex"
-  "UCaseNotes.bib" 1694023985 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "UProposal.bib" 1694009511 42786 8e48e7bf52e259d3de8c50e90c9f628f ""
-  "definitions.aux" 1694023985 1447 f44094168b58790e1557b3c00f0f715a "pdflatex"
+  "UCase.aux" 1694110545 13126 6a11252349ef2cda1b835c68959938f2 "pdflatex"
+  "UCaseNotes.bib" 1694110545 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "UProposal.bib" 1694108982 43491 dac69ecca7a5fdd767ea954ec61d6a25 ""
+  "definitions.aux" 1694110545 1447 f44094168b58790e1557b3c00f0f715a "pdflatex"
   (generated)
   "UCase.bbl"
   "UCase.blg"
-["pdflatex"] 1694023985 "/home/grosche/OneDrive/Proposals/Ucompounds/Application/UCase.tex" "UCase.pdf" "UCase" 1694023986
+["pdflatex"] 1694110544 "/home/grosche/OneDrive/Proposals/Ucompounds/Application/UCase.tex" "UCase.pdf" "UCase" 1694110545
   "/etc/texmf/web2c/texmf.cnf" 1669825462 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/grosche/OneDrive/Proposals/Ucompounds/Application/UCase.tex" 1694017980 2851 ba08050c790b491487f37f0947380224 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -236,19 +236,20 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1685706516 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1685706562 2800715 541ed892588f91d3e9d0f816c88e28ff ""
+  "Figures/MethodsTable.pdf" 1694107566 47709 075f6b5c358a8d2d4db00fc57d1542c4 ""
   "Figures/PhaseDias.pdf" 1693753740 1660402 509d824d38a62da271d398f4df1a4824 ""
   "Figures/Structures.pdf" 1693751225 471328 f32e55dfbd1bb2cfdbc9255de1212f04 ""
   "Figures/UTe2Overview.pdf" 1693995148 952360 a889c778814c67654ef8a6a729680c0f ""
-  "Science.tex" 1694023982 64834 01d7873bcbc7ccbf4df64776177ec038 ""
-  "UCase.aux" 1694023986 12750 2361778d6da1307eee549661e9f7718a "pdflatex"
-  "UCase.bbl" 1694023985 8257 7508c61e36e4764c5a8b9c5bdb31ef67 "bibtex UCase"
-  "UCase.out" 1694023986 2525 757468df5348882c78a7c7698bf4b962 "pdflatex"
+  "Science.tex" 1694110542 59042 cc32fa1f5557f8d7d151bd47f2664901 ""
+  "UCase.aux" 1694110545 13126 6a11252349ef2cda1b835c68959938f2 "pdflatex"
+  "UCase.bbl" 1694110544 10164 8ae262c627f2dc7d15ac60fea60ae907 "bibtex UCase"
+  "UCase.out" 1694110545 2757 76996f84bb020f56e335f0fb4476cd63 "pdflatex"
   "UCase.tex" 1694017980 2851 ba08050c790b491487f37f0947380224 ""
-  "definitions.aux" 1694023985 1447 f44094168b58790e1557b3c00f0f715a "pdflatex"
+  "definitions.aux" 1694110545 1447 f44094168b58790e1557b3c00f0f715a "pdflatex"
   "definitions.tex" 1694017979 3357 5f4d904e591b03065dd156842a4735f3 ""
   "gantt.sty" 1326298084 10971 e942191eb0024633155aa3188b4bbc06 ""
-  "sel.aux" 1694023986 123 7f7b872faff58493fded0652cef8aac5 "pdflatex"
-  "trash.aux" 1694023985 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "sel.aux" 1694110545 119 6220c746254ec42ad1c6c9ae4b3ade23 "pdflatex"
+  "trash.aux" 1694110544 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "UCase.aux"
   "UCase.loc"
