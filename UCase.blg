@@ -14,8 +14,6 @@ Database file #1: UCaseNotes.bib
 Database file #2: UProposal.bib
 Warning--I didn't find a database entry for ""
 Warning--I didn't find a database entry for "bang17"
-Warning--I didn't find a database entry for "eaton23"
-Warning--I didn't find a database entry for "wu23"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
 Control: key (0) 
@@ -25,45 +23,45 @@ Control: production of article title (-1) disabled
 Control: page (0) single
 Control: year (1) truncated
 Control: production of eprint (0) enabled
-You've used 13 entries,
+You've used 19 entries,
             5862 wiz_defined-function locations,
-            1709 strings with 19132 characters,
-and the built_in function-call counts, 13620 in all, are:
-= -- 842
-> -- 522
-< -- 69
-+ -- 186
-- -- 144
-* -- 2093
-:= -- 1519
-add.period$ -- 13
-call.type$ -- 13
-change.case$ -- 52
-chr.to.int$ -- 13
-cite$ -- 13
-duplicate$ -- 1190
-empty$ -- 977
-format.name$ -- 231
-if$ -- 2618
+            1756 strings with 21202 characters,
+and the built_in function-call counts, 19796 in all, are:
+= -- 1211
+> -- 794
+< -- 94
++ -- 281
+- -- 222
+* -- 3093
+:= -- 2227
+add.period$ -- 22
+call.type$ -- 19
+change.case$ -- 83
+chr.to.int$ -- 25
+cite$ -- 19
+duplicate$ -- 1743
+empty$ -- 1427
+format.name$ -- 347
+if$ -- 3780
 int.to.chr$ -- 1
-int.to.str$ -- 21
-missing$ -- 140
-newline$ -- 91
-num.names$ -- 39
-pop$ -- 470
+int.to.str$ -- 27
+missing$ -- 192
+newline$ -- 109
+num.names$ -- 57
+pop$ -- 663
 preamble$ -- 1
-purify$ -- 65
+purify$ -- 95
 quote$ -- 0
-skip$ -- 460
+skip$ -- 645
 stack$ -- 0
-substring$ -- 360
-swap$ -- 1082
-text.length$ -- 25
+substring$ -- 495
+swap$ -- 1575
+text.length$ -- 38
 text.prefix$ -- 0
 top$ -- 8
-type$ -- 168
+type$ -- 244
 warning$ -- 0
-while$ -- 38
+while$ -- 55
 width$ -- 0
-write$ -- 156
-(There were 4 warnings)
+write$ -- 204
+(There were 2 warnings)

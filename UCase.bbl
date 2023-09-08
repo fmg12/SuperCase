@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{13}%
+\begin{thebibliography}{19}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -133,6 +133,35 @@
   {Norman}},\ }\href {\doibase 10.1126/science.1200181} {\bibfield  {journal}
   {\bibinfo  {journal} {Science}\ }\textbf {\bibinfo {volume} {332}},\ \bibinfo
   {pages} {196} (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Eaton}\ \emph {et~al.}(2023)\citenamefont {Eaton},
+  \citenamefont {Weinberger}, \citenamefont {Popiel}, \citenamefont {Wu},
+  \citenamefont {Hickey}, \citenamefont {Cabala}, \citenamefont {Pospisil},
+  \citenamefont {Prokleska}, \citenamefont {Haidamak}, \citenamefont {Bastien},
+  \citenamefont {Opletal}, \citenamefont {Sakai}, \citenamefont {Haga},
+  \citenamefont {Nowell}, \citenamefont {Benjamin}, \citenamefont {Sechovsky},
+  \citenamefont {Lonzarich}, \citenamefont {Grosche},\ and\ \citenamefont
+  {Valiska}}]{eaton23}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~G.}\ \bibnamefont
+  {Eaton}} \emph {et~al.},\ }\href@noop {} {\enquote {\bibinfo {title}
+  {Quasi-{{2D Fermi}} surface in the anomalous superconductor {{UTe2}}},}\ }
+  (\bibinfo {year} {2023}),\ \Eprint {http://arxiv.org/abs/2302.04758}
+  {arxiv:2302.04758 [cond-mat.supr-con]} \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Wu}\ \emph {et~al.}(2023)\citenamefont {Wu},
+  \citenamefont {Weinberger}, \citenamefont {Chen}, \citenamefont {Cabala},
+  \citenamefont {Chichinadze}, \citenamefont {Shaffer}, \citenamefont
+  {Pospisil}, \citenamefont {Prokleska}, \citenamefont {Haidamak},
+  \citenamefont {Bastien}, \citenamefont {Sechovsky}, \citenamefont {Hickey},
+  \citenamefont {{Mancera-Ugarte}}, \citenamefont {Benjamin}, \citenamefont
+  {Graf}, \citenamefont {Skourski}, \citenamefont {Lonzarich}, \citenamefont
+  {Valiska}, \citenamefont {Grosche},\ and\ \citenamefont {Eaton}}]{wu23}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont {Wu}}
+  \emph {et~al.},\ }\href {http://arxiv.org/abs/2305.19033} {\enquote {\bibinfo
+  {title} {Enhanced triplet superconductivity in next generation ultraclean
+  {{UTe2}}},}\ } (\bibinfo {year} {2023}),\ \Eprint
+  {http://arxiv.org/abs/2305.19033} {arxiv:2305.19033 [cond-mat]} \BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Kotegawa}\ \emph {et~al.}(2011)\citenamefont
   {Kotegawa}, \citenamefont {Taufour}, \citenamefont {Aoki}, \citenamefont
   {Knebel},\ and\ \citenamefont {Flouquet}}]{kotegawa11}%
@@ -152,6 +181,19 @@
   {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf
   {\bibinfo {volume} {129}},\ \bibinfo {pages} {046402} (\bibinfo {year}
   {2022})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Weinberger}\ \emph {et~al.}(2023)\citenamefont
+  {Weinberger}, \citenamefont {Wu}, \citenamefont {Graf}, \citenamefont
+  {Skourski}, \citenamefont {Cabala}, \citenamefont {Pospisil}, \citenamefont
+  {Prokleska}, \citenamefont {Haidamak}, \citenamefont {Bastien}, \citenamefont
+  {Sechovsky}, \citenamefont {Lonzarich}, \citenamefont {Valiska},
+  \citenamefont {Grosche},\ and\ \citenamefont {Eaton}}]{weinberger23}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.~I.}\ \bibnamefont
+  {Weinberger}} \emph {et~al.},\ }\href {http://arxiv.org/abs/2307.00568}
+  {\enquote {\bibinfo {title} {Quantum interference between quasi-{{2D Fermi}}
+  surface sheets in {{UTe2}}},}\ } (\bibinfo {year} {2023}),\ \Eprint
+  {http://arxiv.org/abs/2307.00568} {arxiv:2307.00568 [cond-mat]} \BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {O'Neill}\ \emph {et~al.}(2022)\citenamefont
   {O'Neill}, \citenamefont {Schmehr},\ and\ \citenamefont {Huxley}}]{oneill22}%
   \BibitemOpen
@@ -181,4 +223,31 @@
   {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf
   {\bibinfo {volume} {131}},\ \bibinfo {pages} {026001} (\bibinfo {year}
   {2023})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Shoenberg}(1984)}]{shoenberg84}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Shoenberg}},\ }\href@noop {} {\emph {\bibinfo {title} {Magnetic
+  {{Oscillations}} in {{Metals}}}}},\ \bibinfo {edition} {1st}\ ed.\ (\bibinfo
+  {publisher} {{Cambridge University Press}},\ \bibinfo {address}
+  {{Cambridge}},\ \bibinfo {year} {1984})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Yoshizawa}\ \emph {et~al.}(2000)\citenamefont
+  {Yoshizawa}, \citenamefont {Sakashita}, \citenamefont {Yoshimoto},
+  \citenamefont {Nakamura}, \citenamefont {Bruls}, \citenamefont {L{\"u}thi},
+  \citenamefont {Sugawara},\ and\ \citenamefont {Sato}}]{yoshizawa00}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Yoshizawa}} \emph {et~al.},\ }\href {\doibase 10.1016/S0921-4526(99)01097-2}
+  {\bibfield  {journal} {\bibinfo  {journal} {Physica B: Condensed Matter}\
+  }\textbf {\bibinfo {volume} {281--282}},\ \bibinfo {pages} {740} (\bibinfo
+  {year} {2000})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Suslov}\ \emph {et~al.}(2006)\citenamefont {Suslov},
+  \citenamefont {Williamsen}, \citenamefont {Ketterson}, \citenamefont
+  {Hinks},\ and\ \citenamefont {Sarma}}]{suslov06}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Suslov}} \emph {et~al.},\ }in\ \href {\doibase 10.1063/1.2355121} {\emph
+  {\bibinfo {booktitle} {{{AIP Conference Proceedings}}}}},\ Vol.\ \bibinfo
+  {volume} {850}\ (\bibinfo  {publisher} {{AIP}},\ \bibinfo {address}
+  {{Orlando, Florida (USA)}},\ \bibinfo {year} {2006})\ pp.\ \bibinfo {pages}
+  {1173--1174}\BibitemShut {NoStop}%
 \end{thebibliography}%
