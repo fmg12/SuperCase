@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{19}%
+\begin{thebibliography}{20}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -164,6 +164,28 @@
   \emph {et~al.},\ }\href {http://arxiv.org/abs/2305.19033} {\enquote {\bibinfo
   {title} {Enhanced triplet superconductivity in next generation ultraclean
   {{UTe2}}},}\ } (\bibinfo {year} {2023})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Weinberger}\ \emph {et~al.}(2023)\citenamefont
+  {Weinberger}, \citenamefont {Wu}, \citenamefont {Graf}, \citenamefont
+  {Skourski}, \citenamefont {Cabala}, \citenamefont {Pospisil}, \citenamefont
+  {Prokleska}, \citenamefont {Haidamak}, \citenamefont {Bastien}, \citenamefont
+  {Sechovsky}, \citenamefont {Lonzarich}, \citenamefont {Valiska},
+  \citenamefont {Grosche},\ and\ \citenamefont {Eaton}}]{weinberger23}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.~I.}\ \bibnamefont
+  {Weinberger}} \emph {et~al.},\ }\href {http://arxiv.org/abs/2307.00568}
+  {\enquote {\bibinfo {title} {Quantum interference between quasi-{{2D Fermi}}
+  surface sheets in {{UTe2}}},}\ } (\bibinfo {year} {2023})\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Bergemann}\ \emph {et~al.}(2003)\citenamefont
+  {Bergemann}, \citenamefont {Mackenzie}, \citenamefont {Julian}, \citenamefont
+  {Forsythe},\ and\ \citenamefont {Ohmichi}}]{bergemann03}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Bergemann}} \emph {et~al.},\ }\href
+  {http://www.tandfonline.com/doi/abs/10.1080/00018730310001621737} {\bibfield
+  {journal} {\bibinfo  {journal} {Advances in Physics}\ }\textbf {\bibinfo
+  {volume} {52}},\ \bibinfo {pages} {639} (\bibinfo {year} {2003})}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Kotegawa}\ \emph {et~al.}(2011)\citenamefont
   {Kotegawa}, \citenamefont {Taufour}, \citenamefont {Aoki}, \citenamefont
   {Knebel},\ and\ \citenamefont {Flouquet}}]{kotegawa11}%
@@ -185,27 +207,16 @@
   {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo
   {volume} {129}},\ \bibinfo {pages} {046402} (\bibinfo {year}
   {2022})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Weinberger}\ \emph {et~al.}(2023)\citenamefont
-  {Weinberger}, \citenamefont {Wu}, \citenamefont {Graf}, \citenamefont
-  {Skourski}, \citenamefont {Cabala}, \citenamefont {Pospisil}, \citenamefont
-  {Prokleska}, \citenamefont {Haidamak}, \citenamefont {Bastien}, \citenamefont
-  {Sechovsky}, \citenamefont {Lonzarich}, \citenamefont {Valiska},
-  \citenamefont {Grosche},\ and\ \citenamefont {Eaton}}]{weinberger23}%
+\bibitem [{\citenamefont {Mathur}\ \emph {et~al.}(1998)\citenamefont {Mathur},
+  \citenamefont {Grosche}, \citenamefont {Julian}, \citenamefont {Walker},
+  \citenamefont {Freye}, \citenamefont {Haselwimmer},\ and\ \citenamefont
+  {Lonzarich}}]{mathur98}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.~I.}\ \bibnamefont
-  {Weinberger}} \emph {et~al.},\ }\href {http://arxiv.org/abs/2307.00568}
-  {\enquote {\bibinfo {title} {Quantum interference between quasi-{{2D Fermi}}
-  surface sheets in {{UTe2}}},}\ } (\bibinfo {year} {2023})\BibitemShut
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {N.~D.}\ \bibnamefont
+  {Mathur}} \emph {et~al.},\ }\href {http://www.nature.com/articles/27838}
+  {\bibfield  {journal} {\bibinfo  {journal} {Nature}\ }\textbf {\bibinfo
+  {volume} {394}},\ \bibinfo {pages} {39} (\bibinfo {year} {1998})}\BibitemShut
   {NoStop}%
-\bibitem [{\citenamefont {O'Neill}\ \emph {et~al.}(2022)\citenamefont
-  {O'Neill}, \citenamefont {Schmehr},\ and\ \citenamefont {Huxley}}]{oneill22}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.~D.}\ \bibnamefont
-  {O'Neill}} \emph {et~al.},\ }\href
-  {https://pnas.org/doi/10.1073/pnas.2210235119} {\bibfield  {journal}
-  {\bibinfo  {journal} {Proc. Natl. Acad. Sci. U.S.A.}\ }\textbf {\bibinfo
-  {volume} {119}},\ \bibinfo {pages} {e2210235119} (\bibinfo {year}
-  {2022})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Saxena}\ \emph {et~al.}(2000)\citenamefont {Saxena},
   \citenamefont {Agarwal}, \citenamefont {Ahilan}, \citenamefont {Grosche},
   \citenamefont {Haselwimmer}, \citenamefont {Steiner}, \citenamefont {Pugh},
