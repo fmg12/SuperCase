@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.2)  8 SEP 2023 19:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.2)  12 SEP 2023 12:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1196,176 +1196,173 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package natbib Warning: Citation `bang17' on page 4 undefined on input line 230.
 
+[4]
+Underfull \hbox (badness 1062) in paragraph at lines 275--276
+[]\T1/phv/m/n/10.9 The phase di-a-gram of UTe2 - as re-vealed
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
 
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 263--265
+Underfull \hbox (badness 1565) in paragraph at lines 297--299
 \T1/phv/m/sl/10.9 state prop-er-ties in all four ma-te-rial sys-tems.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--265
+Underfull \hbox (badness 10000) in paragraph at lines 297--299
 
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
 
  []
 
-Package hyperref Info: bookmark level for unknown highlight defaults to 0 on input line 276.
+Package hyperref Info: bookmark level for unknown highlight defaults to 0 on input line 310.
 
-Overfull \hbox (14.27112pt too wide) in paragraph at lines 276--280
+Overfull \hbox (14.27112pt too wide) in paragraph at lines 310--314
 [][][][][][][][][]
  []
 
-contour: Using 16 copies for `opens the door to external collaborations' on input line 282.
+contour: Using 16 copies for `opens the door to external collaborations' on input line 316.
 
-Underfull \hbox (badness 1552) in paragraph at lines 282--283
+Underfull \hbox (badness 1552) in paragraph at lines 316--317
 \T1/phv/m/n/10.9 lish anisotropic forms of or-der, such as un-
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 282--283
+Underfull \hbox (badness 1394) in paragraph at lines 316--317
 \T1/phv/m/n/10.9 qual-ity sam-ples, such dis-cov-er-ies could eas-
  []
 
-<Figures/Structures.pdf, id=439, 799.69077pt x 392.19966pt>
+[5]
+<Figures/Structures.pdf, id=444, 799.69077pt x 392.19966pt>
 File: Figures/Structures.pdf Graphic file (type pdf)
 <use Figures/Structures.pdf>
-Package pdftex.def Info: Figures/Structures.pdf  used on input line 287.
+Package pdftex.def Info: Figures/Structures.pdf  used on input line 321.
 (pdftex.def)             Requested size: 237.49245pt x 116.4699pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 297.
+(Font)              <6> on input line 331.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 297.
-contour: Using 16 copies for `high-quality single crystals' on input line 340.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 331.
 
-Underfull \hbox (badness 1331) in paragraph at lines 338--346
+contour: Using 16 copies for `high-quality single crystals' on input line 374.
+
+Underfull \hbox (badness 1331) in paragraph at lines 372--380
 \T1/phv/m/n/10.9 ves-ti-gate three ma-te-rial sys-tems avail-able as
  []
 
-[5 <./Figures/Structures.pdf>]
-Underfull \hbox (badness 1033) in paragraph at lines 385--389
+[6 <./Figures/Structures.pdf>]
+Underfull \hbox (badness 1033) in paragraph at lines 419--423
 \T1/phv/m/n/10.9 su-per-con-duc-tors such as UPt$[]$ and URu$[]$Si$[]$.
  []
 
-contour: Using 16 copies for `Pressure-assisted high throughput surveys' on input line 409.
+contour: Using 16 copies for `Pressure-assisted high throughput surveys' on input line 443.
 
-Underfull \hbox (badness 4940) in paragraph at lines 407--411
+Underfull \hbox (badness 4940) in paragraph at lines 441--445
 \T1/phv/m/n/10.9 op-por-tu-ni-ties in tar-geted searches for al-to-
  []
 
 
-Underfull \hbox (badness 6173) in paragraph at lines 407--411
+Underfull \hbox (badness 6173) in paragraph at lines 441--445
 \T1/phv/m/n/10.9 gether new un-con-ven-tional su-per-con-duc-tors.
  []
 
 
-Underfull \hbox (badness 3354) in paragraph at lines 419--422
+Underfull \hbox (badness 3354) in paragraph at lines 453--456
 \T1/phv/b/n/10.9 Objective 8: \T1/phv/m/sl/10.9 Ex-plore new su-per-con-duct-ing
  []
 
 
-Underfull \hbox (badness 2065) in paragraph at lines 419--422
+Underfull \hbox (badness 2065) in paragraph at lines 453--456
 \T1/phv/m/sl/10.9 quan-tum ma-te-ri-als in pressure-assisted high-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--422
+Underfull \hbox (badness 10000) in paragraph at lines 453--456
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 427--428
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
  []\T1/phv/b/n/10.9 AC calorime-try into 100kbar range[]
  []
 
-[6]
-Underfull \hbox (badness 2343) in paragraph at lines 438--439
+
+Underfull \hbox (badness 2343) in paragraph at lines 472--473
  []\T1/phv/b/n/10.9 Methodology:[] \T1/phv/m/n/10.9 The pulse-echo mea-sure-ment
  []
 
-
-Underfull \hbox (badness 1616) in paragraph at lines 450--455
+[7]
+Underfull \hbox (badness 1616) in paragraph at lines 484--489
 \T1/phv/m/n/10.9 ners com-ple-ments our strengths in ma-te-ri-als
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 469--478
+Underfull \hbox (badness 1173) in paragraph at lines 503--512
  []\T1/phv/b/n/10.9 Management:[] \T1/phv/m/n/10.9 Se-lec-tion of ma-te-ri-als, con-tin-
  []
 
-contour: Using 16 copies for `fusion research' on input line 499.
+contour: Using 16 copies for `fusion research' on input line 533.
 
-Underfull \hbox (badness 1231) in paragraph at lines 494--504
+Underfull \hbox (badness 1231) in paragraph at lines 528--538
 \T1/phv/m/n/10.9 put-ing, where tra-di-tional elec-tron-ics is reach-
  []
 
-contour: Using 16 copies for `Bristol and Oxford' on input line 519.
-contour: Using 16 copies for `Edinburgh' on input line 519.
-contour: Using 16 copies for `Warwick' on input line 519.
-contour: Using 16 copies for `St. Andrews' on input line 519.
-contour: Using 16 copies for `Birmingham' on input line 519.
-contour: Using 16 copies for `RHUL' on input line 519.
+contour: Using 16 copies for `Bristol and Oxford' on input line 553.
+contour: Using 16 copies for `Edinburgh' on input line 553.
+contour: Using 16 copies for `Warwick' on input line 553.
+contour: Using 16 copies for `St. Andrews' on input line 553.
+contour: Using 16 copies for `Birmingham' on input line 553.
+contour: Using 16 copies for `RHUL' on input line 553.
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--533
+Underfull \hbox (badness 10000) in paragraph at lines 553--567
  []\T1/phv/b/n/10.9 Academic ben-e-fi-cia-ries:[] \T1/phv/m/n/10.9 This project
  []
 
 
-Underfull \hbox (badness 7362) in paragraph at lines 519--533
+Underfull \hbox (badness 7362) in paragraph at lines 553--567
 \T1/phv/m/n/10.9 con-tributes to the |   []   |   []   |   []   |   []
  []
 
 
-Underfull \hbox (badness 7397) in paragraph at lines 519--533
+Underfull \hbox (badness 7397) in paragraph at lines 553--567
 \T1/phv/m/n/10.9 cuprate and iron-based su-per-con-duc-tors in
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 519--533
+Underfull \hbox (badness 1635) in paragraph at lines 553--567
 \T1/phv/m/n/10.9 non-centrosymmetric su-per-con-duc-tors, or-ganic
  []
 
 
-Underfull \hbox (badness 2680) in paragraph at lines 519--533
+Underfull \hbox (badness 2680) in paragraph at lines 553--567
 \T1/phv/m/n/10.9 su-per-con-duc-tors and topo-log-i-cal ma-te-ri-als in
  []
 
 
-Underfull \hbox (badness 2229) in paragraph at lines 519--533
+Underfull \hbox (badness 2229) in paragraph at lines 553--567
 |   [][] \T1/phv/m/n/10.9 and |   [][], and Yb-based
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 519--533
+Underfull \hbox (badness 1365) in paragraph at lines 553--567
 []\T1/phv/m/n/10.9 Bris[]-[]tol, [][]Ox[]-[]ford, [][]Kent, [][]Lough[]-[]bor[]-[]ough, [][]Birm[]-[]ing[]-
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 519--533
+Underfull \hbox (badness 2181) in paragraph at lines 553--567
 \T1/phv/m/n/10.9 ma-te-ri-als re-search, lead-ing in-dus-trial na-tions
  []
 
-[7]) (./UCase.bbl
+) (./UCase.bbl
 
 LaTeX Warning: Reference `LastBibItem' on page 8 undefined on input line 9.
 
-
-Underfull \hbox (badness 2781) in paragraph at lines 146--157
- []\T1/phv/m/n/9 A. G. Eaton \T1/phv/m/sl/9 et al.\T1/phv/m/n/9 , ``Quasi-2D Fermi sur-face in
- []
-
-
-Underfull \hbox (badness 7030) in paragraph at lines 146--157
- \T1/phv/m/n/9 the anoma-lous su-per-con-duc-tor UTe2,''  (2023),
- []
-
-) [8]
+[8]) [9]
 
 Package natbib Warning: There were undefined citations.
 
@@ -1383,18 +1380,18 @@ Package rerunfilecheck Info: File `UCase.out' has not changed.
 (rerunfilecheck)             Checksum: 544045B65C2DBFC2FC242F98F27817A8;3105.
  ) 
 Here is how much of TeX's memory you used:
- 30075 strings out of 478287
- 597401 string characters out of 5849290
- 893360 words of memory out of 5000000
- 47651 multiletter control sequences out of 15000+600000
+ 30077 strings out of 478287
+ 597417 string characters out of 5849290
+ 894360 words of memory out of 5000000
+ 47652 multiletter control sequences out of 15000+600000
  535717 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,9n,103p,1935b,1117s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on UCase.pdf (8 pages, 3414150 bytes).
+Output written on UCase.pdf (9 pages, 3418855 bytes).
 PDF statistics:
  595 PDF objects out of 1000 (max. 8388607)
- 431 compressed objects within 5 object streams
- 78 named destinations out of 1000 (max. 500000)
+ 430 compressed objects within 5 object streams
+ 79 named destinations out of 1000 (max. 500000)
  137 words of extra memory for PDF output out of 10000 (max. 10000000)
 

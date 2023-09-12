@@ -58,20 +58,21 @@
   {Knyazev}, \citenamefont {Tkacz},\ and\ \citenamefont {Eremets}}]{drozdov19}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~P.}\ \bibnamefont
-  {Drozdov}} \emph {et~al.},\ }\href {\doibase 10.1038/s41586-019-1201-8}
-  {\bibfield  {journal} {\bibinfo  {journal} {Nature}\ }\textbf {\bibinfo
-  {volume} {569}},\ \bibinfo {pages} {528} (\bibinfo {year}
-  {2019})}\BibitemShut {NoStop}%
+  {Drozdov}} \emph {et~al.},\ }\href
+  {http://www.nature.com/articles/s41586-019-1201-8} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nature}\ }\textbf {\bibinfo {volume} {569}},\ \bibinfo
+  {pages} {528} (\bibinfo {year} {2019})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Somayazulu}\ \emph {et~al.}(2019)\citenamefont
   {Somayazulu}, \citenamefont {Ahart}, \citenamefont {Mishra}, \citenamefont
   {Geballe}, \citenamefont {Baldini}, \citenamefont {Meng}, \citenamefont
   {Struzhkin},\ and\ \citenamefont {Hemley}}]{somayazulu19}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Somayazulu}} \emph {et~al.},\ }\href {\doibase
-  10.1103/PhysRevLett.122.027001} {\bibfield  {journal} {\bibinfo  {journal}
-  {Physical Review Letters}\ }\textbf {\bibinfo {volume} {122}},\ \bibinfo
-  {pages} {027001} (\bibinfo {year} {2019})}\BibitemShut {NoStop}%
+  {Somayazulu}} \emph {et~al.},\ }\href
+  {https://link.aps.org/doi/10.1103/PhysRevLett.122.027001} {\bibfield
+  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo
+  {volume} {122}},\ \bibinfo {pages} {027001} (\bibinfo {year}
+  {2019})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Sun}\ \emph {et~al.}(2023)\citenamefont {Sun},
   \citenamefont {Huo}, \citenamefont {Hu}, \citenamefont {Li}, \citenamefont
   {Liu}, \citenamefont {Han}, \citenamefont {Tang}, \citenamefont {Mao},
@@ -80,9 +81,10 @@
   {Wang}}]{sun23}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
-  {Sun}} \emph {et~al.},\ }\href {\doibase 10.1038/s41586-023-06408-7}
-  {\bibfield  {journal} {\bibinfo  {journal} {Nature}\ } (\bibinfo {year}
-  {2023}),\ 10.1038/s41586-023-06408-7}\BibitemShut {NoStop}%
+  {Sun}} \emph {et~al.},\ }\href
+  {https://www.nature.com/articles/s41586-023-06408-7} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nature}\ } (\bibinfo {year} {2023})}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Khim}\ \emph {et~al.}(2021)\citenamefont {Khim},
   \citenamefont {Landaeta}, \citenamefont {Banda}, \citenamefont {Bannor},
   \citenamefont {Brando}, \citenamefont {Brydon}, \citenamefont {Hafner},
@@ -103,10 +105,11 @@
   {Flouquet}}]{aoki19}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
-  {Aoki}} \emph {et~al.},\ }\href {\doibase 10.7566/JPSJ.88.043702} {\bibfield
-  {journal} {\bibinfo  {journal} {J. Phys. Soc. Jpn.}\ }\textbf {\bibinfo
-  {volume} {88}},\ \bibinfo {pages} {043702} (\bibinfo {year}
-  {2019})}\BibitemShut {NoStop}%
+  {Aoki}} \emph {et~al.},\ }\href
+  {https://journals.jps.jp/doi/10.7566/JPSJ.88.043702} {\bibfield  {journal}
+  {\bibinfo  {journal} {J. Phys. Soc. Jpn.}\ }\textbf {\bibinfo {volume}
+  {88}},\ \bibinfo {pages} {043702} (\bibinfo {year} {2019})}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Ran}\ \emph {et~al.}(2019)\citenamefont {Ran},
   \citenamefont {Eckberg}, \citenamefont {Ding}, \citenamefont {Furukawa},
   \citenamefont {Metz}, \citenamefont {Saha}, \citenamefont {Liu},
@@ -114,25 +117,27 @@
   \citenamefont {Butch}}]{ran19}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
-  {Ran}} \emph {et~al.},\ }\href {\doibase 10.1126/science.aav8645} {\bibfield
-  {journal} {\bibinfo  {journal} {Science}\ }\textbf {\bibinfo {volume}
-  {365}},\ \bibinfo {pages} {684} (\bibinfo {year} {2019})}\BibitemShut
-  {NoStop}%
+  {Ran}} \emph {et~al.},\ }\href
+  {https://www.science.org/doi/10.1126/science.aav8645} {\bibfield  {journal}
+  {\bibinfo  {journal} {Science}\ }\textbf {\bibinfo {volume} {365}},\ \bibinfo
+  {pages} {684} (\bibinfo {year} {2019})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Monthoux}\ \emph {et~al.}(2007)\citenamefont
   {Monthoux}, \citenamefont {Pines},\ and\ \citenamefont
   {Lonzarich}}]{monthoux07}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
-  {Monthoux}} \emph {et~al.},\ }\href {\doibase 10.1038/nature06480} {\bibfield
-   {journal} {\bibinfo  {journal} {Nature}\ }\textbf {\bibinfo {volume}
-  {450}},\ \bibinfo {pages} {1177} (\bibinfo {year} {2007})}\BibitemShut
-  {NoStop}%
+  {Monthoux}} \emph {et~al.},\ }\href
+  {http://www.nature.com/articles/nature06480} {\bibfield  {journal} {\bibinfo
+  {journal} {Nature}\ }\textbf {\bibinfo {volume} {450}},\ \bibinfo {pages}
+  {1177} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Norman}(2011)}]{norman11}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~R.}\ \bibnamefont
-  {Norman}},\ }\href {\doibase 10.1126/science.1200181} {\bibfield  {journal}
-  {\bibinfo  {journal} {Science}\ }\textbf {\bibinfo {volume} {332}},\ \bibinfo
-  {pages} {196} (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
+  {Norman}},\ }\href
+  {http://www.sciencemag.org/cgi/doi/10.1126/science.1200181} {\bibfield
+  {journal} {\bibinfo  {journal} {Science}\ }\textbf {\bibinfo {volume}
+  {332}},\ \bibinfo {pages} {196} (\bibinfo {year} {2011})}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Eaton}\ \emph {et~al.}(2023)\citenamefont {Eaton},
   \citenamefont {Weinberger}, \citenamefont {Popiel}, \citenamefont {Wu},
   \citenamefont {Hickey}, \citenamefont {Cabala}, \citenamefont {Pospisil},
@@ -145,8 +150,7 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~G.}\ \bibnamefont
   {Eaton}} \emph {et~al.},\ }\href@noop {} {\enquote {\bibinfo {title}
   {Quasi-{{2D Fermi}} surface in the anomalous superconductor {{UTe2}}},}\ }
-  (\bibinfo {year} {2023}),\ \Eprint {http://arxiv.org/abs/2302.04758}
-  {arxiv:2302.04758 [cond-mat.supr-con]} \BibitemShut {NoStop}%
+  (\bibinfo {year} {2023})\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Wu}\ \emph {et~al.}(2023)\citenamefont {Wu},
   \citenamefont {Weinberger}, \citenamefont {Chen}, \citenamefont {Cabala},
   \citenamefont {Chichinadze}, \citenamefont {Shaffer}, \citenamefont
@@ -159,27 +163,27 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont {Wu}}
   \emph {et~al.},\ }\href {http://arxiv.org/abs/2305.19033} {\enquote {\bibinfo
   {title} {Enhanced triplet superconductivity in next generation ultraclean
-  {{UTe2}}},}\ } (\bibinfo {year} {2023}),\ \Eprint
-  {http://arxiv.org/abs/2305.19033} {arxiv:2305.19033 [cond-mat]} \BibitemShut
-  {NoStop}%
+  {{UTe2}}},}\ } (\bibinfo {year} {2023})\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Kotegawa}\ \emph {et~al.}(2011)\citenamefont
   {Kotegawa}, \citenamefont {Taufour}, \citenamefont {Aoki}, \citenamefont
   {Knebel},\ and\ \citenamefont {Flouquet}}]{kotegawa11}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
-  {Kotegawa}} \emph {et~al.},\ }\href {\doibase 10.1143/JPSJ.80.083703}
-  {\bibfield  {journal} {\bibinfo  {journal} {J. Phys. Soc. Jpn.}\ }\textbf
-  {\bibinfo {volume} {80}},\ \bibinfo {pages} {083703} (\bibinfo {year}
-  {2011})}\BibitemShut {NoStop}%
+  {Kotegawa}} \emph {et~al.},\ }\href
+  {https://journals.jps.jp/doi/10.1143/JPSJ.80.083703} {\bibfield  {journal}
+  {\bibinfo  {journal} {J. Phys. Soc. Jpn.}\ }\textbf {\bibinfo {volume}
+  {80}},\ \bibinfo {pages} {083703} (\bibinfo {year} {2011})}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Baglo}\ \emph {et~al.}(2022)\citenamefont {Baglo},
   \citenamefont {Chen}, \citenamefont {Murphy}, \citenamefont {Leenen},
   \citenamefont {McCollam}, \citenamefont {Sutherland},\ and\ \citenamefont
   {Grosche}}]{baglo22a}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Baglo}} \emph {et~al.},\ }\href {\doibase 10.1103/PhysRevLett.129.046402}
-  {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf
-  {\bibinfo {volume} {129}},\ \bibinfo {pages} {046402} (\bibinfo {year}
+  {Baglo}} \emph {et~al.},\ }\href
+  {https://link.aps.org/doi/10.1103/PhysRevLett.129.046402} {\bibfield
+  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo
+  {volume} {129}},\ \bibinfo {pages} {046402} (\bibinfo {year}
   {2022})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Weinberger}\ \emph {et~al.}(2023)\citenamefont
   {Weinberger}, \citenamefont {Wu}, \citenamefont {Graf}, \citenamefont
@@ -191,17 +195,17 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.~I.}\ \bibnamefont
   {Weinberger}} \emph {et~al.},\ }\href {http://arxiv.org/abs/2307.00568}
   {\enquote {\bibinfo {title} {Quantum interference between quasi-{{2D Fermi}}
-  surface sheets in {{UTe2}}},}\ } (\bibinfo {year} {2023}),\ \Eprint
-  {http://arxiv.org/abs/2307.00568} {arxiv:2307.00568 [cond-mat]} \BibitemShut
+  surface sheets in {{UTe2}}},}\ } (\bibinfo {year} {2023})\BibitemShut
   {NoStop}%
 \bibitem [{\citenamefont {O'Neill}\ \emph {et~al.}(2022)\citenamefont
   {O'Neill}, \citenamefont {Schmehr},\ and\ \citenamefont {Huxley}}]{oneill22}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.~D.}\ \bibnamefont
-  {O'Neill}} \emph {et~al.},\ }\href {\doibase 10.1073/pnas.2210235119}
-  {\bibfield  {journal} {\bibinfo  {journal} {Proc. Natl. Acad. Sci. U.S.A.}\
-  }\textbf {\bibinfo {volume} {119}},\ \bibinfo {pages} {e2210235119} (\bibinfo
-  {year} {2022})}\BibitemShut {NoStop}%
+  {O'Neill}} \emph {et~al.},\ }\href
+  {https://pnas.org/doi/10.1073/pnas.2210235119} {\bibfield  {journal}
+  {\bibinfo  {journal} {Proc. Natl. Acad. Sci. U.S.A.}\ }\textbf {\bibinfo
+  {volume} {119}},\ \bibinfo {pages} {e2210235119} (\bibinfo {year}
+  {2022})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Saxena}\ \emph {et~al.}(2000)\citenamefont {Saxena},
   \citenamefont {Agarwal}, \citenamefont {Ahilan}, \citenamefont {Grosche},
   \citenamefont {Haselwimmer}, \citenamefont {Steiner}, \citenamefont {Pugh},
@@ -219,9 +223,10 @@
   {Alireza},\ and\ \citenamefont {Grosche}}]{squire23}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {O.~P.}\ \bibnamefont
-  {Squire}} \emph {et~al.},\ }\href {\doibase 10.1103/PhysRevLett.131.026001}
-  {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf
-  {\bibinfo {volume} {131}},\ \bibinfo {pages} {026001} (\bibinfo {year}
+  {Squire}} \emph {et~al.},\ }\href
+  {https://link.aps.org/doi/10.1103/PhysRevLett.131.026001} {\bibfield
+  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo
+  {volume} {131}},\ \bibinfo {pages} {026001} (\bibinfo {year}
   {2023})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Shoenberg}(1984)}]{shoenberg84}%
   \BibitemOpen
@@ -236,18 +241,20 @@
   \citenamefont {Sugawara},\ and\ \citenamefont {Sato}}]{yoshizawa00}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Yoshizawa}} \emph {et~al.},\ }\href {\doibase 10.1016/S0921-4526(99)01097-2}
-  {\bibfield  {journal} {\bibinfo  {journal} {Physica B: Condensed Matter}\
-  }\textbf {\bibinfo {volume} {281--282}},\ \bibinfo {pages} {740} (\bibinfo
-  {year} {2000})}\BibitemShut {NoStop}%
+  {Yoshizawa}} \emph {et~al.},\ }\href
+  {https://linkinghub.elsevier.com/retrieve/pii/S0921452699010972} {\bibfield
+  {journal} {\bibinfo  {journal} {Physica B: Condensed Matter}\ }\textbf
+  {\bibinfo {volume} {281--282}},\ \bibinfo {pages} {740} (\bibinfo {year}
+  {2000})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Suslov}\ \emph {et~al.}(2006)\citenamefont {Suslov},
   \citenamefont {Williamsen}, \citenamefont {Ketterson}, \citenamefont
   {Hinks},\ and\ \citenamefont {Sarma}}]{suslov06}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
-  {Suslov}} \emph {et~al.},\ }in\ \href {\doibase 10.1063/1.2355121} {\emph
-  {\bibinfo {booktitle} {{{AIP Conference Proceedings}}}}},\ Vol.\ \bibinfo
-  {volume} {850}\ (\bibinfo  {publisher} {{AIP}},\ \bibinfo {address}
-  {{Orlando, Florida (USA)}},\ \bibinfo {year} {2006})\ pp.\ \bibinfo {pages}
+  {Suslov}} \emph {et~al.},\ }in\ \href
+  {https://pubs.aip.org/aip/acp/article/850/1/1173-1174/1009634} {\emph
+  {\bibinfo {booktitle} {{{AIP Conf}}. {{Proc}}.}}},\ Vol.\ \bibinfo {volume}
+  {850}\ (\bibinfo  {publisher} {{AIP}},\ \bibinfo {address} {{Orlando, Florida
+  (USA)}},\ \bibinfo {year} {2006})\ pp.\ \bibinfo {pages}
   {1173--1174}\BibitemShut {NoStop}%
 \end{thebibliography}%
