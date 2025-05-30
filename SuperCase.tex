@@ -1,0 +1,88 @@
+\documentclass[twocolumn,prl,a4paper,tightenlines,10pt]{revtex4-2}
+
+\usepackage{graphicx,mdwlist,color,wrapfig,longtable,tabularx,eurosym,gantt,soul,contour,dcolumn,epsfig,multibib,mdframed,helvet,siunitx}
+%\usepackage{hyperref}
+\usepackage[left=1.77cm,right=1.77cm,top=1.8cm,bottom=1.8cm]{geometry}
+\usepackage[normalem]{ulem}
+\usepackage{changes}
+\usepackage{hyperref,setspace}
+
+\def\figureautorefname{Fig.~}
+\setcounter{secnumdepth}{3}
+
+\newcites{sel}{Selected publications}
+\newcites{trash}{foo} % auxiliary cite command
+\newcommand\mycite[2]{\citetrash{#1,#2}\nocite{#1}\nocitesel{#2}} % new cite command
+
+% Helvet font throughout
+\usepackage[T1]{fontenc}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[italic]{mathastext}
+% 'isomath' sets upper case greek letters italic in accordance with 
+% the International Standard ISO 80000-2
+\usepackage{isomath}
+
+\makeatletter
+     \renewcommand\@make@capt@title[2]{%
+      \@ifx@empty\float@link{\@firstofone}{\expandafter\href\expandafter{\float@link}}%
+       \sf{\textbf{#1}}\@caption@fignum@sep#2\quad}%
+\makeatother
+
+ \newcommand{\white}[1]{{\textcolor{white}{#1}}}
+
+\hypersetup{
+  colorlinks   = true, %Colours links instead of ugly boxes
+  urlcolor     = white!30!black, %Colour for external hyperlinks
+  linkcolor    = white!30!black, %Colour of internal links
+  citecolor   = white!30!black %Colour of citations
+}
+
+%\renewcommand{\baselinestretch}{1}
+\linespread{0.97}
+
+\begin{document}
+\include{definitions.tex}
+
+\newcommand{\Figures}{/Users/fmg12/Documents/data/Figures}
+%\newcommand{\Figures}{/Users/grosche/Documents/data/Figures}
+%\newcommand{\Figures}{/home/grosche/data/Figures}
+
+
+%\title{\em Correlated electron systems for low temperature cooling}
+%\title{\em Origins of mass renormalisation and unconventional superconductivity in transition metal compounds}
+%\title{\em Resolving normal and superconducting states in ultra-pure crystals of Fe- and Cu-based superconductors}
+\title {\textit{Nature and origin of unconventional superconductivity in ultra-clean UTe$_2$}} % Unconventional superconducting and normal states \\ in transition metal compounds}}
+
+\author {F. M. Grosche, A. Huxley, A. G. Eaton, S. S. Saxena, P. Wahl, A. Hermanns, G. G. Lonzarich
+\\ \vspace{0.2cm}
+ % {\em Cavendish Laboratory, University of Cambridge }\\
+  % {\em $^*$???} \\
+%  Part 1: Track record}
+Case for support}
+%\date{\today} 
+
+\begin{abstract}
+\vspace{-0.8cm} 
+\noindent 
+
+\end{abstract}
+\setlength{\columnsep}{2em}
+\fontsize{10.9pt}{12.1pt}\selectfont
+\maketitle
+%\input{TrackRecord.tex}
+%\clearpage
+
+%\fontsize{10.87pt}{12.1pt}\selectfont
+\setlength{\columnsep}{2em}
+\input{Science.tex}
+\vspace{-0.5em}
+\bibliographystyle{apsrevFMG}
+\bibliography{UProposal}
+\clearpage
+%
+%\input{GANTT}
+
+%NOTE: potential improvements:
+% explain all abbreviations (SEM, TEM, FM, AFM etc.)
+
+\end{document} 
